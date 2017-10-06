@@ -16,7 +16,7 @@ This Repository is meant for everyone to create code and learn to contribute to 
 
 ## Contribution Guide
 
-Please Read the [CONTRIBUTING.md](CONTRIBUTING.md) file for instructions of contributing and CODE OF CONDUCT
+Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions of contributing and CODE OF CONDUCT
 
 ### Directory Structure
 
