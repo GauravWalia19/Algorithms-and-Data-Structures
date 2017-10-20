@@ -1,0 +1,49 @@
+class BinaryError(Exception):
+    def __str__(self):
+        return "Not a valid binary number"
+
+class DecimalError(Exception):
+    def __str__(self):
+        return "Not a valid decimal number"
+
+def bin2dec(input_string):
+    num = 0
+    for character in input_string:
+        if character == '0':
+            num = num * 2
+        elif character == '1':
+            num = num * 2 + 1
+        else:
+            #This will call for error and ask user to try again
+            raise BinaryError()
+    return num
+
+def dec2bin(input_string):
+    try:
+        input_string = int(input_string)
+        num = bin(input_string)
+    except:
+        #This will call for error and ask user to try again
+        raise DecimalError()
+    return num
+
+while True:
+    try:
+        option = input("Enter choice (1 for Binary to Decimal, 2 for Decimal to Binary: ")
+        #This will ask user for which conversion to be made
+        if option == '1':
+            print (bin2dec(input("Please enter a binary number: ")))
+        elif option == '2':
+            print (dec2bin(input("Please enter a decimal number: ")))
+        else:
+            #This will be printed if input is invalid
+            print("Invalid Option")
+        
+    except BinaryError:
+        #This will be printed if input is invalid
+        print ("Enter a Binary number. Please try again.\n")
+    except DecimalError:
+        #This will be printed if input is invalid
+        print ("Enter a Decimal number. Please try again.\n")
+    else:
+        break
