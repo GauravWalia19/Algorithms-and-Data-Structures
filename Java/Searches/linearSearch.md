@@ -8,23 +8,28 @@ O(n)
 
 ### TEST CASE 1
 #### INPUT
-**Enter the size of the array**
+```
+Enter the size of the array
 4
-**Enter the elements of the array**
+Enter the elements of the array
 2
 3
 4
 5
-**Enter the element you want to search**
+Enter the element you want to search
 2
+```
 #### OUTPUT
+```
 Element found at index: 0
+```
 
 ### TEST CASE 2
 #### INPUT
-**Enter the size of the array**
+```
+Enter the size of the array
 10
-**Enter the elements of the array**
+Enter the elements of the array
 4
 5
 6
@@ -35,7 +40,10 @@ Element found at index: 0
 23
 5
 66
-**Enter the element you want to search**
+Enter the element you want to search
 0
+```
 #### OUTPUT
+```
 Element not found!!!
+```
