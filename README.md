@@ -1,37 +1,43 @@
 # Algo-DS
 
-Open Repository For Students to Contribute Algorithms and Data Structures in different Languages
+Open Repository For Students to Contribute Algorithms and Data Structures in different Languages.
 
-This Repository is meant for everyone to create code and learn to contribute to open source
+This Repository is meant for everyone to create code and learn to contribute to open source.
 
 ## Currently Supported Languages
 
-- Java
-- Kotlin
-- Python
-- C
-- C++
-- Javascript
-- More Languages welcome
+* C
+* C++
+* ES6
+* Java
+* JavaScript
+* Kotlin
+* NodeJS
+* Python3
+* More Languages welcome
 
 ## Contribution Guide
 
-Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions of contributing and CODE OF CONDUCT
+Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions of contributing and CODE OF CONDUCT.
 
 ### Directory Structure
 
-- Language
-  - Coversions
-  - DataStructures
-    - Structures
-  - Dynamic Programming
-  - Misc
-  - Searches
-  - Sorting
+* Language
+  * Coversions
+  * DataStructures
+    * Structures
+  * Dynamic Programming
+  * Misc
+  * Searches
+  * Sorting
+  * README
 
-- Add a new Language to the root directory.
-- Each Code snippet must be in the appropriate sub-directory.
+* Add a new Language to the root directory (but don't add unnecessary languages).
+* Each Code snippet must be in the appropriate sub-directory.
+* Add index of the code to specific readme of the language.
 
 ### Got any Questions?
 
-Make an issue! We'll reply as soon as we can!
+* Make an issue! We'll reply as soon as we can!
+* Find bugs in our code and make issue.
+* Pull Request of the new code will we accepted soon as possible.
