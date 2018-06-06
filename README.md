@@ -1,8 +1,6 @@
 # Algo-DS
 
-Open Repository For Students to Contribute Algorithms and Data Structures in different Languages.
-
-This Repository is meant for everyone to create code and learn to contribute to open source.
+Open Repository For Developers and Programmers to Contribute Algorithms and Data Structures in different Languages.
 
 ## Currently Supported Languages
 
