@@ -39,3 +39,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 * Make an issue! We'll reply as soon as we can!
 * Find bugs in our code and make issue or pull request.
 * Pull Request of the new code will we accepted soon as possible.
+
+### AUTHORS
+
+* [CONTRIBUTORS](CONTRIBUTORS.md)
