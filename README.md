@@ -23,7 +23,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 ### Directory Structure
 
 * Language
-  * Coversions
+  * Conversions
   * DataStructures
     * Structures
   * Dynamic Programming
