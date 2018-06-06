@@ -4,6 +4,7 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
 
 ## Currently Supported Languages
 
+* BASH
 * C++
 * C
 * ES6
@@ -12,6 +13,7 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
 * Kotlin
 * NodeJS
 * Python3
+* Q#
 * More Languages welcome
 
 ## Contribution Guide
