@@ -1,4 +1,4 @@
-# JavaScript
+# QSharp(Q#)
 
 ## INDEX
 
