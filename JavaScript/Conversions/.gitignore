@@ -1,2 +1,4 @@
 # Ignore File for Javascript
 
+*.html
+*.css 
