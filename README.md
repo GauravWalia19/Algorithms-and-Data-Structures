@@ -43,4 +43,5 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 
 ### AUTHORS
 
+* Gaurav Walia (GauravWalia19)
 * [CONTRIBUTORS](CONTRIBUTORS.md)
