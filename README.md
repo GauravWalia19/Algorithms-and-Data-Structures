@@ -24,8 +24,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 
 * Language
   * Conversions
-  * DataStructures
-    * Structures
+  * Data Structures
   * Dynamic Programming
   * Misc
   * Searches
