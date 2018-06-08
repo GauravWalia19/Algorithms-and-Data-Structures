@@ -35,7 +35,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 * Each Code snippet must be in the appropriate sub-directory.
 * Add index of the code to specific readme of the language.
 
-### Got any Questions?
+### Got any Questions
 
 * Make an issue! We'll reply as soon as we can!
 * Find bugs in our code and make issue or pull request.
