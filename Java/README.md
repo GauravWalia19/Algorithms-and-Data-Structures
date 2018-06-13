@@ -18,7 +18,13 @@
 
 ### SORTING
 
-* [BUBBLE SORT-ascending](Sorting/BubbleSort.java)
-* [SELECTION SORT-ascending](Sorting/SelectionSort.java) 
+* BUBBLE SORT
+  * [ascending](Sorting/BubbleSort.java)
+  * [descending](Sorting/bubbleSort.java)
+
+* SELECTION SORT
+  * [using max element](Sorting/SelectionSort.java)
+  * [using min element](Sorting/selectionsort.java)
+  
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)

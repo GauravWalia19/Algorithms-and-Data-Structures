@@ -16,7 +16,9 @@
 ### SEARCHES
 
 * [BINARY SEARCH](Searches/binary_search.cpp)
-* [SIMPLE LINEAR SEARCH](Searches/linear.cpp) / [COMPLEX LINEAR SEARCH](Searches/linearSearch.cpp).  
+* LINEAR SEARCH
+  * [SIMPLE](Searches/linear.cpp)
+  * [COMPLEX](Searches/linearSearch.cpp)  
 
 ### SORTING
 
