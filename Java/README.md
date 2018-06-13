@@ -18,5 +18,7 @@
 
 ### SORTING
 
+* [BUBBLE SORT-ascending](Sorting/BubbleSort.java)
+* [SELECTION SORT-ascending](Sorting/SelectionSort.java) 
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)

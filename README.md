@@ -7,11 +7,10 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
 * [BASH](BASH/README.md)
 * [C++](C++/README.md)
 * [C](C/README.md)
-* [ES6](ES6/README.md)
 * [Java](Java/README.md)
 * [JavaScript](JavaScript/README.md)
 * [Kotlin](Kotlin/README.md)
-* [NodeJS](NodeJS/README.md)
+* [NodeJS-ES6](NodeJS/README.md)
 * [Python3](Python3/README.md)
 * [Q#](QSharp/README.md)
 * More Languages welcome
