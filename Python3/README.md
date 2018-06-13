@@ -14,6 +14,8 @@
 
 ### SEARCHES
 
+* [LINEAR SEARCH](Searches/linearsearch.py)
+
 ### SORTING
 
 * [SELECTION SORT](Sorting/SelectionSort.py)
