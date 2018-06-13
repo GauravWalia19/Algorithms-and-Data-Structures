@@ -16,7 +16,7 @@
 ### SEARCHES
 
 * [BINARY SEARCH](Searches/binary_search.cpp)
-* [LINEAR SEARCH](Searches/linearSearch.cpp)
+* [SIMPLE LINEAR SEARCH](Searches/linear.cpp) / [COMPLEX LINEAR SEARCH](Searches/linearSearch.cpp).  
 
 ### SORTING
 
@@ -24,3 +24,4 @@
 * [MERGE SORT](Sorting/mergesort.cpp)
 * [SELECTION SORT](Sorting/selectionsort.cpp)
 * [SHELL SORT](Sorting/shellsort.cpp)
+* [BUBBLE SORT](Sorting/bubblesort.cpp)

@@ -33,7 +33,7 @@ int main()
     int n; //size of the array
     cout << "Enter the number of elements you want in the array"<<endl;
     cin >> n;
-    register int i=0;
+    int i=0;
     vector<int> arr;
     int num;
     for(i=0;i<n;i++)
