@@ -4,7 +4,7 @@
 
 ### CONVERSIONS
 
-* [REVERSE A NUMBER](Conversions/reverse.py) 
+* [REVERSE A NUMBER](Conversions/reverse.py)
 
 ### DATA STRUCTURES
 
