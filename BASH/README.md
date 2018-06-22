@@ -13,3 +13,13 @@
 ### SEARCHES
 
 ### SORTING
+
+### EXECUTION OF BASH CODE
+
+#### LINUX
+
+Run on terminal using commands below:
+
+```bash
+bash sample.sh
+```

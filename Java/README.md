@@ -36,3 +36,14 @@
   
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)
+
+### EXECUTION OF JAVA CODE
+
+#### LINUX
+
+Run on terminal using commands below:
+
+```bash
+javac sample.java
+java sample
+```

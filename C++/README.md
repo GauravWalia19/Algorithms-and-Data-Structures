@@ -27,3 +27,14 @@
 * [SELECTION SORT](Sorting/selectionsort.cpp)
 * [SHELL SORT](Sorting/shellsort.cpp)
 * [BUBBLE SORT](Sorting/bubblesort.cpp)
+
+### EXECUTION OF C++ CODE
+
+#### LINUX
+
+Run on terminal using commands below:
+
+```bash
+g++ sample.cpp -o sample.out
+./sample.out
+```
