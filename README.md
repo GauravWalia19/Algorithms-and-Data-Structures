@@ -19,7 +19,7 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
 
 ### Big O Notation
 
-### ORDER OF COMPEXITY
+### ORDER OF COMPLEXITY
 
 #### SORTING
 
@@ -42,8 +42,8 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 
 * Language
   * Conversions
-  * Data Structures
-  * Dynamic Programming
+  * Data-Structures
+  * Dynamic-Programming
   * Misc
   * Searches
   * Sorting

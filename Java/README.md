@@ -6,6 +6,14 @@
 
 ### DATA STRUCTURES
 
+#### ARRAYS
+
+* [one dimensional array](Data-Structures/ARRAYS/oneDarray.java)
+* [two dimensional array](Data-Structures/ARRAYS/twoDarray.java)
+* [three dimensional array](Data-Structures/ARRAYS/threeDarray.java)
+
+#### LISTS
+
 ### DYNAMIC PROGRAMMING
 
 ### MISC
