@@ -11,6 +11,7 @@
 * [one dimensional array](Data-Structures/ARRAYS/oneDarray.java)
 * [two dimensional array](Data-Structures/ARRAYS/twoDarray.java)
 * [three dimensional array](Data-Structures/ARRAYS/threeDarray.java)
+* [four dimensional array](Data-Structures/ARRAYS/fourDarray.java)
 
 #### LISTS
 
