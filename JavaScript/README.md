@@ -12,6 +12,8 @@
 
 ### SEARCHES
 
+* [Linear Search](Searches/linearSearch.js)
+
 ### SORTING
 
 * [BUBBLE SORT](Sorting/bubble-sort.js)
@@ -38,4 +40,5 @@ Create a file name index.html and write the code below to run js
 </body>
 </html>
 ```
+
 Open the index.html page with your browser and the output of js will be displayed

@@ -1,4 +1,4 @@
-#  Algorithms and Data Structures
+# Algorithms and Data Structures
 
 Open Repository For Developers and Programmers to Contribute Algorithms and Data Structures in different Languages.
 
@@ -35,7 +35,7 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------
- 1 | Bubble Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: 
+ 1 | Bubble Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark:
  2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark:
  3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark:
  4 | Shell Sort | Worst Case O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark:
