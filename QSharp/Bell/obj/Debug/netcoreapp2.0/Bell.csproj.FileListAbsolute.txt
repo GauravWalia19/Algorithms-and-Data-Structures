@@ -1,0 +1,11 @@
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/bin/Debug/netcoreapp2.0/Bell.deps.json
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.json
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/bin/Debug/netcoreapp2.0/Bell.runtimeconfig.dev.json
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/bin/Debug/netcoreapp2.0/Bell.dll
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/bin/Debug/netcoreapp2.0/Bell.pdb
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/obj/Debug/netcoreapp2.0/Bell.csprojAssemblyReference.cache
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/obj/Debug/netcoreapp2.0/Bell.csproj.CoreCompileInputs.cache
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfoInputs.cache
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/obj/Debug/netcoreapp2.0/Bell.AssemblyInfo.cs
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/obj/Debug/netcoreapp2.0/Bell.dll
+/home/anonymous/Documents/Q# PROGRAMMING/Bell/obj/Debug/netcoreapp2.0/Bell.pdb
