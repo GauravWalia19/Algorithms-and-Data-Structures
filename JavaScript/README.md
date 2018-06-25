@@ -23,7 +23,7 @@
 
 * Only add extern js file code .html .css will be ignored
 
-### EXECUTION OF JAVA CODE
+### EXECUTION OF JavaScript CODE
 
 #### ALL OS
 

@@ -1,4 +1,4 @@
-# NodeJS
+# NodeJS - ES6
 
 ## INDEX
 

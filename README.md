@@ -10,7 +10,7 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
 * [Java](Java/README.md)
 * [JavaScript](JavaScript/README.md)
 * [Kotlin](Kotlin/README.md)
-* [NodeJS-ES6](NodeJS/README.md)
+* [NodeJS-ES6](NodeJS-ES6/README.md)
 * [Python3](Python3/README.md)
 * [Q#](QSharp/README.md)
 * More Languages welcome
