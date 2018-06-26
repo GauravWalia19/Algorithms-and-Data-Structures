@@ -39,7 +39,7 @@ Big O Notation is a way of expressing the complexity related to number of items 
 
 ### GRAPH
 
-![image](docs/computational_complexity.png)
+![image](docs/images/computational_complexity.png)
 
 **n-number of inputs** *N-number of steps*
 
@@ -96,3 +96,5 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 * [CONTRIBUTORS](CONTRIBUTORS.md)
 
 ### :octocat: HAPPY CODING :octocat:
+
+:copyright: Gaurav Walia
