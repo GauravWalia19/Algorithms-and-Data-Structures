@@ -1,4 +1,4 @@
-# DEFINATIONS
+# [:arrow_left:](../README.md) DEFINATIONS
 
 ## TIME COMPLEXITY
 

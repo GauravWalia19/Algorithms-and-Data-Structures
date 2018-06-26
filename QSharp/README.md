@@ -1,4 +1,4 @@
-# QSharp(Q#)
+# [:arrow_left:](../README.md) QSharp(Q#)
 
 ## INDEX
 
@@ -13,3 +13,9 @@
 ### SEARCHES
 
 ### SORTING
+
+### Execution of Q# code
+
+```bash
+dotnet run
+```
