@@ -15,56 +15,13 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 * [Q#](QSharp/README.md)
 * More Languages welcome
 
-## TIME COMPLEXITY
+## Documentation
 
-Time Complexity tell about **how much time an algorithm will take to solve the problem**.
-
-## SPACE COMPLEXITY
-
-Space Complexity tells about **how much memory an algorithm will take to solve the problem**.
-
-## Big O Notation
-
-Big O Notation is a way of expressing the complexity related to number of items that an algorthm will deal with. It will tell for how many inputs the algorithm will support. It is represented by O().
-
-## RELATION OF ORDER AND TYPE OF COMPLEXITY
-
- SNo. | Order of complexity | Type of complexity | Best(*****) / Worst(*)
- ---- | ------------------- | ------------------ | ----------------------
- 1 | O(1) | Constant | *****
- 2 | O(logn) log of base 2 | Logarithmic | ****
- 3 | O(n) | Linear | ***
- 4 | O(n logn) | n log - star n | **
- 5 | O(n^2) | Quadratic | *
-
-### GRAPH
-
-* n - Number of Inputs
-* N - Number of Steps
-
-![image](docs/images/computational_complexity.png)
-
-## ORDER OF COMPLEXITY
-
-### SORTING
-
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm
- ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------
- 1 | Bubble Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark:
- 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark:
- 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark:
- 4 | Shell Sort | Worst Case O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark:
- 5 | Merge Sort | O(nlog(n)) log of base 2 | Logarithmic  | Stable | :heavy_multiplication_x:
- 6 | Quick Sort | O(nlog(n)) log of base 2 | Logarithmic | Unstable | :heavy_check_mark:
- 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x:
- 8 | Radix Sort | O(n) or slower than O(nlog(n)) log of base 2 | Linear / Logarithmic | Stable | Can Be
-
-### DATA STRUCTURES
-
- SNo. | DATA STRUCTURES | Operations | Order of complexity O(n) | Type of Complexity
- ---- | --------------- | ------------| ------------------------ | ------------------
- 1.1 | Arrays | direct access using index | O(1) | Constant
- 1.2 | Arrays | Using loop operation | O(n) | Linear  
+1. [TIME COMPLEXITY](docs/define.md)
+2. [SPACE COMPLEXITY](docs/define.md)
+3. [BIG O NOTATION](docs/define.md)
+4. [RELATION OF ORDER AND TYPE OF COMPLEXITY](docs/complexity.md)
+5. [ORDER OF COMPLEXITY](docs/complexity.md)
 
 ## Contribution Guide
 
