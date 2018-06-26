@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-Open Repository For Developers and Programmers to Contribute Algorithms and Data Structures in different Languages.
+Open Repository For Programmers to Contribute Algorithms and Data Structures in different Languages and for beginners who want to know about Algorithms and Data Structures.
 
 ## Currently Supported Languages
 
@@ -15,11 +15,19 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
 * [Q#](QSharp/README.md)
 * More Languages welcome
 
-## INTRODUCTION
+## TIME COMPLEXITY
 
-### Big O Notation
+Time Complexity tell about **how much time an algorithm will take to solve the problem**.
 
-#### RELATION OF ORDER AND TYPE OF COMPLEXITY
+## SPACE COMPLEXITY
+
+Space Complexity tells about **how much memory an algorithm will take to solve the problem**.
+
+## Big O Notation
+
+Big O Notation is a way of expressing the complexity related to number of items that an algorthm will deal with. It will tell for how many inputs the algorithm will support. It is represented by O().
+
+## RELATION OF ORDER AND TYPE OF COMPLEXITY
 
  SNo. | Order of complexity | Type of complexity | Best(*****) / Worst(*)
  ---- | ------------------- | ------------------ | ----------------------
@@ -29,9 +37,15 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
  4 | O(n logn) | n log - star n | **
  5 | O(n^2) | Quadratic | *
 
-### ORDER OF COMPLEXITY
+### GRAPH
 
-#### SORTING
+![image](docs/computational_complexity.png)
+
+**n-number of inputs** *N-number of steps*
+
+## ORDER OF COMPLEXITY
+
+### SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------
@@ -43,6 +57,13 @@ Open Repository For Developers and Programmers to Contribute Algorithms and Data
  6 | Quick Sort | O(nlog(n)) log of base 2 | Logarithmic | Unstable | :heavy_check_mark:
  7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x:
  8 | Radix Sort | O(n) or slower than O(nlog(n)) log of base 2 | Linear / Logarithmic | Stable | Can Be
+
+### DATA STRUCTURES
+
+ SNo. | DATA STRUCTURES | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | --------------- | ------------| ------------------------ | ------------------
+ 1.1 | Arrays | direct access using index | O(1) | Constant
+ 1.2 | Arrays | Using loop operation | O(n) | Linear  
 
 ## Contribution Guide
 
@@ -73,3 +94,5 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 
 * Gaurav Walia (GauravWalia19)
 * [CONTRIBUTORS](CONTRIBUTORS.md)
+
+### :octocat: HAPPY CODING :octocat:
