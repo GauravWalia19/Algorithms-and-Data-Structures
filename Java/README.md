@@ -20,6 +20,7 @@
 ### MISC
 
 * [REVERSE A NUMBER](Misc/reverse_no.java)
+* [REVERSE A STRING](Misc/reverseString.java)
 
 ### SEARCHES
 
