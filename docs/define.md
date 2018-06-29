@@ -1,5 +1,9 @@
 # [:arrow_left:](../README.md) DEFINATIONS
 
+## Algorithms
+
+## Data Structures
+
 ## TIME COMPLEXITY
 
 Time Complexity tell about **how much time an algorithm will take to solve the problem**.
