@@ -34,6 +34,9 @@
 * SELECTION SORT
   * [using max element](Sorting/SelectionSort.java)
   * [using min element](Sorting/selectionsort.java)
+
+* INSERTION SORT
+  * [ascending](Sorting/insertionSort.java)
   
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)
