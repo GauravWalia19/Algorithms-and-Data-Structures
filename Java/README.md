@@ -41,6 +41,9 @@
 * INSERTION SORT
   * [ascending](Sorting/insertionSort.java)
   * [descending](Sorting/InsertionSort.java)
+
+* SHELL SORT
+  * [ascending](Sorting/ShellSort.java)
   
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)
