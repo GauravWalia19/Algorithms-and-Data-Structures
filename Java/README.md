@@ -15,7 +15,7 @@
 
 #### LISTS
 
-* [Single Linked List](..)
+* [Single Linked List](Data-Structures/LISTS/Single-Linked-List/Main.java)
 
 ### DYNAMIC PROGRAMMING
 
@@ -40,6 +40,7 @@
 
 * INSERTION SORT
   * [ascending](Sorting/insertionSort.java)
+  * [descendin](Sorting/InsertionSort.java)
   
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)

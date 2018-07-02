@@ -14,10 +14,12 @@ public class insertionSort
         }
         insertionsort(arr);
         //printing the array
+        System.out.println("The sorted array: ");
         for(int i=0;i<arr.length;i++)
         {
-            System.out.println(arr[i]);
+            System.out.print(arr[i]+" ");
         }
+        System.out.println();
         input.close();
     }
 
