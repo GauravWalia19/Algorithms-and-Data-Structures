@@ -1,6 +1,6 @@
 # [:arrow_left:](../README.md) COMPLEXITY
 
-## RELATION OF ORDER AND TYPE OF COMPLEXITY
+## :octocat: RELATION OF ORDER AND TYPE OF COMPLEXITY
 
  SNo. | Order of complexity | Type of complexity | Best(*******) / Worst(*)
  ---- | ------------------- | ------------------ | ----------------------
@@ -12,16 +12,16 @@
  6 | O(n^3) | Cubic | **
  7 | O(2^n) | Exponential | *
 
-### GRAPH
+### :rocket: GRAPH
 
 * n - Number of Inputs
 * N - Number of Steps
 
 ![image](images/computational_complexity.png)
 
-## ORDER OF COMPLEXITY
+## :octocat: ORDER OF COMPLEXITY
 
-### SORTING
+### :rocket: SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------
@@ -34,7 +34,7 @@
  7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x:
  8 | Radix Sort | O(n) or slower than O(nlog(n)) log of base 2 | Linear / Logarithmic | Stable | Can Be
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
  SNo. | DATA STRUCTURES | Operations | Order of complexity O(n) | Type of Complexity
  ---- | --------------- | ------------| ------------------------ | ------------------

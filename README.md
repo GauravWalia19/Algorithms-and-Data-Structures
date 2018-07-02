@@ -17,11 +17,15 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 
 ## Documentation
 
-1. [TIME COMPLEXITY](docs/define.md)
-2. [SPACE COMPLEXITY](docs/define.md)
-3. [BIG O NOTATION](docs/define.md)
-4. [RELATION OF ORDER AND TYPE OF COMPLEXITY](docs/complexity.md)
-5. [ORDER OF COMPLEXITY](docs/complexity.md)
+* [Algorithms](docs/define.md)
+* [Data Structures](docs/define.md)
+  * [Linear Data Structures](docs/define.md)
+  * [Non Linear Data Structures](docs/define.md)
+* [TIME COMPLEXITY](docs/define.md)
+* [SPACE COMPLEXITY](docs/define.md)
+* [BIG O NOTATION](docs/define.md)
+* [RELATION OF ORDER AND TYPE OF COMPLEXITY](docs/complexity.md)
+* [ORDER OF COMPLEXITY](docs/complexity.md)
 
 ## Contribution Guide
 

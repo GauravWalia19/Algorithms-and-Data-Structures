@@ -40,7 +40,7 @@
 
 * INSERTION SORT
   * [ascending](Sorting/insertionSort.java)
-  * [descendin](Sorting/InsertionSort.java)
+  * [descending](Sorting/InsertionSort.java)
   
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)
