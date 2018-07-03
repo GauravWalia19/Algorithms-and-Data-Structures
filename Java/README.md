@@ -44,6 +44,7 @@
 
 * SHELL SORT
   * [ascending](Sorting/ShellSort.java)
+  * [descending](Sorting/shellSort.java)
   
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)
