@@ -1,0 +1,3 @@
+# Ignore additional files for java
+
+*.class

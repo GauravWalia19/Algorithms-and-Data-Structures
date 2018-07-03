@@ -15,7 +15,8 @@
 
 #### LISTS
 
-* [Single Linked List](Data-Structures/LISTS/Single-Linked-List/Main.java)
+* [Self Made Single Linked List](Data-Structures/LISTS/Single-Linked-List/Main.java)
+* [Array List using ArrayList class](Data-Structures/LISTS/arrayList.java)
 
 ### DYNAMIC PROGRAMMING
 
