@@ -15,9 +15,9 @@
 
 #### LISTS
 
-* [Self Made Single Linked List](Data-Structures/LISTS/Single-Linked-List/Main.java)
-* [Array List using ArrayList class](Data-Structures/LISTS/arrayList.java)
-* [Vectors using Vector Class](Data-Structures/LISTS/vectors.java)
+* [Self-Made Single Linked List](Data-Structures/LISTS/Single-Linked-List/Main.java)
+* [Inbuilt ArrayList](Data-Structures/LISTS/arrayList.java)
+* [Inbuilt Vectors](Data-Structures/LISTS/vectors.java)
 
 ### DYNAMIC PROGRAMMING
 
