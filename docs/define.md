@@ -1,6 +1,6 @@
 # [:arrow_left:](../README.md) DEFINATIONS
 
-## :ocotocat: Algorithms
+## :octocat: Algorithms
 
 Algorithms are the series of steps which have no ambiguity that we follow to solve some problem.
 
@@ -39,7 +39,7 @@ The maximum time in which an Algorithm is solved.
 
 There are total five types of Notations
 
-### :rocket: 1. Big O Notation (O)
+### 1. Big O Notation (O)
 
 * Big O Notation is a way of expressing the complexity related to number of items that an algorthm will deal with.
 * It will tell for how many inputs the algorithm will support.
@@ -51,25 +51,25 @@ There are total five types of Notations
 f(n) <= c * g(n)
 ```
 
-### :rocket: 2. Big Omega Notation (Ω)
+### 2. Big Omega Notation (Ω)
 
 ```bash
 f(n) >= c * g(n)
 ```
 
-### :rocket: 3. Big Theta Notation (θ)
+### 3. Big Theta Notation (θ)
 
 ```bash
 f(n) = c * g(n)
 ```
 
-### :rocket: 4. Little O Notation (o)
+### 4. Little O Notation (o)
 
 ```bash
 f(n) < c * g(n)
 ```
 
-### :rocket: 5. Little Omega Notation (ω)
+### 5. Little Omega Notation (ω)
 
 ```bash
 f(n) > c * g(n)

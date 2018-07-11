@@ -17,8 +17,8 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 
 ## Documentation
 
-* [Algorithms](docs/define.md#algorithms)
-* [Data Structures](docs/define.md#data-structures)
+* [Algorithms](docs/define.md)
+* [Data Structures](docs/define.md)
   * [Linear Data Structures](docs/define.md)
   * [Non Linear Data Structures](docs/define.md)
 * [BEST CASE](docs/define.md)
@@ -40,7 +40,6 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 * [ORDER OF COMPLEXITY](docs/complexity.md)
   * [SORTING](docs/complexity.md)
   * [DATA STRUCTURES](docs/complexity.md)
-* [CURRENT](#currently-supported-languages)
 
 ## Contribution Guide
 

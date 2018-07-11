@@ -6,11 +6,11 @@ Complexity tells us how much complex of an Algorithm.
 
 There are two types of Complexities:
 
-### :rocket: 1. TIME COMPLEXITY
+### 1. TIME COMPLEXITY
 
 Time Complexity tell about **how much time an algorithm will take to solve the problem**.
 
-### :rocket: 2. SPACE COMPLEXITY
+### 2. SPACE COMPLEXITY
 
 Space Complexity tells about **how much memory an algorithm will take to solve the problem**.
 
