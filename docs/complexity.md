@@ -1,5 +1,19 @@
 # [:arrow_left:](../README.md) COMPLEXITY
 
+Complexity tells us how much complex of an Algorithm.
+
+## :octocat: TYPES OF COMPLEXITY
+
+There are two types of Complexities:
+
+### :rocket: 1. TIME COMPLEXITY
+
+Time Complexity tell about **how much time an algorithm will take to solve the problem**.
+
+### :rocket: 2. SPACE COMPLEXITY
+
+Space Complexity tells about **how much memory an algorithm will take to solve the problem**.
+
 ## :octocat: RELATION OF ORDER AND TYPE OF COMPLEXITY
 
  SNo. | Order of complexity | Type of complexity | Best(*******) / Worst(*)

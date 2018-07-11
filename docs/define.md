@@ -10,20 +10,24 @@ Data Structures are the Structures formed by Data Types which makes our code eff
 
 ### Linear Data Structures
 
-Data Structures in which data is organised linear and in sequential order. For example Arrays,Queues,etc.
+Data Structures in which data is organised linear and in sequential order. For example
+
+* Arrays,
+* Lists,
+* Queues,etc.
 
 ### Non Linear Data Structures
 
-Data Structures in which data is organised in non linear and in non-sequenstial order. For example Trees,Graphs,etc.
+Data Structures in which data is organised in non linear and in non-sequenstial order. For example
 
-## :rocket: TIME COMPLEXITY
-
-Time Complexity tell about **how much time an algorithm will take to solve the problem**.
-
-## :rocket: SPACE COMPLEXITY
-
-Space Complexity tells about **how much memory an algorithm will take to solve the problem**.
+* Trees,
+* Graphs,etc.
 
 ## :rocket: Big O Notation
 
-Big O Notation is a way of expressing the complexity related to number of items that an algorthm will deal with. It will tell for how many inputs the algorithm will support. It is represented by O().
+* Big O Notation is a way of expressing the complexity related to number of items that an algorthm will deal with.
+* It will tell for how many inputs the algorithm will support.
+* It is represented by **O()**.
+* It will tell us the **Worst Case (Maximum time to solve the problem)** of the Algorithm.
+* Theoritically
+> f(n) <= c * g(n)
