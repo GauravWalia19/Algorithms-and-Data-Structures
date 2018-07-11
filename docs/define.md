@@ -1,4 +1,4 @@
-# [:arrow_left:](..) DEFINATIONS
+# [:arrow_left:](../README.md) DEFINATIONS
 
 ## :octocat: Algorithms
 
