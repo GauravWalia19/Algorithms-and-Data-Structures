@@ -13,3 +13,14 @@
 ### SEARCHES
 
 ### SORTING
+
+### EXECUTION OF JavaScript CODE
+
+#### LINUX
+
+1. Install nodejs.
+2. Execute the Es6 file(file.js) using following commands:
+
+```bash
+node file
+```
