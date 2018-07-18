@@ -6,6 +6,9 @@
 
 ### DATA STRUCTURES
 
+* STACKS
+  * [Self Made Stack](Data-Structures/STACKS/stacks.cpp)
+
 ### DYNAMIC PROGRAMMING
 
 ### MISC
