@@ -18,22 +18,26 @@ Data Structures in which data is organised linear and in sequential order. For e
 
 ### :rocket: Non Linear Data Structures
 
-Data Structures in which data is organised in non linear and in non-sequenstial order. For example
+Data Structures in which data is organised in non linear and in non-sequential order. For example
 
 * Trees,
 * Graphs,etc.
 
 ## :octocat: BEST CASE
 
-The minimum time in which an Algorithm is solved.
+The minimum time in which an Algorithm is solved. It is denoted using Big Omega Notation.
 
 ## :octocat: AVERAGE CASE
 
+The time calculated by average of best case and worst case.
+
 ## :octocat: WORST CASE
 
-The maximum time in which an Algorithm is solved.
+The maximum time in which an Algorithm is solved. It is denoted using Big O Notation.
 
 ## :octocat: RATE OF GROWTH
+
+The rate of growth is the growth at which our algorithm is increasing i.e order of complexity increases.
 
 ## :octocat: ASYMTOTIC NOTATIONS
 
