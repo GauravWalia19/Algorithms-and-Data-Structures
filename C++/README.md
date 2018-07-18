@@ -8,6 +8,7 @@
 
 * STACKS
   * [Self Made Stack](Data-Structures/STACKS/stacks.cpp)
+  * [INbuilt stack](Data-Structures/STACKS/stack.cpp)
 
 ### DYNAMIC PROGRAMMING
 

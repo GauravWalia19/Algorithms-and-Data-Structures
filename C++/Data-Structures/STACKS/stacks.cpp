@@ -10,6 +10,10 @@ class Stack
     {
         tp=-1;
     }
+    ~Stack()
+    {
+        
+    }
     void push(int num)
     {
         //check if stack is full or not
@@ -50,6 +54,14 @@ class Stack
             cout << arr[i] << endl; 
         }
     }
+    bool empty()
+    {
+        if(tp==-1)
+        {
+            return true;
+        }
+        return false;
+    }
 };
 
 int main()
@@ -63,6 +75,7 @@ int main()
     s.pop();
     s.pop();
     //s.size();
-    s.print();
+    //s.print();
+    cout << s.empty();
     return 0;
 }
