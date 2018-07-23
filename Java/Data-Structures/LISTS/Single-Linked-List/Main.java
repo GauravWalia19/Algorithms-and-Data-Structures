@@ -14,9 +14,16 @@ public class Main
         list.addToFront(c);
         list.addToFront(d);
 
-        list.removeFromFront();
+        // list.removeFromFront();
+        // list.printList();
+        // System.out.println(list.getSize());
+        // System.out.println("Is list empty "+list.isEmpty());
+        list.addToLast(a);
+        list.addToLast(b);
+        System.out.println(list.removeFromLast());
+        list.printList(); 
+        list.removeFirst(a);
+        list.removeFirst(d);
         list.printList();
-        System.out.println(list.getSize());
-        System.out.println("Is list empty "+list.isEmpty());
     }
 }

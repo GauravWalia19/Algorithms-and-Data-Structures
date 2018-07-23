@@ -1,10 +1,14 @@
-//sample class for making linked list
-public class sample
+public class data
 {
     private int a;
     private int b;
 
-    public sample(int a,int b)
+    public data()
+    {
+        a = 0;
+        b = 0;
+    }
+    public data(int a,int b)
     {
         this.a = a;
         this.b = b;
@@ -17,7 +21,7 @@ public class sample
     public void setB(int b)
     {
         this.b = b;
-    } 
+    }
     //getters
     public int getA()
     {
@@ -29,14 +33,6 @@ public class sample
     }
     public String toString()
     {
-        return a+ " "+b;
-    }
-    public boolean equals(sample copy)
-    {
-        if(a == copy.a && b == copy.b)
-        {
-            return true;
-        }
-        return false;
+        return a + " "+b;
     }
 }

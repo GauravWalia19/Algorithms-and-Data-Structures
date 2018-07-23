@@ -22,6 +22,7 @@ public class singleLinkedList
         head = n;
         size++;
     }
+    //printing the list
     public void printList()
     {
         node current = head;
@@ -34,10 +35,12 @@ public class singleLinkedList
         System.out.println("^");
         System.out.println("HEAD");
     }
+    //return the size of the list
     public int getSize()
     {
         return size;
     }
+    //check if list is empty or not
     public boolean isEmpty()
     {
         if(head == null)
@@ -46,6 +49,7 @@ public class singleLinkedList
         }
         return false;
     }
+    //remove the node from the front
     public node removeFromFront()
     {
         if(isEmpty())
@@ -57,5 +61,58 @@ public class singleLinkedList
         size--;
         removeNode.setNext(null);
         return removeNode;
+    }
+    //add to last
+    public void addToLast(sample obj)
+    {
+        node NewNode = new node(obj);
+        node current = head;
+        while(current.getNext() != null)
+        {
+            current = current.getNext();
+        }
+        size++;
+        current.setNext(NewNode);
+    }
+    //remove from the last
+    public node removeFromLast()
+    {
+        node current = head;
+        while(current.getNext().getNext() != null)
+        {
+            current = current.getNext();
+        }
+        node removeNode = current.getNext();
+        size--;
+        current.setNext(null);
+        return removeNode;
+    }
+    //remove the specific node bugs
+    public node removeFirst(sample obj)
+    {
+        node current = head;
+        node old=current;
+        while(current != null)
+        {
+            if(obj.equals(head.getSample()))
+            {
+                removeFromFront();
+                break;
+            }
+            else if(obj.equals(current.getSample()))
+            {
+                System.out.println("sucess");
+                old.setNext(current.getNext());
+                break;
+            }
+            old = current;
+            current = current.getNext();
+        }
+        return current;
+    }
+    //removing duplicates
+    public void removeDuplicates()
+    {
+        node current = head;
     }
 }
