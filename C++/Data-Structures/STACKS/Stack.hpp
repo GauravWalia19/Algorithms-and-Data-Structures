@@ -23,6 +23,7 @@ class Stack
     }
     ~Stack()
     {
+        delete arr;
     }
     void push(t num)
     {
@@ -74,8 +75,13 @@ class Stack
         return false;
     }
     template <class T>
-    void operator=(Stack<T> copy)
+    void copy(Stack<T> copy)
     {
-        // //copy.arr = arr;
+        copy.tp = tp;
+        copy.s = s;
+        for(int i=tp;i>=0;i--)
+        {
+            copy.arr[i] = arr[i];
+        }
     }
 };

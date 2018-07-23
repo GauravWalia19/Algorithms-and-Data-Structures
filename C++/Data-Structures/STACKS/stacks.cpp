@@ -19,7 +19,7 @@ int main()
     // str.push("world");
     // str.print();
     Stack<int> s1;
-    s = s1;
+    s.copy(s1);
     s1.print();
     //cout << s1.size();
     return 0;
