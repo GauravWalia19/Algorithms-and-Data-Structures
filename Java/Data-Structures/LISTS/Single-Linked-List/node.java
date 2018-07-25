@@ -30,4 +30,13 @@ public class node
     {
         return obj.toString();
     }
+    //method that takes node and compare with another node
+    public boolean equal(node nde)
+    {
+        if(obj.equals(nde.obj))
+        {
+            return true;
+        }
+        return false;
+    } 
 }

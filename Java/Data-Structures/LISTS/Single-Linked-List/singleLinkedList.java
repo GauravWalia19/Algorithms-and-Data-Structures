@@ -87,7 +87,7 @@ public class singleLinkedList
         current.setNext(null);
         return removeNode;
     }
-    //remove the specific node bugs
+    //remove the first finded specific node
     public node removeFirst(sample obj)
     {
         node current = head;
@@ -103,6 +103,7 @@ public class singleLinkedList
             {
                 System.out.println("sucess");
                 old.setNext(current.getNext());
+                size--;
                 break;
             }
             old = current;
@@ -114,5 +115,26 @@ public class singleLinkedList
     public void removeDuplicates()
     {
         node current = head;
+    }
+    //method for searching in the list
+    public boolean search(sample obj)
+    {
+        node NewNode = new node(obj);
+        node current = head;
+        int flag=0;
+        while(current != null)
+        {
+            if(NewNode.equal(current))
+            {
+                flag=1;
+                break;
+            }
+            current = current.getNext();
+        }
+        if(flag==1)
+        {
+            return true;
+        }
+        return false;
     }
 }

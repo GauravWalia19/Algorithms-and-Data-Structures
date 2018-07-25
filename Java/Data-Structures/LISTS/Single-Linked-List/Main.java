@@ -21,9 +21,12 @@ public class Main
         list.addToLast(a);
         list.addToLast(b);
         System.out.println(list.removeFromLast());
+        System.out.println("size:"+list.getSize());
         list.printList(); 
         list.removeFirst(a);
         list.removeFirst(d);
+        System.out.println("size:"+list.getSize());
         list.printList();
+        System.out.println(list.search(d));
     }
 }
