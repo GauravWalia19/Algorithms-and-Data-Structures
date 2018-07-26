@@ -68,7 +68,7 @@ The algorithm take less time for which input i.e it will complete and run faster
 
 The time calculated by average of best case and worst case and we can predict run time for an Algorithm.
 
-## :octocat: ASYMTOTIC NOTATIONS
+## :octocat: ASYMPTOTIC NOTATIONS
 
 There are total five types of Notations
 
@@ -81,7 +81,8 @@ There are total five types of Notations
 * Theoritically
 
 ```bash
-f(n) <= c * g(n)
+f(n) = O(n)
+If f(n) <= c * g(n)
 ```
 
 * Example:
@@ -103,14 +104,15 @@ g(n) = n^4  (Maximum rate of growth of f(n))
 * Theoritically
 
 ```bash
-f(n) >= c * g(n)
+f(n) = Ω(n)
+If f(n) >= c * g(n)
 ```
 
 * GRAPH
 
 ![Big Omega Notation]()
 
-### 3. Big Theta Notation (θ)
+### 3. Theta Notation (θ)
 
 * Big Theta Notation will gives the unique bound of the Algorithm i.e when upper bound and lower bound an Algorithm is same.
 * It is represented by **θ()**
@@ -119,7 +121,8 @@ f(n) >= c * g(n)
 * Theoritically
 
 ```bash
-f(n) = c * g(n)
+f(n)=θ(n)
+If f(n) = c * g(n)
 ```
 
 * GRAPH
