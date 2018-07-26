@@ -27,33 +27,34 @@ Data Structures in which data is organised in non linear and in non-sequential o
 
 The rate of growth is the growth at which our algorithm is increasing i.e **order of complexity increases and run time increases as our function input increases**.
 
- SNo. | Time Complexity | Type of complexity | Rate of growth More(************) / Less(*) | Increasing Order of Complexity
- ---- | --------------- | ------------------ | ------------------------------------------- | ------------------------------
+ SNo. | Time Complexity | Type of complexity | Rate of growth | Increasing Order of Complexity
+ ---- | --------------- | ------------------ | -------------- | ------------------------------
  1 | 1 | Constant | * | :arrow_down:
  2 | log log(n) | Double Logarithm | ** | :arrow_down:
  3 | log(n) | Logarithmic | *** | :arrow_down:
  4 | log(n)^c where c>1 | Polylogarithm | **** | :arrow_down:
- -- 4.1 | log(n) ^ 2 | - | @ | :arrow_down:
- -- 4.2 | log(n) ^ 3 | - | @@ | :arrow_down:
+ 4.1 | log(n) ^ 2 | - | @ | :arrow_down:
+ 4.2 | log(n) ^ 3 | - | @@ | :arrow_down:
  5 | n^c where 0 < c < 1 | Fractional Power | ***** | :arrow_down:
- -- 5.1 | n^0.1 | - | @ | :arrow_down:
- -- 5.2 | n^0.5 or √n | - | @@ | :arrow_down:
+ 5.1 | n^0.1 | - | @ | :arrow_down:
+ 5.2 | n^0.5 or √n | - | @@ | :arrow_down:
  6 | n | Linear | ****** | :arrow_down:
  7 | nlog*(n) | n log - star n | ******* | :arrow_down:
  8 | nlog(n) or log(n!) | linearithmic, loglinear, or quasilinear | ******** | :arrow_down:  
  9 | n^c where c>1 | - | ********* | :arrow_down:
- -- 9.1 | n^2 | Quadratic | @ | :arrow_down:
- -- 9.2 | n^3 | Cubic | @@ | :arrow_down:
+ 9.1 | n^2 | Quadratic | @ | :arrow_down:
+ 9.2 | n^3 | Cubic | @@ | :arrow_down:
  10 | c ^ n | Exponential | ********** | :arrow_down:
- -- 10.1 | 2 ^ log(n) | - | @ | :arrow_down:
- -- 10.2 | 2^n | - | @@ | :arrow_down:
- -- 10.3 | 4^n | - | @@@ | :arrow_down:
+ 10.1 | 2 ^ log(n) | - | @ | :arrow_down:
+ 10.2 | 2^n | - | @@ | :arrow_down:
+ 10.3 | 4^n | - | @@@ | :arrow_down:
  11 | n! | Factorial | *********** | :arrow_down:
  12 | 2^(2^n) | | ************ | :arrow_down:
 
-@ - It is used for ordering as * is used for ordering
-
-Source-Wikipedia and others
+* @ - It is used for ordering as * is used for ordering
+* (************) - Highest Rate of Growth
+* (\*) - Smallest Rate of Growth
+  * Source-Wikipedia and others
 
 ## :octocat: WORST CASE
 
