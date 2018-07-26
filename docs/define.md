@@ -94,7 +94,7 @@ g(n) = n^4  (Maximum rate of growth of f(n))
 
 * GRAPH
 
-![Big O Notation]()
+![Big O Notation](images/big-o.png)
 
 ### 2. Big Omega Notation (Ω)
 
@@ -110,7 +110,7 @@ If f(n) >= c * g(n)
 
 * GRAPH
 
-![Big Omega Notation]()
+![Big Omega Notation](images/big-omega.png)
 
 ### 3. Theta Notation (θ)
 
@@ -127,7 +127,7 @@ If f(n) = c * g(n)
 
 * GRAPH
 
-![Big Theta Notation]()
+![Theta Notation](images/theta.png)
 
 ### 4. Little O Notation (o)
 
