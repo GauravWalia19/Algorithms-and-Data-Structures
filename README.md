@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+# :house:Algorithms and Data Structures
 
 Open Repository For Programmers to Contribute Algorithms and Data Structures in different Languages and for beginners who want to know about Algorithms and Data Structures.
 
@@ -21,14 +21,14 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 * [Data Structures](docs/define.md)
   * [Linear Data Structures](docs/define.md)
   * [Non Linear Data Structures](docs/define.md)
+* [Rate of Growth](docs/define.md)
+* [Worst Case](docs/define.md)
 * [Best Case](docs/define.md)
 * [Average Case](docs/define.md)
-* [Worst Case](docs/define.md)
-* [Rate of Growth](docs/define.md)
-* [Asymtotic Notations](docs/define.md)
+* [Asymptotic Notations](docs/define.md)
   * [Big O Notation](docs/define.md)
   * [Big Omega Notation](docs/define.md)
-  * [Big Theta Notation](docs/define.md)
+  * [Theta Notation](docs/define.md)
   * [Little O Notation](docs/define.md)
   * [Little OMEGA Notation](docs/define.md)
 * [Complexity](docs/complexity.md)

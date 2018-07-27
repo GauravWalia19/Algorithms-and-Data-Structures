@@ -2,7 +2,19 @@
 
 ## :octocat: Algorithms
 
-Algorithms are the series of steps which have no ambiguity that we follow to solve some problem.
+Algorithms are the series of steps which have no ambiguity that we follow to solve some problem. There are three types of Algorithms i.e
+
+### :rocket: Iterative
+
+If we are using loops to code our Algorithm than it is Iterative Algorithm.
+
+### :rocket: Recursive
+
+If we are using Recusion to code our Algorithm than it is Recursive Algorithm.
+
+### :rocket: Constant
+
+If we the ALgortihm is neither Iterative nor Recursive i.e it is taking constant time to run than it is called Constant ALgorithm.
 
 ## :octocat: Data Structures
 
