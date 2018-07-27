@@ -10,11 +10,11 @@ If we are using loops to code our Algorithm than it is Iterative Algorithm.
 
 ### :rocket: Recursive
 
-If we are using Recusion to code our Algorithm than it is Recursive Algorithm.
+If we are using Recursion to code our Algorithm than it is Recursive Algorithm.
 
 ### :rocket: Constant
 
-If we the ALgortihm is neither Iterative nor Recursive i.e it is taking constant time to run than it is called Constant ALgorithm.
+If we the ALgorithm is neither Iterative nor Recursive i.e it is taking constant time to run than it is called Constant ALgorithm.
 
 ## :octocat: Data Structures
 

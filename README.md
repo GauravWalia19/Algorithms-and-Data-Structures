@@ -18,6 +18,9 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 ## Documentation
 
 * [Algorithms](docs/define.md)
+  * [Iterative Algorithm](docs/define.md)
+  * [Recursve Algorithm](docs/define.md)
+  * [Constant ALgorithm](docs/define.md)
 * [Data Structures](docs/define.md)
   * [Linear Data Structures](docs/define.md)
   * [Non Linear Data Structures](docs/define.md)
