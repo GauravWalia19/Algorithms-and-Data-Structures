@@ -10,9 +10,29 @@ There are two types of Complexities:
 
 Time Complexity tell about **how much time an algorithm will take to solve the problem**.
 
+#### :rocket:ITERATIVE
+
+For iterative solution the complexity is finded out by the code.
+
+#### :rocket:RECURSIVE
+
+For recursive solution the complexity we have three methods i.e
+
+1. Back Substitution
+2. Recursion Tree
+3. Master Theorem
+
 ### 2. SPACE COMPLEXITY
 
 Space Complexity tells about **how much memory an algorithm will take to solve the problem**.
+
+#### :rocket: ITERATIVE
+
+For space complexity of iterative solution we will find the number of variables declared and used. If it remain constant than complexity is O(1) and if it increases or decreases than complexity is O(n).
+
+#### :rocket: RECURSIVE
+
+For space complexity of recursive solution we will find how much stack is used.
 
 ## :octocat: RELATION OF ORDER AND TYPE OF COMPLEXITY
 
