@@ -12,15 +12,18 @@ Time Complexity tell about **how much time an algorithm will take to solve the p
 
 #### :rocket:ITERATIVE
 
-For iterative solution the complexity is finded out by the code.
+For iterative solution the complexity is finded out by analysing the statements of the code.
 
 #### :rocket:RECURSIVE
 
-For recursive solution the complexity we have three methods i.e
+For recursive solution the complexity can be finded out using these six methods i.e
 
 1. Back Substitution
 2. Recursion Tree
-3. Master Theorem
+3. Master Theorem (Divide and Conquer)
+4. Master Theorem (Substract and Conquer)
+5. Method of Guessing and Confirming
+6. Amortised Analysis
 
 ### 2. SPACE COMPLEXITY
 
@@ -32,7 +35,7 @@ For space complexity of iterative solution we will find the number of variables 
 
 #### :rocket: RECURSIVE
 
-For space complexity of recursive solution we will find how much stack is used.
+For space complexity of recursive solution we will find how much stack is used. For example four statements are gone in stack due to recursion so the space complexity can be finded out by checking the steps of stack i.e 4 in this case.
 
 ## :octocat: RELATION OF ORDER AND TYPE OF COMPLEXITY
 
