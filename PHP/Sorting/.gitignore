@@ -1,0 +1,5 @@
+#Ignore files for php
+
+*.html
+*.css
+*.js
