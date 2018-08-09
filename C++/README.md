@@ -21,6 +21,11 @@
 
 * [PAIR WISE SWAP](Misc/PairWiseSwap.cpp)
 * [REVERSE A NUMBER](Misc/reverse.cpp)
+* PAGE REPLACEMENT ALGORITHMS
+  * FIFO
+  * LRU
+    * [Using my own Queue](Misc/lru.cpp)
+  * OPTIMAL
 
 ### SEARCHES
 
