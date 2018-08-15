@@ -1,4 +1,4 @@
-# :house:Algorithms and Data Structures
+# Algorithms and Data Structures
 
 Open Repository For Programmers to Contribute Algorithms and Data Structures in different Languages and for beginners who want to know about Algorithms and Data Structures.
 
@@ -48,6 +48,11 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 * [Order of Complexity](docs/complexity.md)
   * [Sorting](docs/complexity.md)
   * [Data Structures](docs/complexity.md)
+
+* ALGORITHMS
+  * [BUBBLE SORT](docs/bubble-sort.md)
+  * [SELECTION SORT](docs/selection-sort.md)
+  * [INSERTION SORT](docs/insertion-sort.md)
 
 ## Contribution Guide
 
