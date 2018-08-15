@@ -60,16 +60,16 @@ For space complexity of recursive solution we will find how much stack is used. 
 
 ### :rocket: SORTING
 
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm
- ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------
- 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable but not an efficient way | :heavy_check_mark:
- 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark:
- 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark:
- 4 | Shell Sort | Worst Case O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark:
- 5 | Merge Sort | O(nlog(n)) log of base 2 | Logarithmic  | Stable | :heavy_multiplication_x:
- 6 | Quick Sort | O(nlog(n)) log of base 2 | Logarithmic | Unstable | :heavy_check_mark:
- 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x:
- 8 | Radix Sort | O(n) or slower than O(nlog(n)) log of base 2 | Linear / Logarithmic | Stable | Can Be
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
+ ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
+ 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable but not an efficient way | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: |
+ 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: |
+ 4 | Shell Sort | Worst Case O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark: |
+ 5 | Merge Sort | O(nlog(n)) log of base 2 | Logarithmic  | Stable | :heavy_multiplication_x: |
+ 6 | Quick Sort | O(nlog(n)) log of base 2 | Logarithmic | Unstable | :heavy_check_mark: |
+ 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
+ 8 | Radix Sort | O(n) or slower than O(nlog(n)) log of base 2 | Linear / Logarithmic | Stable | Can Be |
 
 ### :rocket: DATA STRUCTURES
 
