@@ -152,3 +152,37 @@ f(n) < c * g(n)
 ```bash
 f(n) > c * g(n)
 ```
+
+## :octocat: SORTING DEFINATIONS
+
+### :rocket: Stable Sort
+
+If the items order in array remain same before and after the sorting then it is called Stable Sort.
+
+### :rocket: Unstable Sort
+
+If the items order in array doesn't remain same before and after the sorting then it is called Unstable Sort.
+
+### :rocket: InPlace ALgorithm
+
+If the sorting technique doesn't require additional array for sorting then it is called InPlace Algorithm.
+
+### :rocket: Out Place Algorithm
+
+If the sorting technique requires additional array for sorting then it is called OutPlace Algorithm.
+  
+### :rocket: Internal Sorting
+
+The sorting of data in main memory is called Internal Sorting.
+
+### :rocket: External Sorting
+
+Some Sorting techniques takes Secondary Memory for sorting data that sorting algoritms is known as External Sorting.
+
+### :rocket: Adaptive Sorting
+
+If the sorting technique doesn't sort the already sorted elements and doesn't change their order then that sort is called Adaptive Sort.
+
+### :rocket: Non-Adaptive Sorting
+
+If the sorting technique sort already sorted elements then it is called Non-Adaptive Sort.

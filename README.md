@@ -48,8 +48,8 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 * [Order of Complexity](docs/complexity.md)
   * [Sorting](docs/complexity.md)
   * [Data Structures](docs/complexity.md)
-
-* ALGORITHMS
+  
+* SORTING ALGORITHMS  
   * [BUBBLE SORT](docs/bubble-sort.md)
   * [SELECTION SORT](docs/selection-sort.md)
   * [INSERTION SORT](docs/insertion-sort.md)
