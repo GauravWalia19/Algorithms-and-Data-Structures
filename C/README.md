@@ -21,6 +21,8 @@
 * BUBBLE SORT
   * [ASCENDING AND STABLE](Sorting/BUBBLE-SORT/bubblesort.c)
   * [DESCENDING AND STABLE](Sorting/BUBBLE-SORT/bubble.c)
+  * [ASCENDING AND UNSTABLE](Sorting/BUBBLE-SORT/ascendunbubble.c)
+  * [DESCENDING AND UNSTABLE](Sorting/BUBBLE-SORT/descendunbubble.c)
 
 ### EXECUTION OF C CODE
 
