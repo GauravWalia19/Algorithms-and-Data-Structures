@@ -18,41 +18,34 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 
 ## Documentation
 
-* [Algorithms](docs/define.md)
-  * [Iterative Algorithm](docs/define.md)
-  * [Recursve Algorithm](docs/define.md)
-  * [Constant ALgorithm](docs/define.md)
-* [Data Structures](docs/define.md)
-  * [Linear Data Structures](docs/define.md)
-  * [Non Linear Data Structures](docs/define.md)
-* [Rate of Growth](docs/define.md)
-* [Worst Case](docs/define.md)
-* [Best Case](docs/define.md)
-* [Average Case](docs/define.md)
-* [Asymptotic Notations](docs/define.md)
-  * [Big O Notation](docs/define.md)
-  * [Big Omega Notation](docs/define.md)
-  * [Theta Notation](docs/define.md)
-  * [Little O Notation](docs/define.md)
-  * [Little OMEGA Notation](docs/define.md)
-* [Complexity](docs/complexity.md)
-* [Types of Complexity](docs/complexity.md)
-  * [Time Complexity](docs/define.md)
-    * [ITERATIVE](docs/define.md)
-    * [RECURSIVE](docs/define.md)
-  * [Space Complexity](docs/define.md)
-    * [ITERATIVE](docs/define.md)
-    * [RECURSIVE](docs/define.md)
-* [Relation of Order and Type of Complexity](docs/complexity.md)
-  * [GRAPH](docs/complexity.md)
-* [Order of Complexity](docs/complexity.md)
-  * [Sorting](docs/complexity.md)
-  * [Data Structures](docs/complexity.md)
-  
+For documentation see wiki [wiki](docs/wiki.md) or [online wiki](/wiki)
+
 * SORTING ALGORITHMS  
   * [BUBBLE SORT](docs/bubble-sort.md)
   * [SELECTION SORT](docs/selection-sort.md)
   * [INSERTION SORT](docs/insertion-sort.md)
+
+## ORDER OF COMPLEXITY
+
+### :rocket: SORTING
+
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
+ ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
+ 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable but not an efficient way | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 4 | Shell Sort | Worst Case O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark: |
+ 5 | Merge Sort | O(nlog(n)) log of base 2 | Logarithmic  | Stable | :heavy_multiplication_x: |
+ 6 | Quick Sort | O(nlog(n)) log of base 2 | Logarithmic | Unstable | :heavy_check_mark: |
+ 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
+ 8 | Radix Sort | O(n) or slower than O(nlog(n)) log of base 2 | Linear / Logarithmic | Stable | Can Be |
+
+### :rocket: DATA STRUCTURES
+
+ SNo. | DATA STRUCTURES | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | --------------- | ------------| ------------------------ | ------------------
+ 1.1 | Arrays | direct access using index | O(1) | Constant
+ 1.2 | Arrays | Using loop operation | O(n) | Linear  
 
 ## Contribution Guide
 

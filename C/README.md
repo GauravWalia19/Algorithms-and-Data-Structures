@@ -16,7 +16,7 @@
 
 * [Linear Search](Searches/linearSearch.c)
 
-### SORT
+### SORTING
 
 * BUBBLE SORT
   * [ASCENDING AND STABLE](Sorting/BUBBLE-SORT/bubblesort.c)
@@ -30,6 +30,13 @@
   * DESCENDING
     * [Using max element](Sorting/SELECTION-SORT/maxselection.c)
     * [Using min element](Sorting/SELECTION-SORT/minselection.c)
+* INSERTION SORT
+  * ASCENDING
+    * START FROM LEFT
+    * START FROM RIGHT
+  * DESCENDING
+    * START FROM LEFT
+    * START FROM RIGHT
 
 ### EXECUTION OF C CODE
 
