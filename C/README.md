@@ -28,7 +28,7 @@
     * [Using max element](Sorting/SELECTION-SORT/selection.c)
     * [Using min element](Sorting/SELECTION-SORT/selectionsort.c)
   * DESCENDING
-    * [Using max element]()
+    * [Using max element](Sorting/SELECTION-SORT/maxselection.c)
     * [Using min element]()
 
 ### EXECUTION OF C CODE
