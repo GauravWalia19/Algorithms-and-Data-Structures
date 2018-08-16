@@ -23,6 +23,13 @@
   * [DESCENDING AND STABLE](Sorting/BUBBLE-SORT/bubble.c)
   * [ASCENDING AND UNSTABLE](Sorting/BUBBLE-SORT/ascendunbubble.c)
   * [DESCENDING AND UNSTABLE](Sorting/BUBBLE-SORT/descendunbubble.c)
+* SELECTION SORT (UNSTABLE)
+  * ASCENDING
+    * [Using max element](Sorting/SELECTION-SORT/selection.c)
+    * [Using min element]()
+  * DESCENDING
+    * [Using max element]()
+    * [Using min element]()
 
 ### EXECUTION OF C CODE
 
