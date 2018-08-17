@@ -32,7 +32,7 @@
     * [Using min element](Sorting/SELECTION-SORT/minselection.c)
 * INSERTION SORT
   * ASCENDING
-    * START FROM LEFT
+    * [START FROM LEFT](Sorting/INSERTION-SORT/insertion.c)
     * START FROM RIGHT
   * DESCENDING
     * START FROM LEFT
