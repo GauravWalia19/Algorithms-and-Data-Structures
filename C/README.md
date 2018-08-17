@@ -35,8 +35,8 @@
     * [START FROM LEFT](Sorting/INSERTION-SORT/insertion.c)
     * [START FROM RIGHT](Sorting/INSERTION-SORT/insertionsort.c)
   * DESCENDING
-    * START FROM LEFT
-    * START FROM RIGHT
+    * [START FROM LEFT](Sorting/INSERTION-SORT/deleftinsert.c)
+    * [START FROM RIGHT](Sorting/INSERTION-SORT/derightinsert.c)
 
 ### EXECUTION OF C CODE
 
