@@ -4,7 +4,7 @@ Bubble sort is the Beginners Sorting Algorithm because it is mostly used by the 
 
 ## PSEUDOCODE
 
-```c
+```java
 for(int i=n-1;i>=0;i--)
 {
     for(int j=0;j<i;j++)
