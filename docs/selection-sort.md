@@ -65,6 +65,6 @@ Then the max element index is 1 we will swap -15 and 1
 ### Step 6 Now -15 is in correct order so it will again swap it
 
 Now the final array will be
-> {**-22** , **-15** , **1** , **7** , **20** , **35** , **55**}
+> {-22 , **-15** , **1** , **7** , **20** , **35** , **55**}
 
 ## IMPLEMENTATIONS
