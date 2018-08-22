@@ -24,14 +24,23 @@ for(int i=n-1;i>0;i--)
 
 ## IMPORTANT POINTS
 
-* **Order of Time Complexity:** O(n^2)
-* **Type of Complexity:** Quadratic
-* Unstable Sort
-* In Place Algorithm
-* **Space Complexity:** O(1)
-* Iterative Algorithm
+ Sno | Points | ...
+ --- | ------ | ---
+ 1 | **Time Complexity** | O(n^2)
+ 2 | **Type of Complexity** | Quadratic
+ 3 | Unstable Sort |
+ 4 | In Place Algorithm |
+ 5 | **Space Complexity** | O(1)
+ 6 | Iterative Algorithm |
 
 ## DIFFERENT METHODS
+
+* Ascending
+  * Using max element
+  * Using min element
+* Descending
+  * Using max element
+  * Using min element
 
 ## ALGORITHM
 
@@ -68,3 +77,7 @@ Now the final array will be
 > {-22 , **-15** , **1** , **7** , **20** , **35** , **55**}
 
 ## IMPLEMENTATIONS
+
+1. [C](/C/Sorting/SELECTION-SORT/selection.c)
+2. [C++](/C++/Sorting/selectionsort.cpp)
+3. [Java](/Java/Sorting/SelectionSort.java)
