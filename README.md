@@ -42,7 +42,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 ### :rocket: DATA STRUCTURES
 
-#### ARRAYS
+#### :octocat: ARRAYS
 
 ##### 1D ARRAY
 
@@ -51,6 +51,8 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  1 | Insertion at any index | O(1) | Constant
  2 | Deletion at any index | O(1) | Constant
  3 | Deletion of the value without having index | O(n) | Linear  
+ 4 | Update value without having index | O(n) | Linear
+ 5 | Update value having index | O(1) | Constant
 
 ##### 2D ARRAY
 
@@ -59,6 +61,8 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  1 | Insertion at any index | O(1) | Constant
  2 | Deletion at any index | O(1) | Constant
  3 | Deletion of the value without having index | O(n^n) | Quadratic  
+ 4 | Update value without having index | O(n^2) | Quadratic
+ 5 | Update value having index | O(1) | Constant
 
 ##### 3D ARRAY
 
@@ -67,8 +71,10 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  1 | Insertion at any index | O(1) | Constant
  2 | Deletion at any index | O(1) | Constant
  3 | Deletion of the value without having index | O(n^3) | Cubic  
+ 4 | Update value without having index | O(n^3) | Cubic
+ 5 | Update value having index | O(1) | Constant
 
-#### LINKED LISTS
+#### :octocat: LINKED LISTS
 
 ##### SINGULAR
 
