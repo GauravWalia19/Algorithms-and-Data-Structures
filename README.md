@@ -44,10 +44,61 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 #### ARRAYS
 
+##### 1D ARRAY
+
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
- 1.1 | direct access using index | O(1) | Constant
- 1.2 | Using loop operation | O(n) | Linear  
+ 1 | Insertion at any index | O(1) | Constant
+ 2 | Deletion at any index | O(1) | Constant
+ 3 | Deletion of the value without having index | O(n) | Linear  
+
+##### 2D ARRAY
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Insertion at any index | O(1) | Constant
+ 2 | Deletion at any index | O(1) | Constant
+ 3 | Deletion of the value without having index | O(n^n) | Quadratic  
+
+##### 3D ARRAY
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Insertion at any index | O(1) | Constant
+ 2 | Deletion at any index | O(1) | Constant
+ 3 | Deletion of the value without having index | O(n^3) | Cubic  
+
+#### LINKED LISTS
+
+##### SINGULAR
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Insertion at Head | O(1) | Constant
+ 2 | Insertion at Tail | O(n) | Linear
+ 3 | Deletion at Head | O(1) | Constant
+ 4 | Deletion at Tail | O(n) | Linear
+ 5 | Update the node | O(n) | Linear
+
+##### DOUBLE
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Insertion at Head | O(1) | Constant
+ 2 | Insertion at Tail | O(1) | Constant
+ 3 | Deletion at Head | O(1) | Constant
+ 4 | Deletion at Tail | O(1) | Constant
+ 5 | Update the node | O(n) | Linear
+
+##### CIRCULAR
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Insertion at Head | O(1) | Constant
+ 2 | Insertion at Tail | O(n) | Linear
+ 3 | Deletion at Head | O(1) | Constant
+ 4 | Deletion at Tail | O(n) | Linear
+ 5 | Update the node | O(n) | Linear
 
 ## Contribution Guide
 

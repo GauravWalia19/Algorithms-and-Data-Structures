@@ -16,6 +16,7 @@
 #### LISTS
 
 * [Self-Made Single Linked List](Data-Structures/LISTS/Single-Linked-List/Main.java)
+* [Self-Made Double Linked List](Data-Structures/LISTS/Double-Linked-List/Main.java)
 * [Inbuilt ArrayList](Data-Structures/LISTS/arrayList.java)
 * [Inbuilt Vectors](Data-Structures/LISTS/vectors.java)
 
