@@ -1,8 +1,10 @@
 public class Node
 {
+    private Node prev;
     private data obj;
     private Node next;
 
+    //contructor
     public Node(data obj)
     {
         this.obj = obj;
@@ -17,6 +19,10 @@ public class Node
     {
         return next;
     }
+    public Node getPrev()
+    {
+        return prev;
+    }
     //setters
     public void setObj(data obj)
     {
@@ -26,6 +32,12 @@ public class Node
     {
         this.next = next;
     }
+    public void setPrev(Node prev)
+    {
+        this.prev = prev;
+    }
+    //for conversion for printing
+    //calling to tostring method in data.java
     public String toString()
     {
         return obj.toString();
