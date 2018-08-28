@@ -96,7 +96,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  4 | Deletion at Tail | O(1) | Constant
  5 | Update the node | O(n) | Linear
 
-##### CIRCULAR
+##### SINGLE CIRCULAR
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -104,6 +104,16 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  2 | Insertion at Tail | O(n) | Linear
  3 | Deletion at Head | O(1) | Constant
  4 | Deletion at Tail | O(n) | Linear
+ 5 | Update the node | O(n) | Linear
+
+##### DOUBLE CIRCULAR
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Insertion at Head | O(1) | Constant
+ 2 | Insertion at Tail | O(1) | Constant
+ 3 | Deletion at Head | O(1) | Constant
+ 4 | Deletion at Tail | O(1) | Constant
  5 | Update the node | O(n) | Linear
 
 ## Contribution Guide
