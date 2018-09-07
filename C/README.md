@@ -6,6 +6,12 @@
 
 ### DATA STRUCTURES
 
+#### ARRAYS
+
+#### LISTS
+
+* [SINGLE LINKED LIST](Data-Structures/SINGLE-LINKED-LIST/Main.c)
+
 ### DYNAMIC PROGRAMMING
 
 ### MISC
