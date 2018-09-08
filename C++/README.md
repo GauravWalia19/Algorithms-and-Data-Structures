@@ -15,6 +15,10 @@
 
 :link: For use see [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
 
+* LISTS
+  * LINKED-LIST
+  * [VECTORS](Data-Structures/LISTS/VECTORS/Main.cpp)
+
 ### DYNAMIC PROGRAMMING
 
 ### MISC
