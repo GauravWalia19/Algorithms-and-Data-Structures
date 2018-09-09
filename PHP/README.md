@@ -2,19 +2,19 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
-### SEARCHES
+### :rocket: SEARCHES
 
-### SORT
+### :rocket: SORT
 
-### EXECUTION OF PHP CODE
+### :rocket: EXECUTION OF PHP CODE
 
 #### LINUX
 

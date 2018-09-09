@@ -2,9 +2,9 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
 #### ARRAYS
 
@@ -20,18 +20,18 @@
 * [Inbuilt ArrayList](Data-Structures/LISTS/arrayList.java)
 * [Inbuilt Vectors](Data-Structures/LISTS/vectors.java)
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
 * [REVERSE A NUMBER](Misc/reverse_no.java)
 * [REVERSE A STRING](Misc/reverseString.java)
 
-### SEARCHES
+### :rocket: SEARCHES
 
 * [LINEAR SEARCH](Searches/linearSearch.java)
 
-### SORTING
+### :rocket: SORTING
 
 * BUBBLE SORT
   * [ascending](Sorting/BubbleSort.java)
@@ -52,7 +52,7 @@
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)
 
-### EXECUTION OF JAVA CODE
+### :rocket: EXECUTION OF JAVA CODE
 
 #### LINUX
 

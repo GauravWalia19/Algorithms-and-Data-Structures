@@ -2,19 +2,19 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
-### SEARCHES
+### :rocket: SEARCHES
 
-### SORTING
+### :rocket: SORTING
 
-### Execution of Q# code
+### :rocket: Execution of Q# code
 
 ```bash
 dotnet run

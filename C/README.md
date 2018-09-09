@@ -2,9 +2,9 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
 #### ARRAYS
 
@@ -12,17 +12,17 @@
 
 * [SINGLE LINKED LIST](Data-Structures/SINGLE-LINKED-LIST/Main.c)
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
 * [Fabonacci Series](Misc/fabonacci.c)
 
-### SEARCHES
+### :rocket: SEARCHES
 
 * [Linear Search](Searches/linearSearch.c)
 
-### SORTING
+### :rocket: SORTING
 
 * BUBBLE SORT
   * [ASCENDING AND STABLE](Sorting/BUBBLE-SORT/bubblesort.c)
@@ -44,7 +44,7 @@
     * [START FROM LEFT](Sorting/INSERTION-SORT/deleftinsert.c)
     * [START FROM RIGHT](Sorting/INSERTION-SORT/derightinsert.c)
 
-### EXECUTION OF C CODE
+### :rocket: EXECUTION OF C CODE
 
 #### LINUX
 

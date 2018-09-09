@@ -2,25 +2,25 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
 * [REVERSE A NUMBER](Conversions/reverse.py)
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
-### SEARCHES
+### :rocket: SEARCHES
 
 * [LINEAR SEARCH](Searches/linearsearch.py)
 
-### SORTING
+### :rocket: SORTING
 
 * [SELECTION SORT](Sorting/SelectionSort.py)
 
-### EXECUTION OF Python3 CODE
+### :rocket: EXECUTION OF Python3 CODE
 
 #### LINUX
 

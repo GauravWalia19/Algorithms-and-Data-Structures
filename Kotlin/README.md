@@ -2,14 +2,14 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
-### SEARCHES
+### :rocket: SEARCHES
 
-### SORTING
+### :rocket: SORTING

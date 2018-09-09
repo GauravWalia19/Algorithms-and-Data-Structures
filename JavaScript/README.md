@@ -2,28 +2,28 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
-### SEARCHES
+### :rocket: SEARCHES
 
 * [Linear Search](Searches/linearSearch.js)
 
-### SORTING
+### :rocket: SORTING
 
 * [BUBBLE SORT](Sorting/bubble-sort.js)
 * [SELECTION SORT](Sorting/selection-sort.js)
 
-### CONTRIBUTING
+### :rocket: CONTRIBUTING
 
 * Only add extern js file code .html .css will be ignored
 
-### EXECUTION OF JavaScript CODE
+### :rocket: EXECUTION OF JavaScript CODE
 
 #### ALL OS
 

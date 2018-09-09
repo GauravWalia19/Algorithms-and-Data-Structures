@@ -2,9 +2,9 @@
 
 ## INDEX
 
-### CONVERSIONS
+### :rocket: CONVERSIONS
 
-### DATA STRUCTURES
+### :rocket: DATA STRUCTURES
 
 * STACKS
   * [Used Self Made Stack](Data-Structures/STACKS/stacks.cpp)
@@ -20,9 +20,9 @@
     * [SINGLE](Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
   * [VECTORS](Data-Structures/LISTS/VECTORS/Main.cpp)
 
-### DYNAMIC PROGRAMMING
+### :rocket: DYNAMIC PROGRAMMING
 
-### MISC
+### :rocket: MISC
 
 * [PAIR WISE SWAP](Misc/PairWiseSwap.cpp)
 * [REVERSE A NUMBER](Misc/reverse.cpp)
@@ -32,14 +32,14 @@
     * [Using my own Queue](Misc/lru.cpp)
   * OPTIMAL
 
-### SEARCHES
+### :rocket: SEARCHES
 
 * [BINARY SEARCH](Searches/binary_search.cpp)
 * LINEAR SEARCH
   * [SIMPLE](Searches/linear.cpp)
   * [COMPLEX](Searches/linearSearch.cpp)  
 
-### SORTING
+### :rocket: SORTING
 
 * [HEAP SORT](Sorting/heapsort.cpp)
 * [MERGE SORT](Sorting/mergesort.cpp)
@@ -47,7 +47,7 @@
 * [SHELL SORT](Sorting/shellsort.cpp)
 * [BUBBLE SORT](Sorting/bubblesort.cpp)
 
-### EXECUTION OF C++ CODE
+### :rocket: EXECUTION OF C++ CODE
 
 #### LINUX
 
