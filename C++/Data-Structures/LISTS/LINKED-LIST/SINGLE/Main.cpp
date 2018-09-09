@@ -155,9 +155,48 @@ class list
         // cout << size()-1-num <<endl;
         return value_from_front(s-1-num);
     }
-    void delete_given_node()
-    {
 
+    /***************************************/
+    /*===========> DELETE GIVEN NODE <=======*/
+    void delete_given_node(string val)
+    {
+        if(head==NULL)
+        {
+            return;
+        }
+        else if(head->next==NULL)
+        {
+            if(head->str==val)
+            {
+                head=NULL;
+                s--;
+            }
+        }
+        else if(head->str==val) //for deleting from head;
+        {
+            node* tmp = head;
+            head=head->next;
+            delete(tmp);
+            s--;
+        }
+        else
+        {
+            node* current=head;
+            node* prev=head;
+            while(current->next!=NULL)
+            {
+                if(current->str==val)
+                {
+                    break;
+                }
+                prev=current;
+                current=current->next;
+            }
+            node* tmp=current;
+            prev->next=current->next; 
+            delete(tmp);
+            s--;
+        }
     }
 
     /***************************************/
@@ -185,6 +224,8 @@ int main()
     A.insert_tail("is");
     A.insert_tail("insane");
     A.insert_tail("rock");
+    A.insert_tail("clown");
+    A.insert_tail("stupid");
     A.print_list();
     
     A.delete_head();
@@ -202,4 +243,6 @@ int main()
     A.value_from_last(100);
 
     cout << A.size() << endl;
+    A.delete_given_node("insane");
+    A.print_list();
 }   
