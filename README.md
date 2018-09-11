@@ -127,6 +127,12 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 #### :octocat: QUEUES
 
+#### :octocat: HASHTABLE
+
+#### :octocat: TREES
+
+#### :octocat: GRAPHS
+
 ## Contribution Guide
 
 Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions of contributing and CODE OF CONDUCT.
