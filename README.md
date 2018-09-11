@@ -40,6 +40,13 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
  8 | Radix Sort | O(n) or slower than O(nlog(n)) log of base 2 | Linear / Logarithmic | Stable | Can Be |
 
+### :rocket: SEARCHING
+
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
+ ---- | --------- | ------------------------ | ------------------ | --------- | ---------
+ 1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
+ 2 | Binary Search | O(log n) | Logarithmic | :heavy_multiplication_x: | :heavy_check_mark:
+
 ### :rocket: DATA STRUCTURES
 
 #### :octocat: ARRAYS
@@ -115,6 +122,10 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  3 | Deletion at Head | O(1) | Constant
  4 | Deletion at Tail | O(1) | Constant
  5 | Update the node | O(n) | Linear
+
+#### :octocat: STACKS
+
+#### :octocat: QUEUES
 
 ## Contribution Guide
 
