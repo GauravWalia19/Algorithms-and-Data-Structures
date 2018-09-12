@@ -8,6 +8,8 @@
 
 #### ARRAYS
 
+* [1 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/1darrays.c)
+
 #### LISTS
 
 * [SINGLE LINKED LIST](Data-Structures/SINGLE-LINKED-LIST/Main.c)
