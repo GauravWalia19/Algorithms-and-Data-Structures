@@ -9,6 +9,7 @@
 #### ARRAYS
 
 * [1 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/1darrays.c)
+* [2 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/2darrays.c)
 
 #### LISTS
 
