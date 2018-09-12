@@ -19,7 +19,7 @@
 
 ### :rocket: MISC
 
-* [Fabonacci Series](Misc/fabonacci.c)
+* [Fibonacci Series](Misc/fibonacci.c)
 
 ### :rocket: SEARCHES
 
