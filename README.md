@@ -125,6 +125,14 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 #### :octocat: STACKS
 
+##### ONE WAY STACK / TWO WAY STACK
+
+ SNo. | Operations | Order of Complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Push an element or Insert element | O(1) | Constant
+ 2 | Pop an element or Delete element | O(1) | Constant
+ 3 | Get value of top | O(1) | Constant
+
 #### :octocat: QUEUES
 
 #### :octocat: HASHTABLE
