@@ -152,7 +152,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
   * Data-Structures
   * Dynamic-Programming
   * Misc
-  * Searches
+  * Searching
   * Sorting
   * README
 
