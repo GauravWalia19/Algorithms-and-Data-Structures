@@ -55,31 +55,53 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
- 1 | Insertion at any index | O(1) | Constant
- 2 | Deletion at any index | O(1) | Constant
- 3 | Deletion of the value without having index | O(n) | Linear  
- 4 | Update value without having index | O(n) | Linear
- 5 | Update value having index | O(1) | Constant
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n) | Linear
+ 3 | Deletion at beginning | O(n) | Linear
+ 4 | Insertion at end (empty array) | O(1) | Constant
+ 5 | Deletion at end (empty array) | O(1) | Constant
+ 6 | Deletion of the value without having index | O(n) | Linear  
+ 7 | Update value without having index | O(n) | Linear
+ 8 | Update value having index | O(1) | Constant
 
 ##### 2D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
- 1 | Insertion at any index | O(1) | Constant
- 2 | Deletion at any index | O(1) | Constant
- 3 | Deletion of the value without having index | O(n^n) | Quadratic  
- 4 | Update value without having index | O(n^2) | Quadratic
- 5 | Update value having index | O(1) | Constant
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n^2) | Quadratic
+ 3 | Deletion at beginning | O(n^2) | Quadratic
+ 4 | Insertion at end (empty array) | O(1) | Constant
+ 5 | Deletion at end (empty array) | O(1) | Constant
+ 6 | Deletion of the value without having index | O(n^n) | Quadratic  
+ 7 | Update value without having index | O(n^2) | Quadratic
+ 8 | Update value having index | O(1) | Constant
 
 ##### 3D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
- 1 | Insertion at any index | O(1) | Constant
- 2 | Deletion at any index | O(1) | Constant
- 3 | Deletion of the value without having index | O(n^3) | Cubic  
- 4 | Update value without having index | O(n^3) | Cubic
- 5 | Update value having index | O(1) | Constant
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n^3) | Cubic
+ 3 | Deletion at beginning | O(n^3) | Cubic
+ 4 | Insertion at end (empty array) | O(1) | Constant
+ 5 | Deletion at end (empty array) | O(1) | Constant
+ 6 | Deletion of the value without having index | O(n^3) | Cubic  
+ 7 | Update value without having index | O(n^3) | Cubic
+ 8 | Update value having index | O(1) | Constant
+
+##### DYNAMIC 1d ARRAYS / VECTORS
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n) | Linear
+ 3 | Deletion at beginning | O(n) | Linear
+ 4 | Insertion at end (empty array) | O(n) | Linear
+ 5 | Deletion at end (empty array) | O(n) | Linear
+ 6 | Deletion of the value without having index | O(n) | Linear  
+ 7 | Update value without having index | O(n) | Linear
+ 8 | Update value having index | O(1) | Constant
 
 #### :octocat: LINKED LISTS
 
