@@ -11,6 +11,7 @@
 * [1 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/1darrays.c)
 * [2 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/2darrays.c)
 * [3 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/3darrays.c)
+* [DYNAMIC ARRAYS](Data-Structures/ARRAYS/dynamicarray.c)
 
 #### LISTS
 
