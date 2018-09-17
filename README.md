@@ -174,7 +174,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 ## Contribution Guide
 
-Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions of contributing and CODE OF CONDUCT.
+Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions of contributing and [CODE OF CONDUCT](CODE_OF_CONDUCT.md).
 
 ### Directory Structure
 
@@ -195,7 +195,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 
 * Algorithm
   * About
-  * Psuedocode
+  * Pseudocode
   * Important Points
   * Different Methods
   * Algorithm
