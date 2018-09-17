@@ -113,7 +113,7 @@ void insert_middle(int value,int position)
  *  DELETION
  *  1. FROM HEAD
  *  2. FROM TAIL
- *  3A. FROM MIDDLE USING VALUE
+ *  3A. FROM MIDDLE USING VALUE FROM LEFT
  *  3B. FROM MIDDLE USING INDEX
  *=======================================/
 
@@ -165,8 +165,83 @@ void delete_tail()
 }
 
 /*===> DELETE FROM MIDDLE USING VALUE <===*/
+void delete_using_value(int value)
+{
+    if(head==NULL)
+    {
+        return;
+    }
+    else if(head->next==NULL && head->value==value) //one node
+    {
+        head=NULL;
+    }
+    else if(head->value==value) //value present at head
+    {
+        struct node* temp = head;
+        head=head->next;
+        temp->next=NULL;
+        free(temp);
+    }
+    else
+    {
+        struct node* current=head;
+        struct node* prev=head;
+        while(current->next!=NULL)
+        {
+            if(current->value==value)
+            {
+                break;
+            }
+            prev=current;
+            current=current->next;
+        }
+        prev->next = current->next;
+        current->next=NULL;
+        free(current);
+    } 
+    length--;
+}
 
 /*===> DELETE FROM MIDDLE USING INDEX <===*/
+void delete_using_index(int position)
+{
+    if(head==NULL)
+    {
+        return;
+    }
+    else if(position<0 || position>length-1)
+    {
+        printf("INVALID POSITION\n");
+        return;
+    }
+    else if(position==0) //deletion at head
+    {
+        struct node* temp=head;
+        head = head->next;
+        temp->next = NULL;
+        free(temp);
+    }
+    else
+    {
+        int i=0;
+        struct node* current=head;
+        struct node* prev=head;
+        while(current->next!=NULL)
+        {
+            if(i==position)
+            {
+                break;
+            }
+            i++;
+            prev=current;
+            current=current->next;
+        }
+        //deletion
+        prev->next = current->next;
+        current->next=NULL;
+        free(current);
+    }
+}
 
 /***********************************/
 /*=========> PRINT LIST <=========*/
@@ -206,4 +281,11 @@ int main()
     print_single_linked_list();
 
     printf("%d %d\n",length,size());
+
+    delete_using_value(1);
+    delete_using_value(3);
+    print_single_linked_list();
+
+    delete_using_index(-1);
+    print_single_linked_list();
 }
