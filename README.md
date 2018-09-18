@@ -203,8 +203,8 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 
 ### Got any Questions
 
-* Make an issue! We'll reply as soon as we can!
-* Find bugs in our code and make issue or pull request.
+* Make an [issue](https://github.com/GauravWalia19/Algorithms-and-Data-Structures/issues)! We'll reply as soon as we can!
+* Find bugs in our code and make [issue](https://github.com/GauravWalia19/Algorithms-and-Data-Structures/issues) or [pull request](https://github.com/GauravWalia19/Algorithms-and-Data-Structures/pulls).
 * Pull Request of the new code will we accepted soon as possible.
 
 ### AUTHORS

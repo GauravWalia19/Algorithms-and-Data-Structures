@@ -1,4 +1,4 @@
-# CONTRIBUTORS
+# OUR COMMUNITY
 
 * Aditya Aggarwal (the-cybersapien)
 * Jai Kathuria (jaikathuria)

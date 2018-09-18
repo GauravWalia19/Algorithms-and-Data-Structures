@@ -15,7 +15,8 @@
 
 #### LISTS
 
-* [SINGLE LINKED LIST](Data-Structures/SINGLE/Main.c)
+* [SINGLE LINKED LIST](Data-Structures/LINKED-LIST/SINGLE/Main.c)
+* [DOUBLE LINKED LIST](Data-Structures/LINKED-LIST/DOUBLE/Main.c)
 
 ### :rocket: DYNAMIC PROGRAMMING
 
