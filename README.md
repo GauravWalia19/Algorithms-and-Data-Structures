@@ -107,32 +107,41 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 #### :octocat: LINKED LISTS
 
-##### SINGULAR
+##### SINGULAR (having head,next)
 
- SNo. | Operations | Order of Time Complexity O(n) | Type of Time Complexity
- ---- | ---------- | ----------------------------- | -----------------------
- 1 | Traversing a list | O(n) | Linear
- 2 | Insertion at Head | O(1) | Constant
- 3 | Insertion at Tail | O(n) | Linear
- 4 | Insertion at Middle | O(n) | Linear
- 5 | Deletion from Head | O(1) | Constant
- 6 | Deletion from Tail | O(n) | Linear
- 7 | Deletion from Middle | O(n) | Linear
- 8 | Update the node | O(n) | Linear
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Traversing a list | O(n) -- Linear | O(1) -- Constant
+ 2 | Insertion at Head | O(1) -- Constant | O(1) -- Constant
+ 3 | Insertion at Tail | O(n) -- Linear | O(1) -- Constant
+ 4 | Insertion at Middle using Position | O(n) -- Linear | O(1) -- Constant
+ 5 | Insertion at Middle Exactly (Slow and Fast Pointer) | O(n/2) -- Linear | O(1) -- Constant
+ 6 | Deletion from Head | O(1) -- Constant | O(1) -- Constant
+ 7 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
+ 8 | Deletion from Middle using Position | O(n) -- Linear | O(1) -- Constant
+ 9 | Deletion from Middle Exactly | O(n/2) -- Linear | O(1) -- Constant
+ 10 | Update the node | O(n) -- Linear | O(1) -- Constant
 
-:link: SPACE COMPLEXITY: O(1)
+##### HYBRID SINGULAR (having head,tail and next)
 
-##### DOUBLE
+##### DOUBLE (having head,next and prev)
 
- SNo. | Operations | Order of Time Complexity O(n) | Type of Time Complexity
- ---- | ---------- | ----------------------------- | -----------------------
- 1 | Insertion at Head | O(1) | Constant
- 2 | Insertion at Tail | O(1) | Constant
- 3 | Deletion at Head | O(1) | Constant
- 4 | Deletion at Tail | O(1) | Constant
- 5 | Update the node | O(n) | Linear
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Traversing a list (from left or right) | O(n) -- Linear | O(1) -- Constant
+ 2 | Insertion at Head | O(1) -- Constant | O(1) -- Constant
+ 3 | Insertion at Tail | O(n) -- Linear | O(1) -- Constant
+ 4 | Insertion at Middle using Position | O(n) -- Linear | O(1) -- Constant
+ 5 | Insertion at Middle Exactly (Slow and Fast Pointer) | O(n/2) -- Linear | O(1) -- Constant
+ 6 | Deletion from Head | O(1) -- Constant | O(1) -- Constant
+ 7 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
+ 8 | Deletion from Middle using Position | O(n) -- Linear | O(1) -- Constant
+ 9 | Deletion from Middle Exactly | O(n/2) -- Linear | O(1) -- Constant
+ 10 | Update the node | O(n) -- Linear | O(1) -- Constant
 
-##### SINGLE CIRCULAR
+##### HYBRID DOUBLE (having head,tail,prev and next)
+
+##### CIRCULAR
 
  SNo. | Operations | Order of Time Complexity O(n) | Type of Time Complexity
  ---- | ---------- | ----------------------------- | -----------------------
@@ -140,16 +149,6 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  2 | Insertion at Tail | O(n) | Linear
  3 | Deletion at Head | O(1) | Constant
  4 | Deletion at Tail | O(n) | Linear
- 5 | Update the node | O(n) | Linear
-
-##### DOUBLE CIRCULAR
-
- SNo. | Operations | Order of Time Complexity O(n) | Type of Time Complexity
- ---- | ---------- | ----------------------------- | -----------------------
- 1 | Insertion at Head | O(1) | Constant
- 2 | Insertion at Tail | O(1) | Constant
- 3 | Deletion at Head | O(1) | Constant
- 4 | Deletion at Tail | O(1) | Constant
  5 | Update the node | O(n) | Linear
 
 #### :octocat: STACKS
