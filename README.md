@@ -146,15 +146,27 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 ##### HYBRID DOUBLE (having head,prev and next)
 
-##### SINGLE CIRCULAR (having head , next and loop)
+##### TAIL CIRCULAR (having tail ,next and loop)
 
- SNo. | Operations | Order of Time Complexity O(n) | Type of Time Complexity
- ---- | ---------- | ----------------------------- | -----------------------
- 1 | Insertion at Head | O(1) | Constant
- 2 | Insertion at Tail | O(n) | Linear
- 3 | Deletion at Head | O(1) | Constant
- 4 | Deletion at Tail | O(n) | Linear
- 5 | Update the node | O(n) | Linear
+SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Traversing a list (from left to right to head) | O(n) -- Linear | O(1) -- Constant
+ 2 | Insertion at Head | O(1) -- Constant | O(1) -- Constant
+ 3 | Insertion at Tail | O(1) -- Constant | O(1) -- Constant
+ 4 | Deletion from Head | O(1) -- Constant | O(1) -- Constant
+ 5 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
+ 6 | Linear search | O(n) -- Linear | O(1) -- Constant
+ 7 | Clear list | O(1) -- Constant | O(1) -- Constant
+
+##### SINGLE CIRCULAR (having head ,next and loop)
+
+SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Traversing a list (from left to right to head) | O(n) -- Linear | O(1) -- Constant
+ 2 | Insertion at Head | O(n) -- Linear | O(1) -- Constant
+ 3 | Insertion at Tail | O(n) -- Linear | O(1) -- Constant
+ 4 | Deletion from Head | O(n) -- Linear | O(1) -- Constant
+ 5 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
 
 ##### DOUBLE CIRCULAR (having head,tail and prev,next and loop)
 
