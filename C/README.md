@@ -11,12 +11,16 @@
 * [1 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/1darrays.c)
 * [2 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/2darrays.c)
 * [3 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/3darrays.c)
-* [DYNAMIC ARRAYS](Data-Structures/ARRAYS/dynamicarray.c)
 
 #### LISTS
 
-* [SINGLE LINKED LIST](Data-Structures/LINKED-LIST/SINGLE/Main.c)
-* [DOUBLE LINKED LIST](Data-Structures/LINKED-LIST/DOUBLE/Main.c)
+* LINKED LIST
+  * SINGLE
+    * [SINGLE LINKED LIST](Data-Structures/LINKED-LIST/SINGLE/Main.c)
+  * DOUBLE
+    * [DOUBLE LINKED LIST](Data-Structures/LINKED-LIST/DOUBLE/Main.c)
+  * CIRCULAR
+* [DYNAMIC ARRAYS](Data-Structures/LINKED-LIST/dynamicarray.c)
 
 ### :rocket: DYNAMIC PROGRAMMING
 

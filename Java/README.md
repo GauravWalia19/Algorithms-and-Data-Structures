@@ -15,12 +15,16 @@
 
 #### LISTS
 
-* [Single Linked List](Data-Structures/LISTS/SINGLE/Main.java)
-* [Single Linked List using object data](Data-Structures/LISTS/Single-Linked-List/Main.java)
-* [Double Linked List](Data-Structures/LISTS/Double-Linked-List/Main.java)
-* [Double Linked List using obejct data](Data-Structures/LISTS/DOUBLE/Main.java)
-* [Inbuilt ArrayList](Data-Structures/LISTS/arrayList.java)
-* [Inbuilt Vectors](Data-Structures/LISTS/vectors.java)
+* LINKED LIST
+  * SINGLE
+    * [Single Linked List](Data-Structures/LISTS/SINGLE/Main.java)
+    * [Single Linked List using object data](Data-Structures/LISTS/Single-Linked-List/Main.java)
+  * DOUBLE
+    * [Double Linked List](Data-Structures/LISTS/Double-Linked-List/Main.java)
+    * [Double Linked List using obejct data](Data-Structures/LISTS/DOUBLE/Main.java)
+  * CIRCULAR
+* [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
+* [VECTORS](Data-Structures/LISTS/vectors.java)
 
 ### :rocket: DYNAMIC PROGRAMMING
 

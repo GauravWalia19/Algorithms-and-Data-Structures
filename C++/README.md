@@ -6,19 +6,24 @@
 
 ### :rocket: DATA STRUCTURES
 
-* STACKS
-  * [Used Self Made Stack](Data-Structures/STACKS/stacks.cpp)
-  * [Self Made Stack](Data-Structures/STACKS/Stack.hpp) :link:
-  * [Inbuilt stack library](Data-Structures/STACKS/stack.cpp)
-  * [Used Self Made Two Way Stack](Data-Structures/STACKS/two-way-stack.cpp)
-  * [Self Made Two Way Stack](Data-Structures/STACKS/Tstack.hpp) :link:
+#### ARRAYS
+
+#### LISTS
+
+* LINKED-LIST
+  * SINGLE
+    * [SINGLE](Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
+* [VECTORS](Data-Structures/LISTS/VECTORS/Main.cpp)
+
+#### STACKS
+  
+* [Used Self Made Stack](Data-Structures/STACKS/stacks.cpp)
+* [Self Made Stack](Data-Structures/STACKS/Stack.hpp) :link:
+* [Inbuilt stack library](Data-Structures/STACKS/stack.cpp)
+* [Used Self Made Two Way Stack](Data-Structures/STACKS/two-way-stack.cpp)
+* [Self Made Two Way Stack](Data-Structures/STACKS/Tstack.hpp) :link:
 
 :link: For use see [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
-
-* LISTS
-  * LINKED-LIST
-    * [SINGLE](Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
-  * [VECTORS](Data-Structures/LISTS/VECTORS/Main.cpp)
 
 ### :rocket: DYNAMIC PROGRAMMING
 
