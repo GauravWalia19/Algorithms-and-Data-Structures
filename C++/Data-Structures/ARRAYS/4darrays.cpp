@@ -12,7 +12,7 @@ int main()
     int breadth; //BREADTH OF THE CUBE
     int height; //HEIGHT OF THE CUBE
     int tym;  //HOW MANY CUBE IS ACCESSED
-    cout << "Enter the time YOU WNAT TO access the cube"<<endl;
+    cout << "Enter the time YOU WANT TO access the cube"<<endl;
     cin >> tym;
     cout << "Enter the length,breadth and height of the cube"<<endl;
     cin >> length >> breadth >> height;
