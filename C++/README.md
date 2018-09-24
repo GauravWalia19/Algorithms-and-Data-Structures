@@ -8,6 +8,11 @@
 
 #### ARRAYS
 
+* [ONE DIMENSIONAL ARRAY](Data-Structures/ARRAYS/1darrays.cpp)
+* [TWO DIMENSIONAL ARRAY](Data-Structures/ARRAYS/2darrays.cpp)
+* [THREE DIMENSIONAL ARRAY](Data-Structures/ARRAYS/3darrays.cpp)
+* [FOUR DIMENSIONAL ARRAY](Data-Structures/ARRAYS/4darrays.cpp)
+
 #### LISTS
 
 * LINKED-LIST
