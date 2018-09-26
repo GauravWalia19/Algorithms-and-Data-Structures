@@ -47,7 +47,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | --------- | ---------
  1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
- 2 | Binary Search | O(log n) | Logarithmic | :heavy_multiplication_x: | :heavy_check_mark:
+ 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
 
 ### :rocket: DATA STRUCTURES
 
