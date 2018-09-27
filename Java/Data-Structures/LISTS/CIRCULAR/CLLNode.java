@@ -3,6 +3,7 @@ public class CLLNode
     private int data;
     private CLLNode next;
 
+    //constructors
     public CLLNode(int data)
     {
         this.data=data;
@@ -25,7 +26,7 @@ public class CLLNode
     {
         this.next=next;
     }
-
+    //used for conversion
     public String toString()
     {
         return data+"";

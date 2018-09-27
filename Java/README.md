@@ -23,6 +23,7 @@
     * [Double Linked List](Data-Structures/LISTS/Double-Linked-List/Main.java)
     * [Double Linked List using obejct data](Data-Structures/LISTS/DOUBLE/Main.java)
   * CIRCULAR
+    * [Circular Linked List (using tail node)](Data-Structures/LISTS/CIRCULAR/Main.java)
 * [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
 * [VECTORS](Data-Structures/LISTS/vectors.java)
 
@@ -33,7 +34,7 @@
 * [REVERSE A NUMBER](Misc/reverse_no.java)
 * [REVERSE A STRING](Misc/reverseString.java)
 
-### :rocket: SEARCHES
+### :rocket: SEARCHING
 
 * [LINEAR SEARCH](Searches/linearSearch.java)
 

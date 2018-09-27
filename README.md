@@ -146,7 +146,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 ##### HYBRID DOUBLE (having head,prev and next)
 
-##### TAIL CIRCULAR (having tail ,next and loop)
+##### CIRCULAR (having tail ,next and loop)
 
 SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -155,10 +155,11 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  3 | Insertion at Tail | O(1) -- Constant | O(1) -- Constant
  4 | Deletion from Head | O(1) -- Constant | O(1) -- Constant
  5 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
+ 6 | Deletion from middle using value | O(n) -- Linear | O(1) -- Constant
  6 | Linear search | O(n) -- Linear | O(1) -- Constant
  7 | Clear list | O(1) -- Constant | O(1) -- Constant
 
-##### SINGLE CIRCULAR (having head ,next and loop)
+##### CIRCULAR (having head ,next and loop)
 
 SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -167,8 +168,6 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  3 | Insertion at Tail | O(n) -- Linear | O(1) -- Constant
  4 | Deletion from Head | O(n) -- Linear | O(1) -- Constant
  5 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
-
-##### DOUBLE CIRCULAR (having head,tail and prev,next and loop)
 
 #### :octocat: STACKS
 
