@@ -25,9 +25,9 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
   * [SELECTION SORT](docs/selection-sort.md)
   * [INSERTION SORT](docs/insertion-sort.md)
 
-## ORDER OF COMPLEXITY
+## COMPLEXITY ANALYSIS
 
-### :rocket: SORTING
+### :mag: SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
@@ -42,18 +42,18 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 **Not an efficient Way
 
-### :rocket: SEARCHING
+### :mag: SEARCHING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | --------- | ---------
  1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
  2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
 
-### :rocket: DATA STRUCTURES
+### :mag: DATA STRUCTURES
 
 #### :octocat: ARRAYS
 
-##### 1D ARRAY
+##### :rocket: 1D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -66,7 +66,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n) | Linear
  8 | Update value having index | O(1) | Constant
 
-##### 2D ARRAY
+##### :rocket: 2D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -79,7 +79,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n^2) | Quadratic
  8 | Update value having index | O(1) | Constant
 
-##### 3D ARRAY
+##### :rocket: 3D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -92,7 +92,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-##### DYNAMIC 1d ARRAYS
+##### :rocket: DYNAMIC 1D ARRAYS
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -105,7 +105,13 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n) | Linear
  8 | Update value having index | O(1) | Constant
 
-#### :octocat: LINKED LISTS
+##### :rocket: DYNAMIC 2D ARRAYS
+
+##### :rocket: DYNAMIC 3D ARRAYS
+
+#### :octocat: LISTS
+
+##### :rocket: LINKED LISTS
 
 ##### SINGULAR (having head and next)
 
@@ -169,6 +175,10 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  4 | Deletion from Head | O(n) -- Linear | O(1) -- Constant
  5 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
 
+##### :rocket: ARRAYLISTS
+
+##### :rocket: VECTORS
+
 #### :octocat: STACKS
 
 ##### ONE WAY STACK / TWO WAY STACK
@@ -208,7 +218,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 * Each Code snippet must be in the appropriate sub-directory.
 * Add index of the code to specific readme of the language.
 
-### Docs
+### Docs Structure
 
 * Algorithm
   * About
