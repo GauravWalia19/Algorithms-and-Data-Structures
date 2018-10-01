@@ -28,6 +28,7 @@
 ### :rocket: MISC
 
 * [Fibonacci Series](Misc/fibonacci.c)
+* [SPELL THE NUMBER](Misc/spell_the_number.c)
 
 ### :rocket: SEARCHES
 
