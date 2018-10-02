@@ -92,7 +92,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: DYNAMIC 1D ARRAYS
+##### :rocket: DYNAMIC 1D ARRAYS (C,C++)
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -105,9 +105,9 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n) | Linear
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: DYNAMIC 2D ARRAYS
+##### :rocket: DYNAMIC 2D ARRAYS (C,C++)
 
-##### :rocket: DYNAMIC 3D ARRAYS
+##### :rocket: DYNAMIC 3D ARRAYS (C,C++)
 
 #### :octocat: LISTS
 
@@ -150,7 +150,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 ##### :rocket: HYBRID DOUBLE LINKED LIST (having head,prev and next)
 
-##### :rocket: CIRCULAR LINKED LIST (having tail ,next and loop)
+##### :rocket: CIRCULAR LINKED LIST (having tail/head ,next and loop)
 
 SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -163,25 +163,27 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  6 | Linear search | O(n) -- Linear | O(1) -- Constant
  7 | Clear list | O(1) -- Constant | O(1) -- Constant
 
-##### :rocket: CIRCULAR LINKED LIST (having head ,next and loop)
-
-SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
- ---- | ---------- | -------------------------------------- | ----------------------------------
- 1 | Traversing a list (from left to right to head) | O(n) -- Linear | O(1) -- Constant
- 2 | Insertion at Head | O(n) -- Linear | O(1) -- Constant
- 3 | Insertion at Tail | O(n) -- Linear | O(1) -- Constant
- 4 | Deletion from Head | O(n) -- Linear | O(1) -- Constant
- 5 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
-
 ##### :rocket: MEMORY EFFICIENT (XOR) DOUBLE LINKED LIST
 
 ##### :rocket: UNROLLED LINKED LIST
 
 ##### :rocket: SKIP LIST
 
-##### :rocket: ARRAYLISTS
+##### :rocket: ARRAYLISTS (JAVA)
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Traversing a list | O(n) -- Linear | O(1) -- Constant
+ 2 | **add(element)** -- Insertion at Tail | O(1) -- Constant | O(1) -- Constant
+ 3 | **add(index,element)** -- Insertion at Middle using index | O(n) -- Linear | O(1) -- Constant
+ 4 | **remove(index)** -- Deletion from Middle using index | O(n) -- Linear | O(1) -- Constant
+ 5 | **contains(element)** -- Search List | O(n) -- Linear | O(1) -- Constant
+ 6 | **get(index)** -- Accessing random element | O(1) -- Constant | O(1) -- Constant
 
 ##### :rocket: VECTORS
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
 
 #### :octocat: STACKS
 
