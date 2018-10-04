@@ -8,16 +8,18 @@
 
 #### ARRAYS
 
-* [ONE DIMENSIONAL ARRAY](Data-Structures/ARRAYS/1darrays.cpp)
-* [TWO DIMENSIONAL ARRAY](Data-Structures/ARRAYS/2darrays.cpp)
-* [THREE DIMENSIONAL ARRAY](Data-Structures/ARRAYS/3darrays.cpp)
-* [FOUR DIMENSIONAL ARRAY](Data-Structures/ARRAYS/4darrays.cpp)
+* [1 DIMENSIONAL ARRAY](Data-Structures/ARRAYS/1darrays.cpp)
+* [2 DIMENSIONAL ARRAY](Data-Structures/ARRAYS/2darrays.cpp)
+* [3 DIMENSIONAL ARRAY](Data-Structures/ARRAYS/3darrays.cpp)
+* [4 DIMENSIONAL ARRAY](Data-Structures/ARRAYS/4darrays.cpp)
 
 #### LISTS
 
 * LINKED-LIST
   * SINGLE
     * [SINGLE](Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
+  * DOUBLE
+  * CIRCULAR
 * [VECTORS](Data-Structures/LISTS/VECTORS/Main.cpp)
 
 #### STACKS
@@ -42,7 +44,7 @@
     * [Using my own Queue](Misc/lru.cpp)
   * OPTIMAL
 
-### :rocket: SEARCHES
+### :rocket: SEARCHING
 
 * [BINARY SEARCH](Searches/binary_search.cpp)
 * LINEAR SEARCH

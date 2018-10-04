@@ -12,6 +12,7 @@
 * [2 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/2darrays.c)
 * [3 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/3darrays.c)
 * [4 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/4darrays.c)
+* [DYNAMIC ARRAYS](Data-Structures/ARRAYS/dynamicarray.c)
 
 #### LISTS
 
@@ -21,7 +22,6 @@
   * DOUBLE
     * [DOUBLE LINKED LIST](Data-Structures/LINKED-LIST/DOUBLE/Main.c)
   * CIRCULAR
-* [DYNAMIC ARRAYS](Data-Structures/LINKED-LIST/dynamicarray.c)
 
 ### :rocket: DYNAMIC PROGRAMMING
 
@@ -30,7 +30,7 @@
 * [Fibonacci Series](Misc/fibonacci.c)
 * [SPELL THE NUMBER](Misc/spell_the_number.c)
 
-### :rocket: SEARCHES
+### :rocket: SEARCHING
 
 * [Linear Search](Searches/linearSearch.c)
 
