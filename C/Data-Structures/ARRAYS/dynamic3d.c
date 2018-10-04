@@ -44,4 +44,14 @@ int main()
         }
         printf("------\n");
     }
+
+    for(register int i=0;i<height;i++)
+    {
+        free(arr[i]);
+        for(register int j=0;j<rows;j++)
+        {
+            free(arr[i]);
+        }
+    }
+    free(arr);
 }
