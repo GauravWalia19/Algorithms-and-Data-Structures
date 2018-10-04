@@ -14,6 +14,7 @@
 * [4 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/4darrays.c)
 * [DYNAMIC 1D ARRAYS](Data-Structures/ARRAYS/dynamicarray.c)
 * [DYNAMIC 2D ARRAYS](Data-Structures/ARRAYS/dynamic2d.c)
+* [DYNAMIC 3D ARRAYS](Data-Structures/ARRAYS/dynamic3d.c)
 
 #### LISTS
 
