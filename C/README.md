@@ -12,12 +12,13 @@
 * [2 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/2darrays.c)
 * [3 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/3darrays.c)
 * [4 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/4darrays.c)
+* [JAGGED ARRAYS](Data-Structures/ARRAYS/jaggedarray.c)
 
 #### HEAPS
 
-* [DYNAMIC 1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)
-* [DYNAMIC 2D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic2d.c)
-* [DYNAMIC 3D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic3d.c)
+* [1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)
+* [2D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic2d.c)
+* [3D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic3d.c)
 
 #### LISTS
 
