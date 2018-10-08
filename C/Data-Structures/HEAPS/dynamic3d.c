@@ -1,5 +1,5 @@
 /*
- *  DYNAMIC 3D ARRAYS
+ *  DYNAMIC 3D ARRAYS IN HEAP
 */
 #include <stdio.h>
 #include <stdlib.h>
