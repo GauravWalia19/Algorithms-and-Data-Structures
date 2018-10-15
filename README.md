@@ -92,6 +92,30 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
+##### :rocket: 4D ARRAY
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n^4) | Cubic
+ 3 | Deletion at beginning | O(n^4) | Cubic
+ 4 | Insertion at end (empty array) | O(1) | Constant
+ 5 | Deletion at end (empty array) | O(1) | Constant
+ 6 | Deletion of the value without having index | O(n^4) | Cubic  
+ 7 | Update value without having index | O(n^4) | Cubic
+ 8 | Update value having index | O(1) | Constant
+
+##### :rocket: ARRAYS CLASS IN JAVA
+
+ SNo. | Methods | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | equals() | O(n) | Linear
+ 2 | toString() | O(n) | Linear
+ 3 | fill() | O(n) | Linear
+ 4 | sort() | O(n logn) | LinearLogarithmic
+ 5 | binarySearch() | O(log n) | Logarithmic
+ 6 | copyOf() | O(n) | Linear
+
 #### :octocat: LISTS
 
 ##### :rocket: SINGULAR LINKED LIST (having head and next)
