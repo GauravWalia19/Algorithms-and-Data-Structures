@@ -92,23 +92,6 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: DYNAMIC 1D ARRAYS (C,C++)
-
- SNo. | Operations | Order of complexity O(n) | Type of Complexity
- ---- | ---------- | ------------------------ | ------------------
- 1 | Use value by indexes | O(1) | Constant
- 2 | Insertion at beginning | O(n) | Linear
- 3 | Deletion at beginning | O(n) | Linear
- 4 | Insertion at end (empty array) | O(n) | Linear
- 5 | Deletion at end (empty array) | O(n) | Linear
- 6 | Deletion of the value without having index | O(n) | Linear  
- 7 | Update value without having index | O(n) | Linear
- 8 | Update value having index | O(1) | Constant
-
-##### :rocket: DYNAMIC 2D ARRAYS (C,C++)
-
-##### :rocket: DYNAMIC 3D ARRAYS (C,C++)
-
 #### :octocat: LISTS
 
 ##### :rocket: SINGULAR LINKED LIST (having head and next)
@@ -200,6 +183,23 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 #### :octocat: HASHTABLE
 
 #### :octocat: HEAPS
+
+##### :rocket: DYNAMIC 1D ARRAYS (C,C++)
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n) | Linear
+ 3 | Deletion at beginning | O(n) | Linear
+ 4 | Insertion at end (empty array) | O(n) | Linear
+ 5 | Deletion at end (empty array) | O(n) | Linear
+ 6 | Deletion of the value without having index | O(n) | Linear  
+ 7 | Update value without having index | O(n) | Linear
+ 8 | Update value having index | O(1) | Constant
+
+##### :rocket: DYNAMIC 2D ARRAYS (C,C++)
+
+##### :rocket: DYNAMIC 3D ARRAYS (C,C++)
 
 #### :octocat: TREES
 
