@@ -223,6 +223,8 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 ##### :rocket: DYNAMIC 2D ARRAYS (C,C++)
 
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
  1 | Use value by indexes | O(1) | Constant
  2 | Insertion at beginning | O(n^2) | Quadratic
  3 | Deletion at beginning | O(n^2) | Quadratic
@@ -234,6 +236,8 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 ##### :rocket: DYNAMIC 3D ARRAYS (C,C++)
 
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
  1 | Use value by indexes | O(1) | Constant
  2 | Insertion at beginning | O(n^3) | Cubic
  3 | Deletion at beginning | O(n^3) | Cubic
