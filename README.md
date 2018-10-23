@@ -97,12 +97,12 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
  1 | Use value by indexes | O(1) | Constant
- 2 | Insertion at beginning | O(n^4) | Cubic
- 3 | Deletion at beginning | O(n^4) | Cubic
+ 2 | Insertion at beginning | O(n^4) | Quadratic
+ 3 | Deletion at beginning | O(n^4) | Quadratic
  4 | Insertion at end (empty array) | O(1) | Constant
  5 | Deletion at end (empty array) | O(1) | Constant
- 6 | Deletion of the value without having index | O(n^4) | Cubic  
- 7 | Update value without having index | O(n^4) | Cubic
+ 6 | Deletion of the value without having index | O(n^4) | Quadratic  
+ 7 | Update value without having index | O(n^4) | Quadratic
  8 | Update value having index | O(1) | Constant
 
 ##### :rocket: ARRAYS CLASS IN JAVA
@@ -187,7 +187,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  5 | **contains(element)** -- Search List | O(n) -- Linear | O(1) -- Constant
  6 | **get(index)** -- Accessing random element | O(1) -- Constant | O(1) -- Constant
 
-##### :rocket: VECTORS
+##### :rocket: VECTORS (C++,JAVA)
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -223,7 +223,25 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 ##### :rocket: DYNAMIC 2D ARRAYS (C,C++)
 
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n^2) | Quadratic
+ 3 | Deletion at beginning | O(n^2) | Quadratic
+ 4 | Insertion at end (empty array) | O(n^2) | Quadratic
+ 5 | Deletion at end (empty array) | O(n^2) | Quadratic
+ 6 | Deletion of the value without having index | O(n^2) | Quadratic  
+ 7 | Update value without having index | O(n^2) | Quadratic
+ 8 | Update value having index | O(1) | Constant
+
 ##### :rocket: DYNAMIC 3D ARRAYS (C,C++)
+
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n^3) | Cubic
+ 3 | Deletion at beginning | O(n^3) | Cubic
+ 4 | Insertion at end (empty array) | O(n^3) | Cubic
+ 5 | Deletion at end (empty array) | O(n^3) | Cubic
+ 6 | Deletion of the value without having index | O(n^3) | Cubic  
+ 7 | Update value without having index | O(n^3) | Cubic
+ 8 | Update value having index | O(1) | Constant
 
 #### :octocat: TREES
 
