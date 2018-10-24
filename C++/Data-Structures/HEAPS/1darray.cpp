@@ -21,4 +21,6 @@ int main()
         cout << arr[i] <<" ";
     }
     cout << endl;
+    delete [] arr;
+    arr = NULL;
 }

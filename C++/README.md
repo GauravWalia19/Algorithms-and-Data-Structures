@@ -35,6 +35,7 @@
 #### HEAPS
 
 * [1d array](Data-Structures/HEAPS/1darray.cpp)
+* [2d array](Data-Structures/HEAPS/2darray.cpp)
 
 ### :rocket: DYNAMIC PROGRAMMING
 
