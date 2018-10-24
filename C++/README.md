@@ -32,6 +32,10 @@
 
 :link: For use see [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
 
+#### HEAPS
+
+* [1d array](Data-Structures/HEAPS/1darray.cpp)
+
 ### :rocket: DYNAMIC PROGRAMMING
 
 ### :rocket: MISC
