@@ -25,7 +25,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
   * [SELECTION SORT](docs/selection-sort.md)
   * [INSERTION SORT](docs/insertion-sort.md)
 
-## COMPLEXITY ANALYSIS
+## Complexity Analysis
 
 See [COMPLEXITY](complexity.md)
 
@@ -68,7 +68,5 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
 
 * Gaurav Walia (GauravWalia19)
 * [CONTRIBUTORS](CONTRIBUTORS.md)
-
-### :octocat: HAPPY CODING
 
 #### :copyright: Gaurav Walia
