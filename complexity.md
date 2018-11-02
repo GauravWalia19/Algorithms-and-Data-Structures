@@ -38,14 +38,14 @@
   * BINARY SEARCH
 
 * SORTING
-  * [BUBBLE SORT](#:mag:sorting)
-  * [SELECTION SORT](#:mag-#sorting)
-  * [INSERTION SORT](#sorting)
-  * [SHELL SORT](#sorting)
-  * [MERGE SORT](#sorting)
-  * [QUICK SORT](#sorting)
-  * [COUNTING SORT](#sorting)
-  * [RADIX SORT](#sorting)
+  * [BUBBLE SORT](###sorting)
+  * [SELECTION SORT](###SORTING)
+  * [INSERTION SORT](###sorting)
+  * [SHELL SORT](###sorting)
+  * [MERGE SORT](###sorting)
+  * [QUICK SORT](###sorting)
+  * [COUNTING SORT](###sorting)
+  * [RADIX SORT](###sorting)
 
 ### :mag: DATA STRUCTURES
 
