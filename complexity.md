@@ -3,39 +3,39 @@
 ## INDEX
 
 * DATA STRUCTURES
-  * ARRAYS
-    * 1D ARRAY
-    * 2D ARRAY
-    * 3D ARRAY
-    * 4D ARRAY
-    * ARRAYS CLASS IN JAVA
-  * LISTS
-    * SINGULAR LINKED LIST
-    * HYBRID SINGULAR LINKED LIST
-    * DOUBLE LINKED LIST
-    * HYBRID DOUBLE LINKED LIST
-    * SINGLE CIRCULAR LINKED LIST
+  * [ARRAYS](####arrays)
+    * [1D ARRAY](#####1d-array)
+    * [2D ARRAY](#####2d-array)
+    * [3D ARRAY](#####3d-array)
+    * [4D ARRAY](#####4d-array)
+    * [ARRAYS CLASS IN JAVA](#####arrays-class-in-java)
+  * [LISTS](####lists)
+    * [SINGULAR LINKED LIST](#####singular-linked-list-having-head-and-next)
+    * [HYBRID SINGULAR LINKED LIST](#####hybrid-singular-linked-list-having-head,tail-and-next)
+    * [DOUBLE LINKED LIST](#####double-linked-list-having-head,tail-and-next,prev)
+    * [HYBRID DOUBLE LINKED LIST](#####hybrid-double-linked-list-having-head,prev-and-next)
+    * [SINGLE CIRCULAR LINKED LIST](#####circular-linked-list-having-tail/head-,next-and-loop)
     * DOUBLE CIRCULAR LINKED LIST
-    * MEMORY EFFICIENT DOUBLE LINKED LIST
-    * UNROLLED LINKED LIST
-    * SKIP LIST
-    * ARRAYLISTS
-    * VECTORS
+    * [MEMORY EFFICIENT DOUBLE LINKED LIST](#####memory-efficient-(XOR)-double-linked-list)
+    * [UNROLLED LINKED LIST](#####unrolled-linked-list)
+    * [SKIP LIST](#####skip-list)
+    * [ARRAYLISTS](#####arraylists-(JAVA))
+    * [VECTORS](#####vectors-(C++,JAVA))
   * STACKS
-    * ONE WAY STACK / TWO WAY STACK
+    * [ONE WAY STACK / TWO WAY STACK](#####one-way-stack-/-two-way-stack)
   * QUEUES
   * HASHTABLE
   * HEAPS
-    * DYNAMIC 1D ARRAY
-    * DYNAMIC 2D ARRAY
-    * DYNAMIC 3D ARRAY
+    * [DYNAMIC 1D ARRAY](#####dynamic-1d-arrays-(C,C++))
+    * [DYNAMIC 2D ARRAY](#####dynamic-2d-arrays-(C,C++))
+    * [DYNAMIC 3D ARRAY](#####dynamic-3d-arrays-(C,C++))
   * TREES
   * GRAPHS
   * BLOCKCHAIN
 
 * SEARCHING
-  * LINEAR SEARCH
-  * BINARY SEARCH
+  * [LINEAR SEARCH](###searching)
+  * [BINARY SEARCH](###searching)
 
 * SORTING
   * [BUBBLE SORT](###sorting)
@@ -47,11 +47,11 @@
   * [COUNTING SORT](###sorting)
   * [RADIX SORT](###sorting)
 
-### :mag: DATA STRUCTURES
+### DATA STRUCTURES
 
-#### :octocat: ARRAYS
+#### ARRAYS
 
-##### :rocket: 1D ARRAY
+##### 1D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -64,7 +64,7 @@
  7 | Update value without having index | O(n) | Linear
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: 2D ARRAY
+##### 2D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -77,7 +77,7 @@
  7 | Update value without having index | O(n^2) | Quadratic
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: 3D ARRAY
+##### 3D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -90,7 +90,7 @@
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: 4D ARRAY
+##### 4D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -103,7 +103,7 @@
  7 | Update value without having index | O(n^4) | Quadratic
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: ARRAYS CLASS IN JAVA
+##### ARRAYS CLASS IN JAVA
 
  SNo. | Methods | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -114,9 +114,9 @@
  5 | binarySearch() | O(log n) | Logarithmic
  6 | copyOf() | O(n) | Linear
 
-#### :octocat: LISTS
+#### LISTS
 
-##### :rocket: SINGULAR LINKED LIST (having head and next)
+##### SINGULAR LINKED LIST (having head and next)
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -133,9 +133,9 @@
  11 | Linear Search | O(n) -- Linear | O(1) -- Constant
  12 | Clear list | O(1) -- Constant | O(1) -- Constant
 
-##### :rocket: HYBRID SINGULAR LINKED LIST (having head,tail and next)
+##### HYBRID SINGULAR LINKED LIST (having head,tail and next)
 
-##### :rocket: DOUBLE LINKED LIST (having head,tail and next,prev)
+##### DOUBLE LINKED LIST (having head,tail and next,prev)
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -153,9 +153,9 @@
  12 | Clear list | O(1) -- Constant | O(1) -- Constant
  13 | Optimal Search | O(n/2) -- Linear | O(1) -- Constant
 
-##### :rocket: HYBRID DOUBLE LINKED LIST (having head,prev and next)
+##### HYBRID DOUBLE LINKED LIST (having head,prev and next)
 
-##### :rocket: CIRCULAR LINKED LIST (having tail/head ,next and loop)
+##### CIRCULAR LINKED LIST (having tail/head ,next and loop)
 
 SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -168,13 +168,13 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  6 | Linear search | O(n) -- Linear | O(1) -- Constant
  7 | Clear list | O(1) -- Constant | O(1) -- Constant
 
-##### :rocket: MEMORY EFFICIENT (XOR) DOUBLE LINKED LIST
+##### MEMORY EFFICIENT (XOR) DOUBLE LINKED LIST
 
-##### :rocket: UNROLLED LINKED LIST
+##### UNROLLED LINKED LIST
 
-##### :rocket: SKIP LIST
+##### SKIP LIST
 
-##### :rocket: ARRAYLISTS (JAVA)
+##### ARRAYLISTS (JAVA)
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -185,14 +185,14 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  5 | **contains(element)** -- Search List | O(n) -- Linear | O(1) -- Constant
  6 | **get(index)** -- Accessing random element | O(1) -- Constant | O(1) -- Constant
 
-##### :rocket: VECTORS (C++,JAVA)
+##### VECTORS (C++,JAVA)
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
 
-#### :octocat: STACKS
+#### STACKS
 
-##### :rocket: ONE WAY STACK / TWO WAY STACK
+##### ONE WAY STACK / TWO WAY STACK
 
  SNo. | Operations | Order of Complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -200,13 +200,13 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  2 | Pop an element or Delete element | O(1) | Constant
  3 | Get value of top | O(1) | Constant
 
-#### :octocat: QUEUES
+#### QUEUES
 
-#### :octocat: HASHTABLE
+#### HASHTABLE
 
-#### :octocat: HEAPS
+#### HEAPS
 
-##### :rocket: DYNAMIC 1D ARRAYS (C,C++)
+##### DYNAMIC 1D ARRAYS (C,C++)
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -219,7 +219,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  7 | Update value without having index | O(n) | Linear
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: DYNAMIC 2D ARRAYS (C,C++)
+##### DYNAMIC 2D ARRAYS (C,C++)
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -232,7 +232,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  7 | Update value without having index | O(n^2) | Quadratic
  8 | Update value having index | O(1) | Constant
 
-##### :rocket: DYNAMIC 3D ARRAYS (C,C++)
+##### DYNAMIC 3D ARRAYS (C,C++)
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -245,18 +245,18 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-#### :octocat: TREES
+#### TREES
 
-#### :octocat: GRAPHS
+#### GRAPHS
 
-### :mag: SEARCHING
+### SEARCHING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | --------- | ---------
  1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
  2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
 
-### :mag: SORTING
+### SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
