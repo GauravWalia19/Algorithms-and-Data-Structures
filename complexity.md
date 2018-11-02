@@ -38,36 +38,14 @@
   * BINARY SEARCH
 
 * SORTING
-  * BUBBLE SORT
-  * SELECTION SORT
-  * INSERTION SORT
-  * SHELL SORT
-  * MERGE SORT
-  * QUICK SORT
-  * COUNTING SORT
-  * RADIX SORT
-
-### :mag: SORTING
-
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
- ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
- 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable** | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
- 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
- 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
- 4 | Shell Sort | O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark: |
- 5 | Merge Sort | O(n logn) | Logarithmic  | Stable | :heavy_multiplication_x: |
- 6 | Quick Sort | O(n logn) | Logarithmic | Unstable | :heavy_check_mark: |
- 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
- 8 | Radix Sort | O(n) or slower than O(nlogn)  | Linear / Logarithmic | Stable | Can Be |
-
-**Not an efficient Way
-
-### :mag: SEARCHING
-
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
- ---- | --------- | ------------------------ | ------------------ | --------- | ---------
- 1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
- 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
+  * [BUBBLE SORT](#:mag:sorting)
+  * [SELECTION SORT](#:mag-#sorting)
+  * [INSERTION SORT](#sorting)
+  * [SHELL SORT](#sorting)
+  * [MERGE SORT](#sorting)
+  * [QUICK SORT](#sorting)
+  * [COUNTING SORT](#sorting)
+  * [RADIX SORT](#sorting)
 
 ### :mag: DATA STRUCTURES
 
@@ -270,3 +248,25 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 #### :octocat: TREES
 
 #### :octocat: GRAPHS
+
+### :mag: SEARCHING
+
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
+ ---- | --------- | ------------------------ | ------------------ | --------- | ---------
+ 1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
+ 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
+
+### :mag: SORTING
+
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
+ ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
+ 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable** | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 4 | Shell Sort | O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark: |
+ 5 | Merge Sort | O(n logn) | Logarithmic  | Stable | :heavy_multiplication_x: |
+ 6 | Quick Sort | O(n logn) | Logarithmic | Unstable | :heavy_check_mark: |
+ 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
+ 8 | Radix Sort | O(n) or slower than O(nlogn)  | Linear / Logarithmic | Stable | Can Be |
+
+**Not an efficient Way
