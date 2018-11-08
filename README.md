@@ -1,6 +1,6 @@
 # Algorithms and Data Structures
 
-Open Repository For Programmers to Contribute Algorithms and Data Structures in different Languages and for beginners who want to know about Algorithms and Data Structures.
+Open Repository For Programmers to Contribute Algorithms and Data Structures in different Languages and for beginners who want to know about [Algorithms](algorithms.md) and [Data Structures](datastructures.md).
 
 ## Currently Supported Languages
 

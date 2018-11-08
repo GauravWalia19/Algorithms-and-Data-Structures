@@ -11,24 +11,24 @@
     * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
   * [LISTS](#lists)
     * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)
-    * [HYBRID SINGULAR LINKED LIST](#hybrid-singular-linked-list-having-head,tail-and-next)
-    * [DOUBLE LINKED LIST](#double-linked-list-having-head,tail-and-next,prev)
-    * [HYBRID DOUBLE LINKED LIST](#hybrid-double-linked-list-having-head,prev-and-next)
-    * [SINGLE CIRCULAR LINKED LIST](#circular-linked-list-having-tail/head-,next-and-loop)
+    * [HYBRID SINGULAR LINKED LIST](#hybrid-singular-linked-list-having-headtail-and-next)
+    * [DOUBLE LINKED LIST](#double-linked-list-having-headtail-and-nextprev)
+    * [HYBRID DOUBLE LINKED LIST](#hybrid-double-linked-list-having-headprev-and-next)
+    * [SINGLE CIRCULAR LINKED LIST](#circular-linked-list-having-tail/head-next-and-loop)
     * DOUBLE CIRCULAR LINKED LIST
     * [MEMORY EFFICIENT DOUBLE LINKED LIST](#memory-efficient-(XOR)-double-linked-list)
     * [UNROLLED LINKED LIST](#unrolled-linked-list)
     * [SKIP LIST](#skip-list)
     * [ARRAYLISTS](#arraylists-(JAVA))
-    * [VECTORS](#vectors-(C++,JAVA))
+    * [VECTORS](#vectors-(C++JAVA))
   * STACKS
     * [ONE WAY STACK / TWO WAY STACK](#one-way-stack-/-two-way-stack)
   * QUEUES
   * HASHTABLE
   * HEAPS
-    * [DYNAMIC 1D ARRAY](#dynamic-1d-arrays-(C,C++))
-    * [DYNAMIC 2D ARRAY](#dynamic-2d-arrays-(C,C++))
-    * [DYNAMIC 3D ARRAY](#dynamic-3d-arrays-(C,C++))
+    * [DYNAMIC 1D ARRAY](#dynamic-1d-arrays-(CC++))
+    * [DYNAMIC 2D ARRAY](#dynamic-2d-arrays-(CC++))
+    * [DYNAMIC 3D ARRAY](#dynamic-3d-arrays-(CC++))
   * TREES
   * GRAPHS
   * BLOCKCHAIN
