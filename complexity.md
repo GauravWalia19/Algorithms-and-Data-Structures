@@ -3,49 +3,49 @@
 ## INDEX
 
 * DATA STRUCTURES
-  * [ARRAYS](####arrays)
-    * [1D ARRAY](#####1d-array)
-    * [2D ARRAY](#####2d-array)
-    * [3D ARRAY](#####3d-array)
-    * [4D ARRAY](#####4d-array)
-    * [ARRAYS CLASS IN JAVA](#####arrays-class-in-java)
-  * [LISTS](####lists)
-    * [SINGULAR LINKED LIST](#####singular-linked-list-having-head-and-next)
-    * [HYBRID SINGULAR LINKED LIST](#####hybrid-singular-linked-list-having-head,tail-and-next)
-    * [DOUBLE LINKED LIST](#####double-linked-list-having-head,tail-and-next,prev)
-    * [HYBRID DOUBLE LINKED LIST](#####hybrid-double-linked-list-having-head,prev-and-next)
-    * [SINGLE CIRCULAR LINKED LIST](#####circular-linked-list-having-tail/head-,next-and-loop)
+  * [ARRAYS](#arrays)
+    * [1D ARRAY](#1d-array)
+    * [2D ARRAY](#2d-array)
+    * [3D ARRAY](#3d-array)
+    * [4D ARRAY](#4d-array)
+    * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
+  * [LISTS](#lists)
+    * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)
+    * [HYBRID SINGULAR LINKED LIST](#hybrid-singular-linked-list-having-head,tail-and-next)
+    * [DOUBLE LINKED LIST](#double-linked-list-having-head,tail-and-next,prev)
+    * [HYBRID DOUBLE LINKED LIST](#hybrid-double-linked-list-having-head,prev-and-next)
+    * [SINGLE CIRCULAR LINKED LIST](#circular-linked-list-having-tail/head-,next-and-loop)
     * DOUBLE CIRCULAR LINKED LIST
-    * [MEMORY EFFICIENT DOUBLE LINKED LIST](#####memory-efficient-(XOR)-double-linked-list)
-    * [UNROLLED LINKED LIST](#####unrolled-linked-list)
-    * [SKIP LIST](#####skip-list)
-    * [ARRAYLISTS](#####arraylists-(JAVA))
-    * [VECTORS](#####vectors-(C++,JAVA))
+    * [MEMORY EFFICIENT DOUBLE LINKED LIST](#memory-efficient-(XOR)-double-linked-list)
+    * [UNROLLED LINKED LIST](#unrolled-linked-list)
+    * [SKIP LIST](#skip-list)
+    * [ARRAYLISTS](#arraylists-(JAVA))
+    * [VECTORS](#vectors-(C++,JAVA))
   * STACKS
-    * [ONE WAY STACK / TWO WAY STACK](#####one-way-stack-/-two-way-stack)
+    * [ONE WAY STACK / TWO WAY STACK](#one-way-stack-/-two-way-stack)
   * QUEUES
   * HASHTABLE
   * HEAPS
-    * [DYNAMIC 1D ARRAY](#####dynamic-1d-arrays-(C,C++))
-    * [DYNAMIC 2D ARRAY](#####dynamic-2d-arrays-(C,C++))
-    * [DYNAMIC 3D ARRAY](#####dynamic-3d-arrays-(C,C++))
+    * [DYNAMIC 1D ARRAY](#dynamic-1d-arrays-(C,C++))
+    * [DYNAMIC 2D ARRAY](#dynamic-2d-arrays-(C,C++))
+    * [DYNAMIC 3D ARRAY](#dynamic-3d-arrays-(C,C++))
   * TREES
   * GRAPHS
   * BLOCKCHAIN
 
 * SEARCHING
-  * [LINEAR SEARCH](###searching)
-  * [BINARY SEARCH](###searching)
+  * [LINEAR SEARCH](#searching)
+  * [BINARY SEARCH](#searching)
 
 * SORTING
-  * [BUBBLE SORT](###sorting)
-  * [SELECTION SORT](###SORTING)
-  * [INSERTION SORT](###sorting)
-  * [SHELL SORT](###sorting)
-  * [MERGE SORT](###sorting)
-  * [QUICK SORT](###sorting)
-  * [COUNTING SORT](###sorting)
-  * [RADIX SORT](###sorting)
+  * [BUBBLE SORT](#sorting)
+  * [SELECTION SORT](#SORTING)
+  * [INSERTION SORT](#sorting)
+  * [SHELL SORT](#sorting)
+  * [MERGE SORT](#sorting)
+  * [QUICK SORT](#sorting)
+  * [COUNTING SORT](#sorting)
+  * [RADIX SORT](#sorting)
 
 ### DATA STRUCTURES
 
