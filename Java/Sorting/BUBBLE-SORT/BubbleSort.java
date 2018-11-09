@@ -1,3 +1,6 @@
+// BUBBLE SORT
+// STABLE SORT
+// ASCENDING
 import java.util.*;
 public class BubbleSort
 {

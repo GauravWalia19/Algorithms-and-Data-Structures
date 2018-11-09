@@ -1,3 +1,6 @@
+// BUBBLE SORT
+// ASCENDING
+// STABLE SORT
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -18,7 +18,7 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 
 ## Documentation
 
-For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.com/GauravWalia19/Algorithms-and-Data-Structures/wiki)
+For documentation see [wiki](https://github.com/GauravWalia19/Algorithms-and-Data-Structures/wiki)
 
 * SORTING ALGORITHMS  
   * [BUBBLE SORT](docs/bubble-sort.md)
@@ -27,7 +27,7 @@ For documentation see wiki [wiki](docs/wiki.md) or [online wiki](https://github.
 
 ## Complexity Analysis
 
-See [COMPLEXITY](complexity.md)
+See [COMPLEXITY](docs/complexity.md)
 
 ## Contribution Guide
 

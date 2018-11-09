@@ -63,7 +63,7 @@
 * [MERGE SORT](Sorting/mergesort.cpp)
 * [SELECTION SORT](Sorting/selectionsort.cpp)
 * [SHELL SORT](Sorting/shellsort.cpp)
-* [BUBBLE SORT](Sorting/bubblesort.cpp)
+* [BUBBLE SORT](Sorting/BUBBLE-SORT/bubblesort.cpp)
 
 ### :rocket: EXECUTION OF C++ CODE
 

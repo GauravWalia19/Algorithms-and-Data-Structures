@@ -4,60 +4,128 @@ Indexer for ALGORITHMS LOVER...
 
 ## INDEX
 
-### STRINGS
+### STRING ALGO
 
 #### REVERSE A STRING
 
-### SEARCHING
+### SEARCHING ALGO
 
 * LINEAR SEARCH
 * BINARY SEARCH
 
-### SORTING
+### SORTING ALGO
 
-#### STABLE SORT
+#### :rocket: STABLE SORT
 
-#### UNSTABLE SORT
+It is a type of sort in which the order of same identical elments remain same after sorting. For example
 
-#### BUBBLE SORT
+* Before sorting elements are
+> 3 , 4 , 5 , **4** , 7 , 1 , 9
 
-#### SELECTION SORT
+* after sorting it becomes
+> 1 , 3 , 4 , **4** , 5 , 7 , 9
 
-#### INSERTION SORT
+#### :rocket: UNSTABLE SORT
 
-#### SHELL SORT
+It is a type of sort in which the order of same identical elments get different after sorting.
 
-#### MERGE SORT
+For example
 
-#### COUNTING SORT
+* Before sorting elements are
+> 3 , 4 , 5 , **4** , 7 , 1 , 9
 
-#### QUICK SORT
+* after sorting it becomes
+> 1 , 3 , **4** , 4 , 5 , 7 , 9
 
-#### HEAP SORT
+#### :rocket: BUBBLE SORT
 
-### GRAPH
+* [blog](https://chained-to-the-algorithms.quora.com/BUBBLE-SORT)
+* [docs](docs/bubble-sort.md)
+* implementation (follow only stable sort)
+  * **Stable**
+    * **Ascending**
+      * [C](C/Sorting/BUBBLE-SORT/bubblesort.c)
+      * [C++](C++/Sorting/BUBBLE-SORT/bubblesort.cpp)
+      * [JAVA](Java/Sorting/BUBBLE-SORT/BubbleSort.java)
+    * **Descending**
+      * [C](C/Sorting/BUBBLE-SORT/bubble.c)
+      * C++
+      * [JAVA](Java/Sorting/BUBBLE-SORT/BubbleSort.java)
+  * Unstable
+    * Ascending
+      * [C](C/Sorting/BUBBLE-SORT/ascendunbubble.c)
+      * C++
+      * JAVA
+    * Descending
+      * [C](C/Sorting/BUBBLE-SORT/descendunbubble.c)
+      * C++
+      * JAVA
 
-### GREEDY
+#### :rocket: SELECTION SORT
 
-### BIT
+* blog
+* docs
+* implementation
 
-### RECURSIVE
+#### :rocket: INSERTION SORT
 
-### PATTERN SEARCHING
+* blog
+* docs
+* implementation
 
-### CONSTRUCTIVE
+#### :rocket: SHELL SORT
 
-### GEOMETRIC
+* blog
+* docs
+* implementation
 
-### MATHEMATICAL
+#### :rocket: MERGE SORT
 
-### RANDOMISED
+* blog
+* docs
+* implementation
 
-### GAME THEORY
+#### :rocket: COUNTING SORT
+
+* blog
+* docs
+* implementation
+
+#### :rocket: QUICK SORT
+
+* blog
+* docs
+* implementation
+
+#### :rocket: HEAP SORT
+
+* blog
+* docs
+* implementation
+
+### GRAPH ALGO
+
+### GREEDY ALGO
+
+### BIT ALGO
+
+### RECURSIVE ALGO
+
+### PATTERN SEARCHING ALGO
+
+### CONSTRUCTIVE ALGO
+
+### GEOMETRIC ALGO
+
+### MATHEMATICAL ALGO
+
+### RANDOMISED ALGO
+
+### GAME THEORY ALGO
 
 ### DYNAMIC PROGRAMMING
 
-### MISC
+### MISC ALGO
 
 #### FIBONACCI SERIES
 

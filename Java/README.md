@@ -41,8 +41,8 @@
 ### :rocket: SORTING
 
 * BUBBLE SORT
-  * [ascending](Sorting/BubbleSort.java)
-  * [descending](Sorting/bubbleSort.java)
+  * [ascending](Sorting/BUBBLE-SORT/BubbleSort.java)
+  * [descending](Sorting/BUBBLE-SORT/bubbleSort.java)
 
 * SELECTION SORT
   * [using max element](Sorting/SelectionSort.java)

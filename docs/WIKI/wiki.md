@@ -1,5 +1,7 @@
 # [:arrow_left:](../README.md) DEFINATIONS
 
+This is a copy of online wiki on github.
+
 ## :octocat: Algorithms
 
 Algorithms are the series of steps which have no ambiguity that we follow to solve some problem. There are three types of Algorithms i.e

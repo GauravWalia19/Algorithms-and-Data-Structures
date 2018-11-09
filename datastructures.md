@@ -8,7 +8,7 @@ Indexer for Data Structures Lover
 
 #### 1 DIMENSIONAL
 
-* wiki
+* blog
 * docs
 * implementation
   * [C]()
@@ -17,7 +17,7 @@ Indexer for Data Structures Lover
 
 #### 2 DIMENSIONAL
 
-* wiki
+* blog
 * docs
 * implementation
   * [C]()
@@ -26,7 +26,7 @@ Indexer for Data Structures Lover
 
 #### 3 DIMENSIONAL
 
-* wiki
+* blog
 * docs
 * implementation
   * [C]()
@@ -35,7 +35,7 @@ Indexer for Data Structures Lover
 
 #### 4 DIMENSIONAL
 
-* wiki
+* blog
 * docs
 * implementation
   * [C]()
@@ -44,7 +44,7 @@ Indexer for Data Structures Lover
 
 #### JAGGED
 
-* wiki
+* blog
 * docs
 * implementation
   * [C]()
