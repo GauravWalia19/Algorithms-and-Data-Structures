@@ -246,3 +246,25 @@ For space complexity of recursive solution we will find how much stack is used. 
 * N - Number of Steps
 
 ![image](images/computational_complexity.png)
+
+## :rocket: STABLE SORT
+
+It is a type of sort in which the order of same identical elments remain same after sorting. For example
+
+* Before sorting elements are
+> 3 , 4 , 5 , **4** , 7 , 1 , 9
+
+* after sorting it becomes
+> 1 , 3 , 4 , **4** , 5 , 7 , 9
+
+## :rocket: UNSTABLE SORT
+
+It is a type of sort in which the order of same identical elments get different after sorting.
+
+For example
+
+* Before sorting elements are
+> 3 , 4 , 5 , **4** , 7 , 1 , 9
+
+* after sorting it becomes
+> 1 , 3 , **4** , 4 , 5 , 7 , 9
