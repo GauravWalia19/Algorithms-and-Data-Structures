@@ -11,7 +11,12 @@ Indexer for ALGORITHMS LOVER...
 ### SEARCHING ALGO
 
 * LINEAR SEARCH
+  * [C](C/Searching/linearSearch.c)
+  * C++
+    * [SIMPLE](C++/Searching/linear.cpp)
+    * [COMPLEX](C++/Searching/linearSearch.cpp)
 * BINARY SEARCH
+  * [C++](C++/Searching/binary_search.cpp)
 
 ### SORTING ALGO
 
@@ -107,10 +112,32 @@ Indexer for ALGORITHMS LOVER...
 
 #### FIBONACCI SERIES
 
+* blog
+* docs
+* implementation
+  * [C](C/Misc/fibonacci.c)
+
 #### SPELL THE NUMBER
+
+* blog
+* docs
+* implementation
+  * [C](C/Misc/spell_the_number.c)
 
 #### PAIR WISE SWAP
 
+* blog
+* docs
+* implementation
+
 #### REVERSE A NUMBER
 
+* blog
+* docs
+* implementation
+
 #### PAGE REPLACEMENT
+
+* blog
+* docs
+* implementation

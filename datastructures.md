@@ -59,9 +59,26 @@ Indexer for Data Structures Lover
 
 #### ONE WAY STACK
 
+* blog
+* docs
+* implementation
+  * [C++](C++/Data-Structures/STACKS/Stack.hpp)
+
 #### TWO WAY STACK
 
+* blog
+* docs
+* implementation
+  * [C++](C++/Data-Structures/STACKS/Tstack.hpp)
+
 #### CIRCULAR STACK
+
+#### INBUILT STACK
+
+* blog
+* docs
+* implementation
+  * [C++](C++/Data-Structures/STACKS/stack.cpp)
 
 ### QUEUES
 
@@ -74,13 +91,25 @@ Indexer for Data Structures Lover
 #### LINKED LIST
 
 * SINGLE
+  * [C](C/Data-Structures/LINKED-LIST/SINGLE/Main.c)
+  * [C++](C++/Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
 * DOUBLE
+  * [C](C/Data-Structures/LINKED-LIST/DOUBLE/Main.c)
 * SINGLED CIRCULAR
 * DOUBLED CIRCULAR
 
 #### ARRAYLIST
 
+* blog
+* docs
+* implementation
+
 #### VECTOR
+
+* blog
+* docs
+* implementation
+  * [C++](C++/Data-Structures/LISTS/VECTORS/Main.cpp)
 
 ### TREES
 
@@ -88,8 +117,26 @@ Indexer for Data Structures Lover
 
 #### 1 DIMENSIONAL ARRAYS
 
+* blog
+* docs
+* implementation
+  * [C](C/Data-Structures/HEAPS/dynamicarray.c)
+  * [C++](C++/Data-Structures/HEAPS/1darray.cpp)
+
 #### 2 DIMENSIONAL ARRAYS
 
+* blog
+* docs
+* implementation
+  * [C](C/Data-Structures/HEAPS/dynamic2d.c)
+  * [C++](C++/Data-Structures/HEAPS/2darray.cpp)
+
 #### 3 DIMENSIONAL ARRAYS
+
+* blog
+* docs
+* implementation
+  * [C](C/Data-Structures/HEAPS/dynamic3d.c)
+  * [C++](C++/Data-Structures/HEAPS/1darray.cpp)
 
 ### GRAPHS

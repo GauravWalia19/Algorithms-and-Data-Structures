@@ -38,7 +38,7 @@
 
 ### :rocket: SEARCHING
 
-* [Linear Search](Searches/linearSearch.c)
+* [Linear Search](Searching/linearSearch.c)
 
 ### :rocket: SORTING
 

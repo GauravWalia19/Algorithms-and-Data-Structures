@@ -23,14 +23,24 @@
 * [VECTORS](Data-Structures/LISTS/VECTORS/Main.cpp)
 
 #### STACKS
-  
-* [Used Self Made Stack](Data-Structures/STACKS/stacks.cpp)
-* [Self Made Stack](Data-Structures/STACKS/Stack.hpp) :link:
-* [Inbuilt stack library](Data-Structures/STACKS/stack.cpp)
-* [Used Self Made Two Way Stack](Data-Structures/STACKS/two-way-stack.cpp)
-* [Self Made Two Way Stack](Data-Structures/STACKS/Tstack.hpp) :link:
 
-:link: For use see [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
+##### ONE WAY STACK
+
+* [STACK](Data-Structures/STACKS/Stack.hpp)
+* [USAGE](Data-Structures/STACKS/Stack.cpp)
+* [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
+
+##### TWO WAY STACK
+
+* [STACK](Data-Structures/STACKS/Tstack.hpp)
+* [USAGE](Data-Structures/STACKS/two-way-stack.cpp)
+* [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
+
+##### CIRCULAR STACK
+
+##### INBUILT STACK
+
+* [Inbuilt stack library](Data-Structures/STACKS/stack.cpp)
 
 #### HEAPS
 
@@ -52,18 +62,18 @@
 
 ### :rocket: SEARCHING
 
-* [BINARY SEARCH](Searches/binary_search.cpp)
+* [BINARY SEARCH](Searching/binary_search.cpp)
 * LINEAR SEARCH
-  * [SIMPLE](Searches/linear.cpp)
-  * [COMPLEX](Searches/linearSearch.cpp)  
+  * [SIMPLE](Searching/linear.cpp)
+  * [COMPLEX](Searching/linearSearch.cpp)  
 
 ### :rocket: SORTING
 
-* [HEAP SORT](Sorting/heapsort.cpp)
-* [MERGE SORT](Sorting/mergesort.cpp)
+* [BUBBLE SORT](Sorting/BUBBLE-SORT/bubblesort.cpp)
 * [SELECTION SORT](Sorting/selectionsort.cpp)
 * [SHELL SORT](Sorting/shellsort.cpp)
-* [BUBBLE SORT](Sorting/BUBBLE-SORT/bubblesort.cpp)
+* [MERGE SORT](Sorting/mergesort.cpp)
+* [HEAP SORT](Sorting/heapsort.cpp)
 
 ### :rocket: EXECUTION OF C++ CODE
 
