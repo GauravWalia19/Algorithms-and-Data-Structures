@@ -6,50 +6,54 @@ Indexer for Data Structures Lover
 
 ### ARRAYS
 
+#### ARRAYS CLASS(JAVA)
+
+* [arrays class](Java/Data-Structures/ARRAYS/arrays.java)
+
+#### ARRAY (STL C++)
+
 #### 1 DIMENSIONAL
 
 * blog
 * docs
 * implementation
-  * [C]()
-  * [C++]()
-  * [JAVA]()
+  * [C](C/Data-Structures/ARRAYS/1darrays.c)
+  * [C++](C++/Data-Structures/ARRAYS/1darrays.cpp)
+  * [JAVA](Java/Data-Structures/ARRAYS/oneDarray.java)
 
 #### 2 DIMENSIONAL
 
 * blog
 * docs
 * implementation
-  * [C]()
-  * [C++]()
-  * [JAVA]()
+  * [C](C/Data-Structures/ARRAYS/2darrays.c)
+  * [C++](C++/Data-Structures/ARRAYS/2darrays.cpp)
+  * [JAVA](Java/Data-Structures/ARRAYS/twoDarray.java)
 
 #### 3 DIMENSIONAL
 
 * blog
 * docs
 * implementation
-  * [C]()
-  * [C++]()
-  * [JAVA]()
+  * [C](C/Data-Structures/ARRAYS/3darrays.c)
+  * [C++](C++/Data-Structures/ARRAYS/3darrays.cpp)
+  * [JAVA](Java/Data-Structures/ARRAYS/threeDarray.java)
 
 #### 4 DIMENSIONAL
 
 * blog
 * docs
 * implementation
-  * [C]()
-  * [C++]()
-  * [JAVA]()
+  * [C](C/Data-Structures/ARRAYS/4darrays.c)
+  * [C++](C++/Data-Structures/ARRAYS/4darrays.cpp)
+  * [JAVA](Java/Data-Structures/ARRAYS/fourDarray.java)
 
 #### JAGGED
 
 * blog
 * docs
 * implementation
-  * [C]()
-  * [C++]()
-  * [JAVA]()
+  * [C](C/Data-Structures/ARRAYS/jaggedarray.c)
 
 ### STACKS
 
