@@ -10,6 +10,7 @@ Indexer for ALGORITHMS LOVER...
 
 * [C](C/Strings/reverse-a-string.c)
 * [JAVA](Java/Strings/reverseString.java)
+* [PYTHON3](Python3/Strings/reverseString.py)
 
 ### SEARCHING ALGO
 
