@@ -8,6 +8,8 @@ Indexer for ALGORITHMS LOVER...
 
 #### REVERSE A STRING
 
+* [C](C/Strings/reverse-a-string.c)
+
 ### SEARCHING ALGO
 
 * LINEAR SEARCH

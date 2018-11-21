@@ -42,6 +42,7 @@ Please Read the [CONTRIBUTING.md](.github/CONTRIBUTING.md) file for instructions
   * Misc
   * Searching
   * Sorting
+  * Strings
   * README
 
 * Add a new Language to the root directory (but don't add unnecessary languages).

@@ -62,6 +62,10 @@
     * [START FROM LEFT](Sorting/INSERTION-SORT/deleftinsert.c)
     * [START FROM RIGHT](Sorting/INSERTION-SORT/derightinsert.c)
 
+### :rocket: STRINGS
+
+* [reverse a string](Strings/reverse-a-string.c)
+
 ### :rocket: EXECUTION OF C CODE
 
 #### LINUX
