@@ -20,6 +20,10 @@
 
 * [SELECTION SORT](Sorting/SelectionSort.py)
 
+### :rocket: STRINGS
+
+* [reverse a string](Strings/reverseString.py)
+
 ### :rocket: EXECUTION OF Python3 CODE
 
 #### LINUX
