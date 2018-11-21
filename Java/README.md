@@ -59,6 +59,10 @@
 * [HEAP SORT](Sorting/HeapSort.java)
 * [QUICK SORT](Sorting/QuickSort.java)
 
+### :rocket: STRINGS
+
+* [reverse a string](Strings/reverseString.java)
+
 ### :rocket: EXECUTION OF JAVA CODE
 
 #### LINUX

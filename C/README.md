@@ -64,7 +64,7 @@
 
 ### :rocket: STRINGS
 
-* [reverse a string](Strings/reverse-a-string.c)
+* [reverse a string](Strings/revgit serse-a-string.c)
 
 ### :rocket: EXECUTION OF C CODE
 

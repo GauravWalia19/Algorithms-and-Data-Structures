@@ -9,6 +9,7 @@ Indexer for ALGORITHMS LOVER...
 #### REVERSE A STRING
 
 * [C](C/Strings/reverse-a-string.c)
+* [JAVA](Java/Strings/reverseString.java)
 
 ### SEARCHING ALGO
 
