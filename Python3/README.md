@@ -8,6 +8,10 @@
 
 ### :rocket: DATA STRUCTURES
 
+#### LISTS
+
+* [INBUILT LISTS](Data-Structures/LISTS/inbuiltList.py)
+
 ### :rocket: DYNAMIC PROGRAMMING
 
 ### :rocket: MISC

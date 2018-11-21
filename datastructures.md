@@ -111,6 +111,13 @@ Indexer for Data Structures Lover
 * implementation
   * [C++](C++/Data-Structures/LISTS/VECTORS/Main.cpp)
 
+#### INBUILT LISTS
+
+* blog
+* docs
+* implementation
+  * [PYTHON](Python3/Data-Structures/LISTS/inbuiltList.py)
+
 ### TREES
 
 ### HEAPS
