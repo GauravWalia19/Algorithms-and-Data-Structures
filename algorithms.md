@@ -4,15 +4,11 @@ Indexer for ALGORITHMS LOVER...
 
 ## INDEX
 
-### STRINGS
+### ITERATIVE
 
-#### REVERSE A STRING
+#### BITWISE
 
-* [C](C/Strings/reverse-a-string.c)
-* [JAVA](Java/Strings/reverseString.java)
-* [PYTHON3](Python3/Strings/reverseString.py)
-
-### SEARCHING
+#### SEARCHING
 
 * LINEAR SEARCH
   * [C](C/Searching/linearSearch.c)
@@ -22,9 +18,9 @@ Indexer for ALGORITHMS LOVER...
 * BINARY SEARCH
   * [C++](C++/Searching/binary_search.cpp)
 
-### SORTING ALGO
+#### SORTING
 
-#### :rocket: BUBBLE SORT
+##### :rocket: BUBBLE SORT
 
 * [blog](https://chained-to-the-algorithms.quora.com/BUBBLE-SORT)
 * [docs](docs/bubble-sort.md)
@@ -48,61 +44,67 @@ Indexer for ALGORITHMS LOVER...
       * C++
       * JAVA
 
-#### :rocket: SELECTION SORT
+##### :rocket: SELECTION SORT
 
 * blog
 * docs
 * implementation
 
-#### :rocket: INSERTION SORT
+##### :rocket: INSERTION SORT
 
 * blog
 * docs
 * implementation
 
-#### :rocket: SHELL SORT
+##### :rocket: SHELL SORT
 
 * blog
 * docs
 * implementation
 
-#### :rocket: MERGE SORT
+##### :rocket: MERGE SORT
 
 * blog
 * docs
 * implementation
 
-#### :rocket: COUNTING SORT
+##### :rocket: COUNTING SORT
 
 * blog
 * docs
 * implementation
 
-#### :rocket: QUICK SORT
+##### :rocket: QUICK SORT
 
 * blog
 * docs
 * implementation
 
-#### :rocket: HEAP SORT
+##### :rocket: HEAP SORT
 
 * blog
 * docs
 * implementation
 
-### GRAPH ALGO
+### STRINGS
 
-### GREEDY ALGO
+#### REVERSE A STRING
 
-### BIT ALGO
+* [C](C/Strings/reverse-a-string.c)
+* [JAVA](Java/Strings/reverseString.java)
+* [PYTHON3](Python3/Strings/reverseString.py)
 
-### PATTERN SEARCHING ALGO
+### GRAPHS
 
-### GAME THEORY ALGO
+### GREEDY
 
 ### DYNAMIC PROGRAMMING
 
-### MISC ALGO
+### PATTERN SEARCHING
+
+### GAME THEORY
+
+### MISC
 
 #### FIBONACCI SERIES
 
