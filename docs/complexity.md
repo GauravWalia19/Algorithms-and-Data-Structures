@@ -8,21 +8,35 @@
     * [2D ARRAY](#2d-array)
     * [3D ARRAY](#3d-array)
     * [4D ARRAY](#4d-array)
-    * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
+    * INBUILT ARRAY CLASSES
+      * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
+      * ARRAY CLASS IN C++
   * [LISTS](#lists)
-    * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)
-    * [HYBRID SINGULAR LINKED LIST](#hybrid-singular-linked-list-having-headtail-and-next)
-    * [DOUBLE LINKED LIST](#double-linked-list-having-headtail-and-nextprev)
-    * [HYBRID DOUBLE LINKED LIST](#hybrid-double-linked-list-having-headprev-and-next)
-    * [SINGLE CIRCULAR LINKED LIST](#circular-linked-list-having-tail/head-next-and-loop)
-    * DOUBLE CIRCULAR LINKED LIST
+    * SINGLE
+      * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)
+      * [HYBRID SINGULAR LINKED LIST](#hybrid-singular-linked-list-having-headtail-and-next)
+    * DOUBLE
+      * [DOUBLE LINKED LIST](#double-linked-list-having-headtail-and-nextprev)
+      * [HYBRID DOUBLE LINKED LIST](#hybrid-double-linked-list-having-headprev-and-next)
+    * CIRCULAR
+      * [SINGLE CIRCULAR LINKED LIST](#circular-linked-list-having-tail/head-next-and-loop)
+      * DOUBLE CIRCULAR LINKED LIST
     * [MEMORY EFFICIENT DOUBLE LINKED LIST](#memory-efficient-(XOR)-double-linked-list)
     * [UNROLLED LINKED LIST](#unrolled-linked-list)
     * [SKIP LIST](#skip-list)
-    * [ARRAYLISTS](#arraylists-(JAVA))
-    * [VECTORS](#vectors-(C++JAVA))
+    * INBUILT LISTS
+      * [ARRAYLISTS](#arraylists-(JAVA))
+      * [VECTORS](#vectors-(C++JAVA))
   * STACKS
-    * [ONE WAY STACK / TWO WAY STACK](#one-way-stack-/-two-way-stack)
+    * ONE WAY
+      * ARRAY STACK
+      * LINKED STACK
+    * TWO WAY
+      * ARRAY STACK
+      * LINKED STACK
+    * INBUILT STACK
+      * JAVA
+      * C++
   * QUEUES
   * HASHTABLE
   * HEAPS
@@ -47,11 +61,11 @@
   * [COUNTING SORT](#sorting)
   * [RADIX SORT](#sorting)
 
-### DATA STRUCTURES
+## DATA STRUCTURES
 
-#### ARRAYS
+### ARRAYS
 
-##### 1D ARRAY
+#### 1D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -64,7 +78,7 @@
  7 | Update value without having index | O(n) | Linear
  8 | Update value having index | O(1) | Constant
 
-##### 2D ARRAY
+#### 2D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -77,7 +91,7 @@
  7 | Update value without having index | O(n^2) | Quadratic
  8 | Update value having index | O(1) | Constant
 
-##### 3D ARRAY
+#### 3D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -90,7 +104,7 @@
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-##### 4D ARRAY
+#### 4D ARRAY
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -103,6 +117,8 @@
  7 | Update value without having index | O(n^4) | Quadratic
  8 | Update value having index | O(1) | Constant
 
+#### INBUILT ARRAY CLASSES
+
 ##### ARRAYS CLASS IN JAVA
 
  SNo. | Methods | Order of complexity O(n) | Type of Complexity
@@ -114,7 +130,11 @@
  5 | binarySearch() | O(log n) | Logarithmic
  6 | copyOf() | O(n) | Linear
 
-#### LISTS
+##### ARRAY CLASS IN C++
+
+### LISTS
+
+#### SINGLE
 
 ##### SINGULAR LINKED LIST (having head and next)
 
@@ -134,6 +154,8 @@
  12 | Clear list | O(1) -- Constant | O(1) -- Constant
 
 ##### HYBRID SINGULAR LINKED LIST (having head,tail and next)
+
+#### DOUBLE
 
 ##### DOUBLE LINKED LIST (having head,tail and next,prev)
 
@@ -155,7 +177,9 @@
 
 ##### HYBRID DOUBLE LINKED LIST (having head,prev and next)
 
-##### CIRCULAR LINKED LIST (having tail/head ,next and loop)
+#### CIRCULAR
+
+##### SINGLE CIRCULAR LINKED LIST (having tail/head ,next and loop)
 
 SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -168,11 +192,15 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  6 | Linear search | O(n) -- Linear | O(1) -- Constant
  7 | Clear list | O(1) -- Constant | O(1) -- Constant
 
-##### MEMORY EFFICIENT (XOR) DOUBLE LINKED LIST
+##### DOUBLE CIRCULAR LINKED LIST (having tail/head,next,prev,loops)
 
-##### UNROLLED LINKED LIST
+#### MEMORY EFFICIENT (XOR) DOUBLE LINKED LIST
 
-##### SKIP LIST
+#### UNROLLED LINKED LIST
+
+#### SKIP LIST
+
+#### INBUILT LISTS
 
 ##### ARRAYLISTS (JAVA)
 
@@ -190,15 +218,27 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
 
-#### STACKS
+### STACKS
 
-##### ONE WAY STACK / TWO WAY STACK
+#### ONE WAY
+
+##### ARRAY STACK
 
  SNo. | Operations | Order of Complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
  1 | Push an element or Insert element | O(1) | Constant
  2 | Pop an element or Delete element | O(1) | Constant
  3 | Get value of top | O(1) | Constant
+
+##### LINKED STACK
+
+#### TWO WAY
+
+##### ARRAY-STACK
+
+##### LINKED-STACK
+
+#### INBUILT STACK
 
 #### QUEUES
 
