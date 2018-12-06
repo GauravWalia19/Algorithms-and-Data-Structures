@@ -3,21 +3,27 @@
 ## INDEX
 
 * ALGORITHMS
-  * SEARCHING
-    * [LINEAR SEARCH](#searching)
-    * [BINARY SEARCH](#searching)
-  * SORTING
-    * [BUBBLE SORT](#sorting)
-    * [SELECTION SORT](#SORTING)
-    * [INSERTION SORT](#sorting)
-    * [SHELL SORT](#sorting)
-    * [MERGE SORT](#sorting)
-    * [QUICK SORT](#sorting)
-    * [COUNTING SORT](#sorting)
-    * [RADIX SORT](#sorting)
-  * STRINGS
-  * GRAPHS
-  * HYBRID
+  * ITERATIVE
+    * BITWISE
+    * SEARCHING
+      * [LINEAR SEARCH](#searching)
+      * [BINARY SEARCH](#searching)
+    * SORTING
+      * [BUBBLE SORT](#sorting)
+      * [SELECTION SORT](#SORTING)
+      * [INSERTION SORT](#sorting)
+      * [SHELL SORT](#sorting)
+      * [MERGE SORT](#sorting)
+      * [QUICK SORT](#sorting)
+      * [COUNTING SORT](#sorting)
+      * [RADIX SORT](#sorting)
+    * STRINGS
+    * GRAPHS
+    * GREEDY
+    * DYNAMIC PROGRAMMING
+    * PATTERN SEARCHING
+    * GAME THEORY
+  * RECURSIVE
 
 * DATA STRUCTURES
   * [ARRAYS](#arrays)
@@ -66,14 +72,16 @@
 
 ## ALGORITHMS
 
-### SEARCHING
+### ITERATIVE
+
+#### SEARCHING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | --------- | ---------
  1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
  2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
 
-### SORTING
+#### SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
@@ -87,6 +95,12 @@
  8 | Radix Sort | O(n) or slower than O(nlogn)  | Linear / Logarithmic | Stable | Can Be |
 
 **Not an efficient Way
+
+### RECURSIVE
+
+#### SEARCH
+
+#### SORT
 
 ## DATA STRUCTURES
 

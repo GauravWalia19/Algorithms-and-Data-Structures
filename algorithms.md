@@ -4,7 +4,7 @@ Indexer for ALGORITHMS LOVER...
 
 ## INDEX
 
-### STRING ALGO
+### STRINGS
 
 #### REVERSE A STRING
 
@@ -12,7 +12,7 @@ Indexer for ALGORITHMS LOVER...
 * [JAVA](Java/Strings/reverseString.java)
 * [PYTHON3](Python3/Strings/reverseString.py)
 
-### SEARCHING ALGO
+### SEARCHING
 
 * LINEAR SEARCH
   * [C](C/Searching/linearSearch.c)
@@ -96,17 +96,7 @@ Indexer for ALGORITHMS LOVER...
 
 ### BIT ALGO
 
-### RECURSIVE ALGO
-
 ### PATTERN SEARCHING ALGO
-
-### CONSTRUCTIVE ALGO
-
-### GEOMETRIC ALGO
-
-### MATHEMATICAL ALGO
-
-### RANDOMISED ALGO
 
 ### GAME THEORY ALGO
 
