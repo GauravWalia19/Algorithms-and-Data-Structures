@@ -2,6 +2,23 @@
 
 ## INDEX
 
+* ALGORITHMS
+  * SEARCHING
+    * [LINEAR SEARCH](#searching)
+    * [BINARY SEARCH](#searching)
+  * SORTING
+    * [BUBBLE SORT](#sorting)
+    * [SELECTION SORT](#SORTING)
+    * [INSERTION SORT](#sorting)
+    * [SHELL SORT](#sorting)
+    * [MERGE SORT](#sorting)
+    * [QUICK SORT](#sorting)
+    * [COUNTING SORT](#sorting)
+    * [RADIX SORT](#sorting)
+  * STRINGS
+  * GRAPHS
+  * HYBRID
+
 * DATA STRUCTURES
   * [ARRAYS](#arrays)
     * [1D ARRAY](#1d-array)
@@ -39,27 +56,37 @@
       * C++
   * QUEUES
   * HASHTABLE
+  * TREES
   * HEAPS
     * [DYNAMIC 1D ARRAY](#dynamic-1d-arrays-(CC++))
     * [DYNAMIC 2D ARRAY](#dynamic-2d-arrays-(CC++))
     * [DYNAMIC 3D ARRAY](#dynamic-3d-arrays-(CC++))
-  * TREES
   * GRAPHS
   * BLOCKCHAIN
 
-* SEARCHING
-  * [LINEAR SEARCH](#searching)
-  * [BINARY SEARCH](#searching)
+## ALGORITHMS
 
-* SORTING
-  * [BUBBLE SORT](#sorting)
-  * [SELECTION SORT](#SORTING)
-  * [INSERTION SORT](#sorting)
-  * [SHELL SORT](#sorting)
-  * [MERGE SORT](#sorting)
-  * [QUICK SORT](#sorting)
-  * [COUNTING SORT](#sorting)
-  * [RADIX SORT](#sorting)
+### SEARCHING
+
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
+ ---- | --------- | ------------------------ | ------------------ | --------- | ---------
+ 1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
+ 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
+
+### SORTING
+
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
+ ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
+ 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable** | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
+ 4 | Shell Sort | O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark: |
+ 5 | Merge Sort | O(n logn) | Logarithmic  | Stable | :heavy_multiplication_x: |
+ 6 | Quick Sort | O(n logn) | Logarithmic | Unstable | :heavy_check_mark: |
+ 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
+ 8 | Radix Sort | O(n) or slower than O(nlogn)  | Linear / Logarithmic | Stable | Can Be |
+
+**Not an efficient Way
 
 ## DATA STRUCTURES
 
@@ -244,6 +271,8 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 #### HASHTABLE
 
+#### TREES
+
 #### HEAPS
 
 ##### DYNAMIC 1D ARRAYS (C,C++)
@@ -285,28 +314,6 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-#### TREES
-
 #### GRAPHS
 
-### SEARCHING
-
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
- ---- | --------- | ------------------------ | ------------------ | --------- | ---------
- 1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
- 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
-
-### SORTING
-
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity | Recursive | Iterative
- ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ---------------- | --------- | ---------
- 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable** | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
- 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
- 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: | O(1) | :heavy_multiplication_x: |  :heavy_check_mark:
- 4 | Shell Sort | O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark: |
- 5 | Merge Sort | O(n logn) | Logarithmic  | Stable | :heavy_multiplication_x: |
- 6 | Quick Sort | O(n logn) | Logarithmic | Unstable | :heavy_check_mark: |
- 7 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
- 8 | Radix Sort | O(n) or slower than O(nlogn)  | Linear / Logarithmic | Stable | Can Be |
-
-**Not an efficient Way
+#### BLOCKCHAIN
