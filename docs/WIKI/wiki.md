@@ -108,7 +108,7 @@ g(n) = n^4  (Maximum rate of growth of f(n))
 
 * GRAPH
 
-![Big O Notation](images/big-o.png)
+![Big O Notation](../images/big-o.png)
 
 ### 2. Big Omega Notation (Ω)
 
@@ -124,7 +124,7 @@ If f(n) >= c * g(n)
 
 * GRAPH
 
-![Big Omega Notation](images/big-omega.png)
+![Big Omega Notation](../images/big-omega.png)
 
 ### 3. Theta Notation (θ)
 
@@ -141,7 +141,7 @@ If f(n) = c * g(n)
 
 * GRAPH
 
-![Theta Notation](images/theta.png)
+![Theta Notation](../images/theta.png)
 
 ### 4. Little O Notation (o)
 
@@ -240,12 +240,14 @@ For space complexity of recursive solution we will find how much stack is used. 
  6 | O(n^3) | Cubic | **
  7 | O(2^n) | Exponential | *
 
-### :rocket: GRAPH
+### :rocket: GRAPHS
 
 * n - Number of Inputs
 * N - Number of Steps
 
-![image](images/computational_complexity.png)
+![image](../images/computational_complexity.png)
+
+![image 2](../images/complexity.jpg)
 
 ## :rocket: STABLE SORT
 
