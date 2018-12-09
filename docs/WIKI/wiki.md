@@ -247,7 +247,7 @@ For space complexity of recursive solution we will find how much stack is used. 
 
 ![image](../images/computational_complexity.png)
 
-![image 2](../images/complexity.jpg)
+![image 2](../images/complexity.png)
 
 ## :rocket: STABLE SORT
 
