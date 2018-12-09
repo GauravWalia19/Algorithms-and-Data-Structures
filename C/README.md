@@ -14,12 +14,6 @@
 * [4 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/4darrays.c)
 * [JAGGED ARRAYS](Data-Structures/ARRAYS/jaggedarray.c)
 
-#### HEAPS
-
-* [1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)
-* [2D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic2d.c)
-* [3D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic3d.c)
-
 #### LISTS
 
 * LINKED LIST
@@ -28,6 +22,12 @@
   * DOUBLE
     * [DOUBLE LINKED LIST](Data-Structures/LINKED-LIST/DOUBLE/Main.c)
   * CIRCULAR
+
+#### HEAPS
+
+* [1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)
+* [2D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic2d.c)
+* [3D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic3d.c)
 
 ### :rocket: DYNAMIC PROGRAMMING
 
@@ -64,7 +64,7 @@
 
 ### :rocket: STRINGS
 
-* [reverse a string](Strings/revgit serse-a-string.c)
+* [reverse a string](Strings/reverse-a-string.c)
 
 ### :rocket: EXECUTION OF C CODE
 
