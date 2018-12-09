@@ -4,6 +4,8 @@
 
 ### :rocket: CONVERSIONS
 
+* [Binary to Decimal](Conversions/binaryToDecimal.c)
+
 ### :rocket: DATA STRUCTURES
 
 #### ARRAYS

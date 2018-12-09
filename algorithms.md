@@ -137,3 +137,10 @@ Indexer for ALGORITHMS LOVER...
 * blog
 * docs
 * implementation
+
+#### BINARY TO DECIMAL
+
+* blog
+* docs
+* implementation
+  * [C](C/Conversions/binaryToDecimal.c)
