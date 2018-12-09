@@ -1,13 +1,15 @@
 # COMPLEXITY
 
+This page contains the complexities of different algorithms in this repository.
+
 ## INDEX
 
 * ALGORITHMS
   * ITERATIVE
-    * BITWISE
     * SEARCHING
       * [LINEAR SEARCH](#searching)
       * [BINARY SEARCH](#searching)
+    * PATTERN SEARCHING
     * SORTING
       * [BUBBLE SORT](#sorting)
       * [SELECTION SORT](#SORTING)
@@ -18,10 +20,15 @@
       * [COUNTING SORT](#sorting)
       * [RADIX SORT](#sorting)
     * STRINGS
+    * BITWISE
+    * MATHEMATICAL
+    * GEOMETRIC
+    * RANDOMIZED
+    * DIVIDE AND CONQUER
+    * BRANCH AND BOUND
     * GRAPHS
     * GREEDY
     * DYNAMIC PROGRAMMING
-    * PATTERN SEARCHING
     * GAME THEORY
     * MISC
   * RECURSIVE

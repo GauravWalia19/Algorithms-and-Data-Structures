@@ -1,29 +1,38 @@
 # ALGORITHMS
 
-Indexer for ALGORITHMS LOVER...
+Hola guys, Hello world this is algorithms index find your algorithms here if not present [help us](.github/CONTRIBUTING.md) and add new algorithms here.
 
 ## INDEX
 
-### ITERATIVE
+### :octocat: ITERATIVE
 
-#### BITWISE
+#### :rocket: SEARCHING
 
-#### SEARCHING
+##### LINEAR SEARCH
 
-* LINEAR SEARCH
+* blog
+* docs
+* implementation  
   * [C](C/Searching/linearSearch.c)
   * C++
     * [SIMPLE](C++/Searching/linear.cpp)
     * [COMPLEX](C++/Searching/linearSearch.cpp)
-* BINARY SEARCH
+
+##### BINARY SEARCH
+
+* blog
+* docs
+* implementation
   * [C++](C++/Searching/binary_search.cpp)
 
-#### SORTING
+#### :rocket: PATTERN SEARCHING
+
+#### :rocket: SORTING
 
 ##### :rocket: BUBBLE SORT
 
 * [blog](https://chained-to-the-algorithms.quora.com/BUBBLE-SORT)
-* [docs](docs/bubble-sort.md)
+* [docs](docs/algo-docs/bubble-sort.md)
 * implementation (follow only stable sort)
   * **Stable**
     * **Ascending**
@@ -86,61 +95,73 @@ Indexer for ALGORITHMS LOVER...
 * docs
 * implementation
 
-### STRINGS
+#### :rocket: STRINGS
 
-#### REVERSE A STRING
+##### REVERSE A STRING
 
 * [C](C/Strings/reverse-a-string.c)
 * [JAVA](Java/Strings/reverseString.java)
 * [PYTHON3](Python3/Strings/reverseString.py)
 
-### GRAPHS
+#### :rocket: BITWISE
 
-### GREEDY
+#### :rocket: MATHEMATICAL
 
-### DYNAMIC PROGRAMMING
-
-### PATTERN SEARCHING
-
-### GAME THEORY
-
-### MISC
-
-#### FIBONACCI SERIES
+##### FIBONACCI SERIES
 
 * blog
 * docs
 * implementation
   * [C](C/Misc/fibonacci.c)
 
-#### SPELL THE NUMBER
+#### :rocket: GEOMETRIC
+
+#### :rocket: RANDOMIZED
+
+#### :rocket: DIVIDE AND CONQUER
+
+#### :rocket: BRANCH AND BOUND
+
+#### :rocket: GRAPHS
+
+#### :rocket: GREEDY
+
+#### :rocket: DYNAMIC PROGRAMMING
+
+#### :rocket: GAME THEORY
+
+#### :rocket: MISC
+
+##### SPELL THE NUMBER
 
 * blog
 * docs
 * implementation
   * [C](C/Misc/spell_the_number.c)
 
-#### PAIR WISE SWAP
+##### PAIR WISE SWAP
 
 * blog
 * docs
 * implementation
 
-#### REVERSE A NUMBER
+##### REVERSE A NUMBER
 
 * blog
 * docs
 * implementation
 
-#### PAGE REPLACEMENT
+##### PAGE REPLACEMENT
 
 * blog
 * docs
 * implementation
 
-#### BINARY TO DECIMAL
+##### BINARY TO DECIMAL
 
 * blog
 * docs
 * implementation
   * [C](C/Conversions/binaryToDecimal.c)
+
+### :octocat: RECURSIVE
