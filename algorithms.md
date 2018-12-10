@@ -8,7 +8,7 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
 
 #### :rocket: SEARCHING
 
-##### LINEAR SEARCH
+##### :rocket: LINEAR SEARCH
 
 * blog
 * docs
@@ -18,7 +18,7 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
     * [SIMPLE](C++/Searching/linear.cpp)
     * [COMPLEX](C++/Searching/linearSearch.cpp)
 
-##### BINARY SEARCH
+##### :rocket: BINARY SEARCH
 
 * blog
 * docs
@@ -71,25 +71,7 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
 * docs
 * implementation
 
-##### :rocket: MERGE SORT
-
-* blog
-* docs
-* implementation
-
 ##### :rocket: COUNTING SORT
-
-* blog
-* docs
-* implementation
-
-##### :rocket: QUICK SORT
-
-* blog
-* docs
-* implementation
-
-##### :rocket: HEAP SORT
 
 * blog
 * docs
@@ -174,3 +156,47 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
 * docs
 * implementation
   * [C](C/Searching/linear.c)
+
+#### :repeat: SORTING
+
+##### :repeat: MERGE SORT
+
+* blog
+* docs
+* implementation
+
+##### :repeat: QUICK SORT
+
+* blog
+* docs
+* implementation
+
+##### :repeat: HEAP SORT
+
+* blog
+* docs
+* implementation
+
+#### :repeat: STRINGS
+
+#### :repeat: BITWISE
+
+#### :repeat: MATHEMATICAL
+
+#### :repeat: GEOMETRIC
+
+#### :repeat: RANDOMIZED
+
+#### :repeat: DIVIDE AND CONQUER
+
+#### :repeat: BRANCH AND BOUND
+
+#### :repeat: GRAPHS
+
+#### :repeat: GREEDY
+
+#### :repeat: DYNAMIC PROGRAMMING
+
+#### :repeat: GAME THEORY
+
+#### :repeat: MISC
