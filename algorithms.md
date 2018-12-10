@@ -157,6 +157,13 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
 * implementation
   * [C](C/Searching/linear.c)
 
+##### :repeat: BINARY SEARCH
+
+* blog
+* docs
+* implementation
+  * [C](C/Searching/binarySearch.c)
+
 #### :repeat: SORTING
 
 ##### :repeat: MERGE SORT
