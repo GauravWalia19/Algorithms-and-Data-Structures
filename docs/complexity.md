@@ -32,6 +32,23 @@ This page contains the complexities of different algorithms in this repository.
     * GAME THEORY
     * MISC
   * RECURSIVE
+    * SEARCHING
+      * LINEAR SEARCH
+      * BINARY SEARCH
+    * PATTERN SEARCHING
+    * SORTING
+    * STRINGS
+    * BITWISE
+    * MATHEMATICAL
+    * GEOMETRIC
+    * RANDOMIZED
+    * DIVIDE AND CONQUER
+    * BRANCH AND BOUND
+    * GRAPHS
+    * GREEDY
+    * DYNAMIC PROGRAMMING
+    * GAME THEORY
+    * MISC
 
 * DATA STRUCTURES
   * [ARRAYS](#arrays)

@@ -40,8 +40,14 @@
 
 ### :rocket: SEARCHING
 
-* [Linear Search](Searching/linearSearch.c)
+* Linear Search
+  * [Without recursion](Searching/linearSearch.c)
+  * [With recursion](Searching/linear.c)
 
+* Binary Search
+  * Without recursion
+  * With recursion
+  
 ### :rocket: SORTING
 
 * BUBBLE SORT

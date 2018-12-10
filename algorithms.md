@@ -165,3 +165,12 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
   * [C](C/Conversions/binaryToDecimal.c)
 
 ### :octocat: RECURSIVE
+
+#### :rocket:SEARCHING
+
+##### :rocket:LINEAR SEARCH
+
+* blog
+* docs
+* implementation
+  * [C](C/Searching/linear.c)
