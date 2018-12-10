@@ -166,9 +166,9 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
 
 ### :octocat: RECURSIVE
 
-#### :rocket:SEARCHING
+#### :repeat: SEARCHING
 
-##### :rocket:LINEAR SEARCH
+##### :repeat: LINEAR SEARCH
 
 * blog
 * docs

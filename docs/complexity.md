@@ -99,14 +99,16 @@ This page contains the complexities of different algorithms in this repository.
 
 ### ITERATIVE
 
-#### SEARCHING
+#### :rocket: SEARCHING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
  ---- | --------- | ------------------------ | ------------------ | --------- | ---------
  1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
  2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
 
-#### SORTING
+#### :rocket: PATTERN SEARCHING
+
+#### :rocket: SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ----------------
@@ -119,16 +121,66 @@ This page contains the complexities of different algorithms in this repository.
 
 **Not an efficient Way
 
+#### :rocket: STRINGS
+
+#### :rocket: BITWISE
+
+#### :rocket: MATHEMATICAL
+
+#### :rocket: GEOMETRIC
+
+#### :rocket: RANDOMIZED
+
+#### :rocket: DIVIDE AND CONQUER
+
+#### :rocket: BRANCH AND BOUND
+
+#### :rocket: GRAPHS
+
+#### :rocket: GREEDY
+
+#### :rocket: DYNAMIC PROGRAMMING
+
+#### :rocket: GAME THEORY
+
+#### :rocket: MISC
+
 ### RECURSIVE
 
-#### SEARCH
+#### :repeat: SEARCHING
 
-#### SORT
+#### :repeat: PATTERN SEARCHING
+
+#### :repeat: SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity
  ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ----------------
  1 | Merge Sort | O(n logn) | Logarithmic  | Stable | :heavy_multiplication_x: |
  2 | Quick Sort | O(n logn) | Logarithmic | Unstable | :heavy_check_mark: |
+
+#### :repeat: STRINGS
+
+#### :repeat: BITWISE
+
+#### :repeat: MATHEMATICAL
+
+#### :repeat: GEOMETRIC
+
+#### :repeat: RANDOMIZED
+
+#### :repeat: DIVIDE AND CONQUER
+
+#### :repeat: BRANCH AND BOUND
+
+#### :repeat: GRAPHS
+
+#### :repeat: GREEDY
+
+#### :repeat: DYNAMIC PROGRAMMING
+
+#### :repeat: GAME THEORY
+
+#### :repeat: MISC
 
 ## DATA STRUCTURES
 
