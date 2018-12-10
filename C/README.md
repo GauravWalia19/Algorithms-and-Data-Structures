@@ -45,7 +45,7 @@
   * [With recursion](Searching/linear.c)
 
 * Binary Search
-  * Without recursion
+  * [Without recursion](Searching/binarysearch.c)
   * [With recursion](Searching/binarySearch.c)
   
 ### :rocket: SORTING

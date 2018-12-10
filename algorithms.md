@@ -23,6 +23,7 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
 * blog
 * docs
 * implementation
+  * [C](C/Searching/binarysearch.c)
   * [C++](C++/Searching/binary_search.cpp)
 
 #### :rocket: PATTERN SEARCHING

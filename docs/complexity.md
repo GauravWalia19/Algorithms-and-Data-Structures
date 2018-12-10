@@ -101,10 +101,10 @@ This page contains the complexities of different algorithms in this repository.
 
 #### :rocket: SEARCHING
 
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive | Iterative
- ---- | --------- | ------------------------ | ------------------ | --------- | ---------
- 1 | Linear Search | O(n) | Linear | :heavy_multiplication_x: | :heavy_check_mark:
- 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark: | :heavy_check_mark:
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Iterative
+ ---- | --------- | ------------------------ | ------------------ | ---------
+ 1 | Linear Search | O(n) | Linear | :heavy_check_mark:
+ 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark:
 
 #### :rocket: PATTERN SEARCHING
 
@@ -148,6 +148,11 @@ This page contains the complexities of different algorithms in this repository.
 ### RECURSIVE
 
 #### :repeat: SEARCHING
+
+ SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Recursive
+ ---- | --------- | ------------------------ | ------------------ | ---------
+ 1 | Linear Search | O(n) | Linear | :heavy_check_mark:
+ 2 | Binary Search | O(log n) | Logarithmic | :heavy_check_mark:
 
 #### :repeat: PATTERN SEARCHING
 

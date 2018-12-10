@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 bool linearSearch(int arr[],int l,int r,int key)
-{
+{   
     if(arr[l]==key)
     {
         return true;
