@@ -4,7 +4,7 @@ Indexer for Data Structures Lover
 
 ## INDEX
 
-### ARRAYS
+### :octocat: ARRAYS
 
 #### 1 DIMENSIONAL
 
@@ -63,7 +63,7 @@ Indexer for Data Structures Lover
 * implementation
   * [C](C/Data-Structures/ARRAYS/jaggedarray.c)
 
-### LISTS
+### :octocat: LISTS
 
 #### SINGLE
 
@@ -104,7 +104,7 @@ Indexer for Data Structures Lover
 * implementation
   * [PYTHON](Python3/Data-Structures/LISTS/inbuiltList.py)
 
-### STACKS
+### :octocat: STACKS
 
 #### ONE WAY STACK
 
@@ -128,15 +128,15 @@ Indexer for Data Structures Lover
 * implementation
   * [C++](C++/Data-Structures/STACKS/stack.cpp)
 
-### QUEUES
+### :octocat: QUEUES
 
-### HASHTABLES
+### :octocat: HASHTABLES
 
-### SETS
+### :octocat: SETS
 
-### TREES
+### :octocat: TREES
 
-### HEAPS
+### :octocat: HEAPS
 
 #### 1 DIMENSIONAL ARRAYS
 
@@ -162,4 +162,6 @@ Indexer for Data Structures Lover
   * [C](C/Data-Structures/HEAPS/dynamic3d.c)
   * [C++](C++/Data-Structures/HEAPS/1darray.cpp)
 
-### GRAPHS
+### :octocat: GRAPHS
+
+### :octocat: BLOCKCHAIN

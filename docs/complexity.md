@@ -75,14 +75,14 @@ This page contains the complexities of different algorithms in this repository.
     * INBUILT LISTS
       * [ARRAYLISTS](#arraylists-(JAVA))
       * [VECTORS](#vectors-(C++JAVA))
-  * STACKS
-    * ONE WAY
-      * ARRAY STACK
-      * LINKED STACK
-    * TWO WAY
-      * ARRAY STACK
-      * LINKED STACK
-    * INBUILT STACK
+  * [STACKS](#stacks)
+    * [ONE WAY](#one-way)
+      * [ARRAY STACK](#array-stack)
+      * [LINKED STACK](#linked-stack)
+    * [TWO WAY](#two-way)
+      * ARRAY-STACK
+      * LINKED-STACK
+    * [INBUILT STACK](#inbuilt-stack)
       * JAVA
       * C++
   * QUEUES
