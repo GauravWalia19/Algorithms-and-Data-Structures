@@ -27,6 +27,13 @@
 * [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
 * [VECTORS](Data-Structures/LISTS/vectors.java)
 
+#### STACKS
+
+* ONE WAY
+  * [ArrayStack](Data-Structures/STACKS/ONE-WAY/ArrayStack.java)
+* TWO WAY
+* INBUILT STACKS
+
 ### :rocket: DYNAMIC PROGRAMMING
 
 ### :rocket: MISC

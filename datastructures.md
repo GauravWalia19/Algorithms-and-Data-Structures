@@ -6,12 +6,6 @@ Indexer for Data Structures Lover
 
 ### ARRAYS
 
-#### ARRAYS CLASS(JAVA)
-
-* [arrays class](Java/Data-Structures/ARRAYS/arrays.java)
-
-#### ARRAY (STL C++)
-
 #### 1 DIMENSIONAL
 
 * blog
@@ -48,12 +42,67 @@ Indexer for Data Structures Lover
   * [C++](C++/Data-Structures/ARRAYS/4darrays.cpp)
   * [JAVA](Java/Data-Structures/ARRAYS/fourDarray.java)
 
+#### INBUILT ARRAY CLASSES
+
+##### ARRAYS CLASS(JAVA)
+
+* blog
+* docs
+* [arrays class in java](Java/Data-Structures/ARRAYS/arrays.java)
+
+##### ARRAY CLASS(C++)
+
+* blog
+* docs
+* array class in c++
+
 #### JAGGED
 
 * blog
 * docs
 * implementation
   * [C](C/Data-Structures/ARRAYS/jaggedarray.c)
+
+### LISTS
+
+#### SINGLE
+
+* blog
+* docs
+* implementation
+  * [C](C/Data-Structures/LINKED-LIST/SINGLE/Main.c)
+  * [C++](C++/Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
+
+#### DOUBLE
+
+* blog
+* docs
+* implementation
+  * [C](C/Data-Structures/LINKED-LIST/DOUBLE/Main.c)
+
+#### CIRCULAR
+
+#### INBUILT LISTS
+
+##### ARRAYLIST
+
+* blog
+* docs
+* implementation
+
+##### VECTOR
+
+* blog
+* docs
+* implementation
+  * [C++](C++/Data-Structures/LISTS/VECTORS/Main.cpp)
+
+##### LIST
+
+* blog
+* docs
+* implementation
+  * [PYTHON](Python3/Data-Structures/LISTS/inbuiltList.py)
 
 ### STACKS
 
@@ -63,6 +112,7 @@ Indexer for Data Structures Lover
 * docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/Stack.hpp)
+  * [JAVA](Java/Data-Structures/STACKS/ONE-WAY/ArrayStack.java)
 
 #### TWO WAY STACK
 
@@ -71,9 +121,7 @@ Indexer for Data Structures Lover
 * implementation
   * [C++](C++/Data-Structures/STACKS/Tstack.hpp)
 
-#### CIRCULAR STACK
-
-#### INBUILT STACK
+#### INBUILT STACKS
 
 * blog
 * docs
@@ -85,38 +133,6 @@ Indexer for Data Structures Lover
 ### HASHTABLES
 
 ### SETS
-
-### LISTS
-
-#### LINKED LIST
-
-* SINGLE
-  * [C](C/Data-Structures/LINKED-LIST/SINGLE/Main.c)
-  * [C++](C++/Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
-* DOUBLE
-  * [C](C/Data-Structures/LINKED-LIST/DOUBLE/Main.c)
-* SINGLED CIRCULAR
-* DOUBLED CIRCULAR
-
-#### ARRAYLIST
-
-* blog
-* docs
-* implementation
-
-#### VECTOR
-
-* blog
-* docs
-* implementation
-  * [C++](C++/Data-Structures/LISTS/VECTORS/Main.cpp)
-
-#### INBUILT LISTS
-
-* blog
-* docs
-* implementation
-  * [PYTHON](Python3/Data-Structures/LISTS/inbuiltList.py)
 
 ### TREES
 
