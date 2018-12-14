@@ -77,7 +77,8 @@ This page contains the complexities of different algorithms in this repository.
       * [VECTORS](#vectors-(C++JAVA))
   * [STACKS](#stacks)
     * [ONE WAY](#one-way)
-      * [ARRAY STACK](#array-stack)
+      * [FIXED ARRAY STACK](#fixed-array-stack)
+      * [DYNAMIC ARRAY STACK](#dynamic-array-stack)
       * [LINKED STACK](#linked-stack)
     * [TWO WAY](#two-way)
       * ARRAY-STACK
@@ -348,15 +349,25 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 #### ONE WAY
 
-##### ARRAY STACK
+##### FIXED ARRAY STACK
 
- SNo. | Operations | Order of Complexity O(n) | Type of Complexity
- ---- | ---------- | ------------------------ | ------------------
- 1 | Push an element or Insert element | O(1) | Constant
- 2 | Pop an element or Delete element | O(1) | Constant
- 3 | Get value of top | O(1) | Constant
- 4 | Is empty or not | O(1) | Constant
- 5 | Printing the stack | O(n) | Linear
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Push an element or Insert element | O(1) -- Constant | O(1) -- Constant
+ 2 | Pop an element or Delete element | O(1) -- Constant | O(1) -- Constant
+ 3 | Get value of top | O(1) -- Constant | O(1) -- Constant
+ 4 | Is empty or not | O(1) -- Constant | O(1) -- Constant
+ 5 | Printing the stack | O(n) -- Linear | O(1) -- Constant
+
+##### DYNAMIC ARRAY STACK
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Push an element or Insert element | O(n) -- Constant | O(log(n)) -- Constant
+ 2 | Pop an element or Delete element | O(1) -- Constant | O(1) -- Constant
+ 3 | Get value of top | O(1) -- Constant | O(1) -- Constant
+ 4 | Is empty or not | O(1) -- Constant | O(1) -- Constant
+ 5 | Printing the stack | O(n) -- Linear | O(1) -- Constant
 
 ##### LINKED STACK
 

@@ -108,18 +108,28 @@ Indexer for Data Structures Lover
 
 #### ONE WAY STACK
 
+##### FIXED ARRAY STACK
+
 * blog
 * docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/Stack.hpp)
   * [JAVA](Java/Data-Structures/STACKS/ONE-WAY/ArrayStack.java)
 
+##### DYNAMIC ARRAY STACK
+
+##### LINKED STACK
+
 #### TWO WAY STACK
+
+##### FIXED-ARRAY-STACK
 
 * blog
 * docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/Tstack.hpp)
+
+##### DYNAMIC-ARRAY-STACK
 
 #### INBUILT STACKS
 
