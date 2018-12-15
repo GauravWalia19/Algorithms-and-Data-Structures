@@ -363,13 +363,21 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
- 1 | Push an element or Insert element | O(n) -- Constant | O(log(n)) -- Constant
+ 1 | Push an element or Insert element | O(n) -- Linear | O(log(n)) -- Logarithmic
  2 | Pop an element or Delete element | O(1) -- Constant | O(1) -- Constant
  3 | Get value of top | O(1) -- Constant | O(1) -- Constant
  4 | Is empty or not | O(1) -- Constant | O(1) -- Constant
  5 | Printing the stack | O(n) -- Linear | O(1) -- Constant
 
 ##### LINKED STACK
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Push an element or Insert element | O(1) -- Constant | O(1) -- Constant
+ 2 | Pop an element or Delete element | O(1) -- Constant | O(1) -- Constant
+ 3 | Get value of top | O(1) -- Constant | O(1) -- Constant
+ 4 | Is empty or not | O(1) -- Constant | O(1) -- Constant
+ 5 | Printing the stack/deletestack | O(n) -- Linear | O(1) -- Constant
 
 #### TWO WAY
 
