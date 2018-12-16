@@ -12,6 +12,10 @@
 * [2 DIMENSIONAL ARRAY](Data-Structures/ARRAYS/2darrays.cpp)
 * [3 DIMENSIONAL ARRAY](Data-Structures/ARRAYS/3darrays.cpp)
 * [4 DIMENSIONAL ARRAY](Data-Structures/ARRAYS/4darrays.cpp)
+* INBUILT ARRAY CLASSES
+  * ARRAY CLASS
+* MISC
+  * JAGGED ARRAY
 
 #### LISTS
 
@@ -20,27 +24,25 @@
     * [SINGLE](Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
   * DOUBLE
   * CIRCULAR
-* [VECTORS](Data-Structures/LISTS/VECTORS/Main.cpp)
+* MEMORY EFFICIENT DOUBLE LINKED LIST
+* UNROLLED LINKED LIST
+* SKIP LIST
+* INBUILT LISTS
+  * [VECTORS](Data-Structures/LISTS/INBUILT-LISTS/VECTORS/Main.cpp)
 
 #### STACKS
 
-##### ONE WAY STACK
-
-* [STACK](Data-Structures/STACKS/Stack.hpp)
-* [USAGE](Data-Structures/STACKS/Stack.cpp)
-* [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
-
-##### TWO WAY STACK
-
-* [STACK](Data-Structures/STACKS/Tstack.hpp)
-* [USAGE](Data-Structures/STACKS/two-way-stack.cpp)
-* [GUIDE TO STACK](Data-Structures/STACKS/stacks.md)
-
-##### CIRCULAR STACK
-
-##### INBUILT STACK
-
-* [Inbuilt stack library](Data-Structures/STACKS/stack.cpp)
+* FIXED ARRAY STACK
+  * [STACK](Data-Structures/STACKS/Stack.hpp)
+  * [USAGE](Data-Structures/STACKS/Stack.cpp)
+* DYNAMIC ARRAY STACK
+* LINKED STACK
+* INBUILT STACKS
+  * [STACK CLASS](Data-Structures/STACKS/INBUILT-STACK/stack.cpp)
+* MISC
+  * TWO WAY
+    * [STACK](Data-Structures/STACKS/MISC/TWO-WAY/Tstack.hpp)
+    * [USAGE](Data-Structures/STACKS/MISC/TWO-WAY/two-way-stack.cpp)
 
 #### HEAPS
 

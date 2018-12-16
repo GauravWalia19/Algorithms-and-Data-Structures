@@ -56,11 +56,11 @@ This page contains the complexities of different algorithms in this repository.
     * [2D ARRAY](#2d-array)
     * [3D ARRAY](#3d-array)
     * [4D ARRAY](#4d-array)
-    * [MISC ARRAYS](#misc-arrays)
-      * [JAGGED ARRAY](#jagged-array)
     * [INBUILT ARRAY CLASSES](#inbuilt-array-classes)
       * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
       * ARRAY CLASS IN C++
+    * [MISC ARRAYS](#misc-arrays)
+      * [JAGGED ARRAY](#jagged-array)
   * [LISTS](#lists)
     * SINGLE
       * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)

@@ -14,7 +14,8 @@
 * [2 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/2darrays.c)
 * [3 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/3darrays.c)
 * [4 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/4darrays.c)
-* [JAGGED ARRAYS](Data-Structures/ARRAYS/jaggedarray.c)
+* MISC
+  * [JAGGED ARRAYS](Data-Structures/ARRAYS/MISC/jaggedarray.c)
 
 #### LISTS
 
@@ -24,6 +25,9 @@
   * DOUBLE
     * [DOUBLE LINKED LIST](Data-Structures/LINKED-LIST/DOUBLE/Main.c)
   * CIRCULAR
+* MEMORY EFFICIENT DOUBLE LINKED LIST
+* UNROLLED LINKED LIST
+* SKIP LIST
 
 #### HEAPS
 
