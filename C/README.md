@@ -29,6 +29,14 @@
 * UNROLLED LINKED LIST
 * SKIP LIST
 
+#### STACKS
+
+* FIXED ARRAY STACK
+* DYNAMIC ARRAY STACK
+* LINKED STACK
+* MISC
+  * [Minimum bracket reversal for balanced expression](Data-Structures/STACKS/MISC-STACKS/minimum_bracket_reversal_for_balanced_expression.c)
+
 #### HEAPS
 
 * [1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)

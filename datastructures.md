@@ -133,6 +133,13 @@ Indexer for Data Structures Lover
 
 #### MISC STACKS
 
+##### Minimum bracket reversal for making brackets balanced
+
+* blog
+* docs
+* implementation
+  * [C](C/Data-Structures/STACKS/MISC-STACKS/minimum_bracket_reversal_for_balanced_expression.c)
+
 ##### TWO WAY STACK
 
 * blog
