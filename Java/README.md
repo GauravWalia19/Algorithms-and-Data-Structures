@@ -35,6 +35,7 @@
 * LINKED STACK
   * [Linked Stack](Data-Structures/STACKS/LINKED-STACK/LinkedStack.java)
 * INBUILT STACKS
+  * [Stack class](Data-Structures/STACKS/INBUILT-STACK/Stacks.java)
 * MISC STACKS
 
 ### :rocket: DYNAMIC PROGRAMMING

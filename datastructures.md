@@ -129,6 +129,7 @@ Indexer for Data Structures Lover
 * docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/stack.cpp)
+  * [JAVA](Java/Data-Structures/STACKS/INBUILT-STACK/Stacks.java)
 
 #### MISC STACKS
 
