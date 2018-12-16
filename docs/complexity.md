@@ -56,7 +56,9 @@ This page contains the complexities of different algorithms in this repository.
     * [2D ARRAY](#2d-array)
     * [3D ARRAY](#3d-array)
     * [4D ARRAY](#4d-array)
-    * INBUILT ARRAY CLASSES
+    * [MISC ARRAYS](#misc-arrays)
+      * [JAGGED ARRAY](#jagged-array)
+    * [INBUILT ARRAY CLASSES](#inbuilt-array-classes)
       * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
       * ARRAY CLASS IN C++
   * [LISTS](#lists)
@@ -240,6 +242,10 @@ This page contains the complexities of different algorithms in this repository.
  6 | Deletion of the value without having index | O(n^4) | Quadratic  
  7 | Update value without having index | O(n^4) | Quadratic
  8 | Update value having index | O(1) | Constant
+
+#### MISC ARRAYS
+
+##### JAGGED ARRAYS
 
 #### INBUILT ARRAY CLASSES
 
