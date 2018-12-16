@@ -76,16 +76,13 @@ This page contains the complexities of different algorithms in this repository.
       * [ARRAYLISTS](#arraylists-(JAVA))
       * [VECTORS](#vectors-(C++JAVA))
   * [STACKS](#stacks)
-    * [ONE WAY](#one-way)
-      * [FIXED ARRAY STACK](#fixed-array-stack)
-      * [DYNAMIC ARRAY STACK](#dynamic-array-stack)
-      * [LINKED STACK](#linked-stack)
-    * [TWO WAY](#two-way)
-      * ARRAY-STACK
-      * LINKED-STACK
+    * [FIXED ARRAY STACK](#fixed-array-stack)
+    * [DYNAMIC ARRAY STACK](#dynamic-array-stack)
+    * [LINKED STACK](#linked-stack)
     * [INBUILT STACK](#inbuilt-stack)
       * JAVA
       * C++
+    * [MISC STACKS](#misc-stacks)
   * QUEUES
   * HASHTABLE
   * TREES
@@ -347,9 +344,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 ### STACKS
 
-#### ONE WAY
-
-##### FIXED ARRAY STACK
+#### FIXED ARRAY STACK
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -359,7 +354,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  4 | Is empty or not | O(1) -- Constant | O(1) -- Constant
  5 | Printing the stack | O(n) -- Linear | O(1) -- Constant
 
-##### DYNAMIC ARRAY STACK
+#### DYNAMIC ARRAY STACK
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -369,7 +364,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  4 | Is empty or not | O(1) -- Constant | O(1) -- Constant
  5 | Printing the stack | O(n) -- Linear | O(1) -- Constant
 
-##### LINKED STACK
+#### LINKED STACK
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -379,23 +374,19 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  4 | Is empty or not | O(1) -- Constant | O(1) -- Constant
  5 | Printing the stack/deletestack | O(n) -- Linear | O(1) -- Constant
 
-#### TWO WAY
-
-##### ARRAY-STACK
-
-##### LINKED-STACK
-
 #### INBUILT STACK
 
-#### QUEUES
+#### MISC STACKS
 
-#### HASHTABLE
+### QUEUES
 
-#### TREES
+### HASHTABLE
 
-#### HEAPS
+### TREES
 
-##### DYNAMIC 1D ARRAYS (C,C++)
+### HEAPS
+
+#### DYNAMIC 1D ARRAYS (C,C++)
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -408,7 +399,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  7 | Update value without having index | O(n) | Linear
  8 | Update value having index | O(1) | Constant
 
-##### DYNAMIC 2D ARRAYS (C,C++)
+#### DYNAMIC 2D ARRAYS (C,C++)
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -421,7 +412,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  7 | Update value without having index | O(n^2) | Quadratic
  8 | Update value having index | O(1) | Constant
 
-##### DYNAMIC 3D ARRAYS (C,C++)
+#### DYNAMIC 3D ARRAYS (C,C++)
 
  SNo. | Operations | Order of complexity O(n) | Type of Complexity
  ---- | ---------- | ------------------------ | ------------------
@@ -434,6 +425,6 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  7 | Update value without having index | O(n^3) | Cubic
  8 | Update value having index | O(1) | Constant
 
-#### GRAPHS
+### GRAPHS
 
-#### BLOCKCHAIN
+### BLOCKCHAIN

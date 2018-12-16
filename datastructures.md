@@ -106,30 +106,22 @@ Indexer for Data Structures Lover
 
 ### :octocat: STACKS
 
-#### ONE WAY STACK
-
-##### FIXED ARRAY STACK
+#### FIXED ARRAY STACK
 
 * blog
 * docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/Stack.hpp)
-  * [JAVA](Java/Data-Structures/STACKS/ONE-WAY/ArrayStack.java)
+  * [JAVA](Java/Data-Structures/STACKS/FIXED-ARRAY-STACK/ArrayStack.java)
 
-##### DYNAMIC ARRAY STACK
+#### DYNAMIC ARRAY STACK
 
-##### LINKED STACK
-
-#### TWO WAY STACK
-
-##### FIXED-ARRAY-STACK
+#### LINKED STACK
 
 * blog
 * docs
 * implementation
-  * [C++](C++/Data-Structures/STACKS/Tstack.hpp)
-
-##### DYNAMIC-ARRAY-STACK
+  * [JAVA](Java/Data-Structures/STACKS/LINKED-STACK/LinkedStack.java)
 
 #### INBUILT STACKS
 
@@ -137,6 +129,15 @@ Indexer for Data Structures Lover
 * docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/stack.cpp)
+
+#### MISC STACKS
+
+##### TWO WAY STACK
+
+* blog
+* docs
+* implementation
+  * [C++](C++/Data-Structures/STACKS/Tstack.hpp)
 
 ### :octocat: QUEUES
 

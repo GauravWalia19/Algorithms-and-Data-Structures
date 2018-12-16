@@ -29,10 +29,13 @@
 
 #### STACKS
 
-* ONE WAY
-  * [ArrayStack](Data-Structures/STACKS/ONE-WAY/ArrayStack.java)
-* TWO WAY
+* FIXED ARRAY STACK
+  * [FixedArray Stack](Data-Structures/STACKS/FIXED-ARRAY-STACK/ArrayStack.java)
+* DYNAMIC ARRAY STACK
+* LINKED STACK
+  * [Linked Stack](Data-Structures/STACKS/LINKED-STACK/LinkedStack.java)
 * INBUILT STACKS
+* MISC STACKS
 
 ### :rocket: DYNAMIC PROGRAMMING
 
