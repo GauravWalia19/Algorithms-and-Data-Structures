@@ -36,6 +36,7 @@
 * LINKED STACK
 * MISC
   * [Minimum bracket reversal for balanced expression](Data-Structures/STACKS/MISC-STACKS/minimum_bracket_reversal_for_balanced_expression.c)
+  * [Postfix Evaluation](Data-Structures/STACKS/MISC-STACKS/postfix_evaluation.c)
 
 #### HEAPS
 
