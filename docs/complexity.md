@@ -86,6 +86,17 @@ This page contains the complexities of different algorithms in this repository.
       * C++
     * [MISC STACKS](#misc-stacks)
   * QUEUES
+    * SIMPLE QUEUE
+      * FIXED ARRAY SIMPLE QUEUE
+      * DYNAMIC ARRAY SIMPLE QUEUE
+      * LINKED SIMPLE QUEUE
+    * CIRCULAR QUEUE
+      * FIXED ARRAY CIRCULAR QUEUE
+      * LINKED CIRCULAR QUEUE
+    * PRIORITY QUEUE
+      * FIXED ARRAY PRIORITY QUEUE
+      * LINKED PRIORITY QUEUE
+      * HEAPED PRIORITY QUEUE
   * HASHTABLE
   * TREES
   * HEAPS
@@ -385,6 +396,68 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 #### MISC STACKS
 
 ### QUEUES
+
+#### SIMPLE QUEUE
+
+##### FIXED ARRAY SIMPLE QUEUE
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Enqueue an element or Insert element | O(1) -- Constant | O(1) -- Constant
+ 2 | Dequeue an element or Delete element | O(1) -- Constant | O(1) -- Constant
+ 3 | Print the queue | O(n) -- Linear | O(1) -- Constant
+ 4 | Size of the queue | O(1) -- Constant | O(1) -- Constant
+ 5 | Queue is Empty or not | O(1) -- Constant | O(1) -- Constant
+
+##### DYNAMIC ARRAY SIMPLE QUEUE
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Enqueue an element or Insert element | O(1) -- Constant | O(log n) -- Logarthmic
+ 2 | Dequeue an element or Delete element | O(1) -- Constant | O(1) -- Constant
+ 3 | Print the queue | O(n) -- Linear | O(1) -- Constant
+ 4 | Size of the queue | O(1) -- Constant | O(1) -- Constant
+ 5 | Queue is Empty or not | O(1) -- Constant | O(1) -- Constant
+
+##### LINKED SIMPLE QUEUE
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Enqueue an element or Insert element | O(n) -- Linear | O(1) -- Constant
+ 2 | Dequeue an element or Delete element | O(1) -- Constant | O(1) -- Constant
+ 3 | Print the queue | O(n) -- Linear | O(1) -- Constant
+ 4 | Size of the queue | O(1) -- Constant | O(1) -- Constant
+ 5 | Queue is Empty or not | O(1) -- Constant | O(1) -- Constant
+
+#### CIRCULAR QUEUE
+
+##### FIXED ARRAY CIRCULAR QUEUE
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Enqueue an element or Insert element | O(1) -- Constant | O(1) -- Constant
+ 2 | Dequeue an element or Delete element | O(1) -- Constant | O(1) -- Constant
+ 3 | Print the queue | O(n) -- Linear | O(1) -- Constant
+ 4 | Size of the queue | O(1) -- Constant | O(1) -- Constant
+ 5 | Queue is Empty or not | O(1) -- Constant | O(1) -- Constant
+
+##### LINKED CIRCULAR QUEUE
+
+#### PRIORITY QUEUE
+
+##### FIXED ARRAY PRIORITY QUEUE
+
+##### LINKED PRIORITY QUEUE
+
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Insert element with priority | O(n) -- Linear | O(1) -- Constant
+ 2 | Delete element with highest priority | O(1) -- Constant | O(1) -- Constant
+ 3 | Print the queue | O(n) -- Linear | O(1) -- Constant
+ 4 | Size of the queue | O(1) -- Constant | O(1) -- Constant
+ 5 | Queue is Empty or not | O(1) -- Constant | O(1) -- Constant
+
+##### HEAPED PRIORITY QUEUE
 
 ### HASHTABLE
 

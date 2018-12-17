@@ -38,6 +38,20 @@
   * [Minimum bracket reversal for balanced expression](Data-Structures/STACKS/MISC-STACKS/minimum_bracket_reversal_for_balanced_expression.c)
   * [Postfix Evaluation](Data-Structures/STACKS/MISC-STACKS/postfix_evaluation.c)
 
+#### QUEUES
+
+* SIMPLE QUEUE
+  * FIXED ARRAY
+  * DYNAMIC ARRAY
+  * LINKED
+* CIRCULAR QUEUE
+  * FIXED ARRAY
+  * LINKED
+* PRIORITY QUEUE
+  * FIXED ARRAY
+  * DYNAMIC ARRAY
+  * LINKED
+
 #### HEAPS
 
 * [1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)
