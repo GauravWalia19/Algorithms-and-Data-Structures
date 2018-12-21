@@ -63,6 +63,13 @@ Indexer for Data Structures Lover
 * implementation
   * [C](C/Data-Structures/ARRAYS/jaggedarray.c)
 
+### :octocat: STRING
+
+* blog
+* docs
+* implementation
+  * [JAVA](Java/Data-Structures/STRING/Strings.java)
+
 ### :octocat: LISTS
 
 #### SINGLE

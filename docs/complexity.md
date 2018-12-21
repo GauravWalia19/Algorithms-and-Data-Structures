@@ -61,6 +61,8 @@ This page contains the complexities of different algorithms in this repository.
       * ARRAY CLASS IN C++
     * [MISC ARRAYS](#misc-arrays)
       * [JAGGED ARRAY](#jagged-array)
+  * [STRING](#string)
+    * [Strings in JAVA](#strings-in-java)
   * [LISTS](#lists)
     * SINGLE
       * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)
@@ -99,11 +101,23 @@ This page contains the complexities of different algorithms in this repository.
       * HEAPED PRIORITY QUEUE
   * HASHTABLE
   * TREES
+    * BINARY TREE
+    * GENERIC TREES
+    * THREADED BINARY TREE
+    * XOR TREES
+    * BINARY SEARCH TREE
+    * AVL TREES
+    * RED BLACK TREES
+    * SPLAY TREES
+    * AUGMENTED TREES
+    * SCAPEGOAT TREES
+    * INTERVAL TREES
+    * HEAP TREE
+  * GRAPHS
   * HEAPS
     * [DYNAMIC 1D ARRAY](#dynamic-1d-arrays-(CC++))
     * [DYNAMIC 2D ARRAY](#dynamic-2d-arrays-(CC++))
     * [DYNAMIC 3D ARRAY](#dynamic-3d-arrays-(CC++))
-  * GRAPHS
   * BLOCKCHAIN
 
 ## ALGORITHMS
@@ -122,7 +136,7 @@ This page contains the complexities of different algorithms in this repository.
 #### :rocket: SORTING
 
  SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity
- ---- | --------- | ------------------------ | ------------------ | -------------------- | ------------------ | ----------------
+ ---- | --------- Data-Structures/STRING/Strings.java| ------------------------ | ------------------ | -------------------- | ------------------ | ----------------
  1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable** | :heavy_check_mark: | O(1)
  2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: | O(1)
  3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: | O(1)
@@ -272,6 +286,22 @@ This page contains the complexities of different algorithms in this repository.
  6 | copyOf() | O(n) | Linear
 
 ##### ARRAY CLASS IN C++
+
+### STRING
+
+#### Strings in JAVA
+
+SNo. | Methods | Order of complexity O(n) | Type of Complexity
+ 1 | char charAt() | O(1) | Constant
+ 2 | int indexOf() | O(n) | Linear
+ 3 | lastIndexOf() | O(n) | Linear
+ 4 | int length() | O(1) | Constant
+ 5 | substring() | O(n) | Linear
+ 6 | replace() | O(n) | Linear
+ 7 | concat(str) | O(n^2) | Quadratic
+ 8 | equals(str) | O(n) | Linear
+ 9 | toUpperCase() | O(n) | Linear
+ 10 | toLowerCase() | O(n) | Linear
 
 ### LISTS
 

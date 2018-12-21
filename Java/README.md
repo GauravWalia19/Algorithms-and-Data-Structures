@@ -13,6 +13,10 @@
 * [three dimensional array](Data-Structures/ARRAYS/threeDarray.java)
 * [four dimensional array](Data-Structures/ARRAYS/fourDarray.java)
 
+#### STRING
+
+* [implementation with methods](Data-Structures/STRING/Strings.java)
+
 #### LISTS
 
 * LINKED LIST
@@ -37,6 +41,10 @@
 * INBUILT STACKS
   * [Stack class](Data-Structures/STACKS/INBUILT-STACK/Stacks.java)
 * MISC STACKS
+
+#### QUEUES
+
+#### TREES
 
 ### :rocket: DYNAMIC PROGRAMMING
 
