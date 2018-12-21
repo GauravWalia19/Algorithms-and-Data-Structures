@@ -2,11 +2,9 @@
 
 Indexer for Data Structures Lover
 
-## INDEX
+## :octocat: ARRAYS
 
-### :octocat: ARRAYS
-
-#### 1 DIMENSIONAL
+### 1 DIMENSIONAL
 
 * blog
 * docs
@@ -14,8 +12,11 @@ Indexer for Data Structures Lover
   * [C](C/Data-Structures/ARRAYS/1darrays.c)
   * [C++](C++/Data-Structures/ARRAYS/1darrays.cpp)
   * [JAVA](Java/Data-Structures/ARRAYS/oneDarray.java)
+* implementation using heaps
+  * [C](C/Data-Structures/HEAPS/dynamicarray.c)
+  * [C++](C++/Data-Structures/HEAPS/1darray.cpp)
 
-#### 2 DIMENSIONAL
+### 2 DIMENSIONAL
 
 * blog
 * docs
@@ -23,8 +24,11 @@ Indexer for Data Structures Lover
   * [C](C/Data-Structures/ARRAYS/2darrays.c)
   * [C++](C++/Data-Structures/ARRAYS/2darrays.cpp)
   * [JAVA](Java/Data-Structures/ARRAYS/twoDarray.java)
+* implementation using heaps
+  * [C](C/Data-Structures/HEAPS/dynamic2d.c)
+  * [C++](C++/Data-Structures/HEAPS/2darray.cpp)
 
-#### 3 DIMENSIONAL
+### 3 DIMENSIONAL
 
 * blog
 * docs
@@ -32,8 +36,11 @@ Indexer for Data Structures Lover
   * [C](C/Data-Structures/ARRAYS/3darrays.c)
   * [C++](C++/Data-Structures/ARRAYS/3darrays.cpp)
   * [JAVA](Java/Data-Structures/ARRAYS/threeDarray.java)
+* implementation using heaps
+  * [C](C/Data-Structures/HEAPS/dynamic3d.c)
+  * [C++](C++/Data-Structures/HEAPS/1darray.cpp)
 
-#### 4 DIMENSIONAL
+### 4 DIMENSIONAL
 
 * blog
 * docs
@@ -42,15 +49,15 @@ Indexer for Data Structures Lover
   * [C++](C++/Data-Structures/ARRAYS/4darrays.cpp)
   * [JAVA](Java/Data-Structures/ARRAYS/fourDarray.java)
 
-#### INBUILT ARRAY CLASSES
+### INBUILT ARRAY CLASSES
 
-##### ARRAYS CLASS(JAVA)
+#### ARRAYS CLASS(JAVA)
 
 * blog
 * docs
 * [arrays class in java](Java/Data-Structures/ARRAYS/arrays.java)
 
-##### ARRAY CLASS(C++)
+#### ARRAY CLASS(C++)
 
 * blog
 * docs
@@ -63,16 +70,16 @@ Indexer for Data Structures Lover
 * implementation
   * [C](C/Data-Structures/ARRAYS/jaggedarray.c)
 
-### :octocat: STRING
+## :octocat: STRING
 
 * blog
 * docs
 * implementation
   * [JAVA](Java/Data-Structures/STRING/Strings.java)
 
-### :octocat: LISTS
+## :octocat: LISTS
 
-#### SINGLE
+### SINGLE
 
 * blog
 * docs
@@ -80,40 +87,40 @@ Indexer for Data Structures Lover
   * [C](C/Data-Structures/LINKED-LIST/SINGLE/Main.c)
   * [C++](C++/Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
 
-#### DOUBLE
+### DOUBLE
 
 * blog
 * docs
 * implementation
   * [C](C/Data-Structures/LINKED-LIST/DOUBLE/Main.c)
 
-#### CIRCULAR
+### CIRCULAR
 
-#### INBUILT LISTS
+### INBUILT LISTS
 
-##### ARRAYLIST
+#### ARRAYLIST
 
 * blog
 * docs
 * implementation
 
-##### VECTOR
+#### VECTOR
 
 * blog
 * docs
 * implementation
   * [C++](C++/Data-Structures/LISTS/VECTORS/Main.cpp)
 
-##### LIST
+#### LIST PY
 
 * blog
 * docs
 * implementation
   * [PYTHON](Python3/Data-Structures/LISTS/inbuiltList.py)
 
-### :octocat: STACKS
+## :octocat: STACKS
 
-#### FIXED ARRAY STACK
+### FIXED ARRAY STACK
 
 * blog
 * docs
@@ -121,16 +128,16 @@ Indexer for Data Structures Lover
   * [C++](C++/Data-Structures/STACKS/Stack.hpp)
   * [JAVA](Java/Data-Structures/STACKS/FIXED-ARRAY-STACK/ArrayStack.java)
 
-#### DYNAMIC ARRAY STACK
+### DYNAMIC ARRAY STACK
 
-#### LINKED STACK
+### LINKED STACK
 
 * blog
 * docs
 * implementation
   * [JAVA](Java/Data-Structures/STACKS/LINKED-STACK/LinkedStack.java)
 
-#### INBUILT STACKS
+### INBUILT STACKS
 
 * blog
 * docs
@@ -138,63 +145,76 @@ Indexer for Data Structures Lover
   * [C++](C++/Data-Structures/STACKS/stack.cpp)
   * [JAVA](Java/Data-Structures/STACKS/INBUILT-STACK/Stacks.java)
 
-#### MISC STACKS
+### MISC STACKS
 
-##### Minimum bracket reversal for making brackets balanced
+#### Minimum bracket reversal for making brackets balanced
 
 * blog
 * docs
 * implementation
   * [C](C/Data-Structures/STACKS/MISC-STACKS/minimum_bracket_reversal_for_balanced_expression.c)
 
-##### Postfix Evaluation
+#### Postfix Evaluation
 
 * blog
 * docs
 * implementation
   * [C](C/Data-Structures/STACKS/MISC-STACKS/postfix_evaluation.c)
 
-##### TWO WAY STACK
+#### TWO WAY STACK
 
 * blog
 * docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/Tstack.hpp)
 
-### :octocat: QUEUES
+## :octocat: QUEUES
 
-### :octocat: HASHTABLES
+## :octocat: TREES
 
-### :octocat: SETS
+### BINARY TREES
 
-### :octocat: TREES
+#### TRAVERSALS
 
-### :octocat: HEAPS
+##### DEPTH FIRST SEARCH
 
-#### 1 DIMENSIONAL ARRAYS
+* IN ORDER
+  * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/IterativeInorder.java)
+  * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/Inorder.java)
+* PRE ORDER
+  * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/IterativePreorder.java)
+  * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/Preorder.java)
+* POST ORDER
+  * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/IterativePostorder.java)
+  * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/Postorder.java)
 
-* blog
-* docs
-* implementation
-  * [C](C/Data-Structures/HEAPS/dynamicarray.c)
-  * [C++](C++/Data-Structures/HEAPS/1darray.cpp)
+##### BREADTH FIRST SEARCH
 
-#### 2 DIMENSIONAL ARRAYS
+* LEVEL ORDER
+  * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/LevelOrder.java)
 
-* blog
-* docs
-* implementation
-  * [C](C/Data-Structures/HEAPS/dynamic2d.c)
-  * [C++](C++/Data-Structures/HEAPS/2darray.cpp)
+### GENERIC TREES
 
-#### 3 DIMENSIONAL ARRAYS
+### THREADED BINARY TREE
 
-* blog
-* docs
-* implementation
-  * [C](C/Data-Structures/HEAPS/dynamic3d.c)
-  * [C++](C++/Data-Structures/HEAPS/1darray.cpp)
+### XOR TREES
 
-### :octocat: GRAPHS
+### BINARY SEARCH TREE
 
-### :octocat: BLOCKCHAIN
+### AVL TREES
+
+### RED BLACK TREES
+
+### SPLAY TREES
+
+### AUGMENTED TREES
+
+### SCAPEGOAT TREES
+
+### INTERVAL TREES
+
+### HEAP TREE
+
+## :octocat: GRAPHS
+
+## :octocat: BLOCKCHAIN

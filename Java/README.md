@@ -46,6 +46,24 @@
 
 #### TREES
 
+##### BINARY TREES
+  
+* [Binary Tree Node Example](Data-Structures/TREES/BINARY-TREE/BinaryTreeNode.java)
+* Traversals
+  * Depth First Search
+    * IN ORDER
+      * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/IterativeInorder.java)
+      * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/Inorder.java)
+    * PRE ORDER
+      * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/IterativePreorder.java)
+      * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/Preorder.java)
+    * POST ORDER
+      * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/IterativePostorder.java)
+      * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/Postorder.java)
+  * Breadth First Search
+    * LEVEL ORDER
+      * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/LevelOrder.java)
+
 ### :rocket: DYNAMIC PROGRAMMING
 
 ### :rocket: MISC

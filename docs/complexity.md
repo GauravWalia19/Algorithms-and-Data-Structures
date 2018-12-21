@@ -60,9 +60,15 @@ This page contains the complexities of different algorithms in this repository.
       * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
       * ARRAY CLASS IN C++
     * [MISC ARRAYS](#misc-arrays)
+      * HEAPED 1D ARRAY
+      * HEAPED 2D ARRAY
+      * HEAPED 3D ARRAY
       * [JAGGED ARRAY](#jagged-array)
+
   * [STRING](#string)
+    * Strings in C
     * [Strings in JAVA](#strings-in-java)
+    * Strings in C++
   * [LISTS](#lists)
     * SINGLE
       * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)
@@ -100,8 +106,8 @@ This page contains the complexities of different algorithms in this repository.
       * LINKED PRIORITY QUEUE
       * HEAPED PRIORITY QUEUE
   * HASHTABLE
-  * TREES
-    * BINARY TREE
+  * [TREES](#trees)
+    * [BINARY TREE](#binary-trees)
     * GENERIC TREES
     * THREADED BINARY TREE
     * XOR TREES
@@ -135,14 +141,14 @@ This page contains the complexities of different algorithms in this repository.
 
 #### :rocket: SORTING
 
- SNo. | Algorithm | Order of complexity O(n) | Type of Complexity | Stable/Unstable Sort | In Place Algorithm | Space Complexity
- ---- | --------- Data-Structures/STRING/Strings.java| ------------------------ | ------------------ | -------------------- | ------------------ | ----------------
- 1 | Bubble Sort | O(n^2) | Quadratic | Stable / Can be Unstable** | :heavy_check_mark: | O(1)
- 2 | Selection Sort | O(n^2) | Quadratic | Unstable | :heavy_check_mark: | O(1)
- 3 | Insertion Sort | O(n^2) | Quadratic | Stable | :heavy_check_mark: | O(1)
- 4 | Shell Sort | O(n^2) or better | Quadratic or other | Unstable | :heavy_check_mark: |
- 5 | Counting Sort | O(n) | Linear | Stable / Unstable | :heavy_multiplication_x: |
- 6 | Radix Sort | O(n) or slower than O(nlogn)  | Linear / Logarithmic | Stable | Can Be |
+ SNo. | Algorithm | Order and type of Time complexity O(n) | Order and Type of Space Complexity | Stable/Unstable Sort | In Place Algorithm
+ ---- | --------- | -------------------------------------- | ---------------------------------- | -------------------- | ------------------
+ 1 | Bubble Sort | O(n^2) -- Quadratic | O(1) -- Constant | Stable / Can be Unstable** | :heavy_check_mark:
+ 2 | Selection Sort | O(n^2) -- Quadratic | O(1) -- Constant |  Unstable | :heavy_check_mark:
+ 3 | Insertion Sort | O(n^2) -- Quadratic | O(1) -- Constant | Stable | :heavy_check_mark:
+ 4 | Shell Sort | O(n^2) or better -- Quadratic or other |  | Unstable | :heavy_check_mark:
+ 5 | Counting Sort | O(n) -- Linear |  | Stable / Unstable | :heavy_multiplication_x:
+ 6 | Radix Sort | O(n) or slower than O(nlogn) -- Linear / Logarithmic | | Stable | Can Be
 
 **Not an efficient Way
 
@@ -269,6 +275,45 @@ This page contains the complexities of different algorithms in this repository.
  8 | Update value having index | O(1) | Constant
 
 #### MISC ARRAYS
+
+##### HEAPED 1D ARRAYS
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n) | Linear
+ 3 | Deletion at beginning | O(n) | Linear
+ 4 | Insertion at end (empty array) | O(n) | Linear
+ 5 | Deletion at end (empty array) | O(n) | Linear
+ 6 | Deletion of the value without having index | O(n) | Linear  
+ 7 | Update value without having index | O(n) | Linear
+ 8 | Update value having index | O(1) | Constant
+
+##### HEAPED 2D ARRAYS
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n^2) | Quadratic
+ 3 | Deletion at beginning | O(n^2) | Quadratic
+ 4 | Insertion at end (empty array) | O(n^2) | Quadratic
+ 5 | Deletion at end (empty array) | O(n^2) | Quadratic
+ 6 | Deletion of the value without having index | O(n^2) | Quadratic  
+ 7 | Update value without having index | O(n^2) | Quadratic
+ 8 | Update value having index | O(1) | Constant
+
+##### HEAPED 3D ARRAYS
+
+ SNo. | Operations | Order of complexity O(n) | Type of Complexity
+ ---- | ---------- | ------------------------ | ------------------
+ 1 | Use value by indexes | O(1) | Constant
+ 2 | Insertion at beginning | O(n^3) | Cubic
+ 3 | Deletion at beginning | O(n^3) | Cubic
+ 4 | Insertion at end (empty array) | O(n^3) | Cubic
+ 5 | Deletion at end (empty array) | O(n^3) | Cubic
+ 6 | Deletion of the value without having index | O(n^3) | Cubic  
+ 7 | Update value without having index | O(n^3) | Cubic
+ 8 | Update value having index | O(1) | Constant
 
 ##### JAGGED ARRAYS
 
@@ -493,46 +538,36 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 ### TREES
 
-### HEAPS
+#### BINARY TREES
 
-#### DYNAMIC 1D ARRAYS (C,C++)
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity | Iterative | Recursive
+ ---- | ---------- | -------------------------------------- | ---------------------------------- | --------- | ---------
+ 1 | In Order Traversal | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :heavy_check_mark:
+ 2 | Pre Order Traversal | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :heavy_check_mark:
+ 3 | Post Order Traversal | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :heavy_check_mark:
+ 4 | Level Order Traversal | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :x:
 
- SNo. | Operations | Order of complexity O(n) | Type of Complexity
- ---- | ---------- | ------------------------ | ------------------
- 1 | Use value by indexes | O(1) | Constant
- 2 | Insertion at beginning | O(n) | Linear
- 3 | Deletion at beginning | O(n) | Linear
- 4 | Insertion at end (empty array) | O(n) | Linear
- 5 | Deletion at end (empty array) | O(n) | Linear
- 6 | Deletion of the value without having index | O(n) | Linear  
- 7 | Update value without having index | O(n) | Linear
- 8 | Update value having index | O(1) | Constant
+#### GENERIC TREES
 
-#### DYNAMIC 2D ARRAYS (C,C++)
+#### THREADED BINARY TREE
 
- SNo. | Operations | Order of complexity O(n) | Type of Complexity
- ---- | ---------- | ------------------------ | ------------------
- 1 | Use value by indexes | O(1) | Constant
- 2 | Insertion at beginning | O(n^2) | Quadratic
- 3 | Deletion at beginning | O(n^2) | Quadratic
- 4 | Insertion at end (empty array) | O(n^2) | Quadratic
- 5 | Deletion at end (empty array) | O(n^2) | Quadratic
- 6 | Deletion of the value without having index | O(n^2) | Quadratic  
- 7 | Update value without having index | O(n^2) | Quadratic
- 8 | Update value having index | O(1) | Constant
+#### XOR TREES
 
-#### DYNAMIC 3D ARRAYS (C,C++)
+#### BINARY SEARCH TREE
 
- SNo. | Operations | Order of complexity O(n) | Type of Complexity
- ---- | ---------- | ------------------------ | ------------------
- 1 | Use value by indexes | O(1) | Constant
- 2 | Insertion at beginning | O(n^3) | Cubic
- 3 | Deletion at beginning | O(n^3) | Cubic
- 4 | Insertion at end (empty array) | O(n^3) | Cubic
- 5 | Deletion at end (empty array) | O(n^3) | Cubic
- 6 | Deletion of the value without having index | O(n^3) | Cubic  
- 7 | Update value without having index | O(n^3) | Cubic
- 8 | Update value having index | O(1) | Constant
+#### AVL TREES
+
+#### RED BLACK TREES
+
+#### SPLAY TREES
+
+#### AUGMENTED TREES
+
+#### SCAPEGOAT TREES
+
+#### INTERVAL TREES
+
+#### HEAP TREE
 
 ### GRAPHS
 
