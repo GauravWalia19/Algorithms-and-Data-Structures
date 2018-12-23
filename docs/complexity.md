@@ -85,6 +85,7 @@ This page contains the complexities of different algorithms in this repository.
     * INBUILT LISTS
       * [ARRAYLISTS](#arraylists-(JAVA))
       * [VECTORS](#vectors-(C++JAVA))
+    * MISC
   * [STACKS](#stacks)
     * [FIXED ARRAY STACK](#fixed-array-stack)
     * [DYNAMIC ARRAY STACK](#dynamic-array-stack)
@@ -93,6 +94,7 @@ This page contains the complexities of different algorithms in this repository.
       * JAVA
       * C++
     * [MISC STACKS](#misc-stacks)
+      * TWO WAY STACK
   * QUEUES
     * SIMPLE QUEUE
       * FIXED ARRAY SIMPLE QUEUE

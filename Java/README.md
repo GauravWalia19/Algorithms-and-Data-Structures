@@ -28,8 +28,13 @@
     * [Double Linked List using object data](Data-Structures/LISTS/Double-Linked-List/DoubleLinkedList.java)
   * CIRCULAR
     * [Circular Linked List (using tail node)](Data-Structures/LISTS/CIRCULAR/CircularLinkedList.java)
-* [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
-* [VECTORS](Data-Structures/LISTS/vectors.java)
+  * MEMORY EFFICIENT DOUBLE LINKED LIST
+  * UNROLLED LINKED LIST
+  * SKIP LIST
+  * INBUILT LISTS
+    * [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
+    * [VECTORS](Data-Structures/LISTS/vectors.java)
+  * MISC
 
 #### STACKS
 
