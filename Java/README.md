@@ -32,6 +32,7 @@
   * UNROLLED LINKED LIST
   * SKIP LIST
   * INBUILT LISTS
+    * [LINKED LIST]
     * [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
     * [VECTORS](Data-Structures/LISTS/vectors.java)
   * MISC
@@ -46,6 +47,7 @@
 * INBUILT STACKS
   * [Stack class](Data-Structures/STACKS/INBUILT-STACK/Stacks.java)
 * MISC STACKS
+  * [Given expression have balanced brackets or not](Data-Structures/STACKS/MISC-STACKS/BracketsBalancedOrNot.java)
 
 #### QUEUES
 

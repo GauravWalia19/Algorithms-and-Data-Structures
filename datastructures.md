@@ -111,6 +111,8 @@ Indexer for Data Structures Lover
 * implementation
   * [C++](C++/Data-Structures/LISTS/VECTORS/Main.cpp)
 
+#### LINKED LIST
+
 #### LIST PY
 
 * blog
@@ -153,6 +155,13 @@ Indexer for Data Structures Lover
 * docs
 * implementation
   * [C](C/Data-Structures/STACKS/MISC-STACKS/minimum_bracket_reversal_for_balanced_expression.c)
+
+#### Given expression has balanced brackets or not
+
+* blog
+* docs
+* implementation
+  * [JAVA](Java/Data-Structures/STACKS/MISC-STACKS/BracketsBalancedOrNot.java)
 
 #### Postfix Evaluation
 

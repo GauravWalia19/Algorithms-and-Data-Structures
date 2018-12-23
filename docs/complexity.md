@@ -83,6 +83,7 @@ This page contains the complexities of different algorithms in this repository.
     * [UNROLLED LINKED LIST](#unrolled-linked-list)
     * [SKIP LIST](#skip-list)
     * INBUILT LISTS
+      * LINKED LIST
       * [ARRAYLISTS](#arraylists-(JAVA))
       * [VECTORS](#vectors-(C++JAVA))
     * MISC
@@ -93,8 +94,9 @@ This page contains the complexities of different algorithms in this repository.
     * [INBUILT STACK](#inbuilt-stack)
       * JAVA
       * C++
+    * TWO WAY STACK
     * [MISC STACKS](#misc-stacks)
-      * TWO WAY STACK
+      * [BracketsBalancedOrNot]
   * QUEUES
     * SIMPLE QUEUE
       * FIXED ARRAY SIMPLE QUEUE
