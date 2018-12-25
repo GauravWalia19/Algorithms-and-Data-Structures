@@ -10,21 +10,23 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
 
 ##### :rocket: LINEAR SEARCH
 
-* blog
-* docs
-* implementation  
+* [blog]
+* [docs](docs/algo-docs/linear-search.md)
+* implementation
   * [C](C/Searching/linearSearch.c)
   * C++
     * [SIMPLE](C++/Searching/linear.cpp)
     * [COMPLEX](C++/Searching/linearSearch.cpp)
+* [complexity](docs/complexity.md#rocket-searching)
 
 ##### :rocket: BINARY SEARCH
 
-* blog
-* docs
+* [blog]
+* [docs](docs/algo-docs/binary-search.md)
 * implementation
   * [C](C/Searching/binarysearch.c)
   * [C++](C++/Searching/binary_search.cpp)
+* [complexity](docs/complexity.md#rocket-searching)
 
 #### :rocket: PATTERN SEARCHING
 
@@ -53,6 +55,7 @@ Hola guys, Hello world this is algorithms index find your algorithms here if not
       * [C](C/Sorting/BUBBLE-SORT/descendunbubble.c)
       * C++
       * JAVA
+* [complexity](docs/complexity.md#rocket-sorting)
 
 ##### :rocket: SELECTION SORT
 

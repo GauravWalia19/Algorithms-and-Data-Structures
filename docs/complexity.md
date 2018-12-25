@@ -7,18 +7,18 @@ This page contains the complexities of different algorithms in this repository.
 * ALGORITHMS
   * ITERATIVE
     * SEARCHING
-      * [LINEAR SEARCH](#searching)
-      * [BINARY SEARCH](#searching)
+      * [LINEAR SEARCH](#rocket-searching)
+      * [BINARY SEARCH](#rocket-searching)
     * PATTERN SEARCHING
     * SORTING
-      * [BUBBLE SORT](#sorting)
-      * [SELECTION SORT](#SORTING)
-      * [INSERTION SORT](#sorting)
-      * [SHELL SORT](#sorting)
-      * [MERGE SORT](#sorting)
-      * [QUICK SORT](#sorting)
-      * [COUNTING SORT](#sorting)
-      * [RADIX SORT](#sorting)
+      * [BUBBLE SORT](#rocket-sorting)
+      * [SELECTION SORT](#rocket-sorting)
+      * [INSERTION SORT](#rocket-sorting)
+      * [SHELL SORT](#rocket-sorting)
+      * [MERGE SORT](#rocket-sorting)
+      * [QUICK SORT](#rocket-sorting)
+      * [COUNTING SORT](#rocket-sorting)
+      * [RADIX SORT](#rocket-sorting)
     * STRINGS
     * BITWISE
     * MATHEMATICAL
