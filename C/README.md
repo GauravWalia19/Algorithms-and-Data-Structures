@@ -15,7 +15,12 @@
 * [3 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/3darrays.c)
 * [4 DIMENSIONAL ARRAYS](Data-Structures/ARRAYS/4darrays.c)
 * MISC
+  * [1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)
+  * [2D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic2d.c)
+  * [3D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic3d.c)
   * [JAGGED ARRAYS](Data-Structures/ARRAYS/MISC/jaggedarray.c)
+
+#### STRING
 
 #### LISTS
 
@@ -28,6 +33,7 @@
 * MEMORY EFFICIENT DOUBLE LINKED LIST
 * UNROLLED LINKED LIST
 * SKIP LIST
+* MISC
 
 #### STACKS
 
@@ -52,6 +58,8 @@
   * DYNAMIC ARRAY
   * LINKED
 
+#### HASHTABLE
+
 #### TREES
 
 * BINARY TREE
@@ -67,11 +75,9 @@
 * INTERVAL TREES
 * HEAP TREE
 
-#### HEAPS
+#### GRAPHS
 
-* [1D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamicarray.c)
-* [2D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic2d.c)
-* [3D ARRAYS USING HEAPS](Data-Structures/HEAPS/dynamic3d.c)
+#### BLOCKCHAIN
 
 ### :rocket: DYNAMIC PROGRAMMING
 

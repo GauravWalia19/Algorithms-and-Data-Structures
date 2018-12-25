@@ -60,11 +60,10 @@ This page contains the complexities of different algorithms in this repository.
       * [ARRAYS CLASS IN JAVA](#arrays-class-in-java)
       * ARRAY CLASS IN C++
     * [MISC ARRAYS](#misc-arrays)
-      * HEAPED 1D ARRAY
-      * HEAPED 2D ARRAY
-      * HEAPED 3D ARRAY
+      * [HEAPED 1D ARRAY](#dynamic-1d-arrays-(CC++))
+      * [HEAPED 2D ARRAY](#dynamic-2d-arrays-(CC++))
+      * [HEAPED 3D ARRAY](#dynamic-3d-arrays-(CC++))
       * [JAGGED ARRAY](#jagged-array)
-
   * [STRING](#string)
     * Strings in C
     * [Strings in JAVA](#strings-in-java)
@@ -94,7 +93,6 @@ This page contains the complexities of different algorithms in this repository.
     * [INBUILT STACK](#inbuilt-stack)
       * JAVA
       * C++
-    * TWO WAY STACK
     * [MISC STACKS](#misc-stacks)
       * [BracketsBalancedOrNot]
   * QUEUES
@@ -124,10 +122,6 @@ This page contains the complexities of different algorithms in this repository.
     * INTERVAL TREES
     * HEAP TREE
   * GRAPHS
-  * HEAPS
-    * [DYNAMIC 1D ARRAY](#dynamic-1d-arrays-(CC++))
-    * [DYNAMIC 2D ARRAY](#dynamic-2d-arrays-(CC++))
-    * [DYNAMIC 3D ARRAY](#dynamic-3d-arrays-(CC++))
   * BLOCKCHAIN
 
 ## ALGORITHMS

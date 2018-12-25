@@ -12,6 +12,10 @@
 * [two dimensional array](Data-Structures/ARRAYS/twoDarray.java)
 * [three dimensional array](Data-Structures/ARRAYS/threeDarray.java)
 * [four dimensional array](Data-Structures/ARRAYS/fourDarray.java)
+* INBUILT
+  * [ARRAYS CLASS](Data-Structures/ARRAYS/INBUILT/arrays.java)
+* MISC
+  * JAGGED ARRAY
 
 #### STRING
 
@@ -19,23 +23,22 @@
 
 #### LISTS
 
-* LINKED LIST
-  * SINGLE
-    * [Single Linked List](Data-Structures/LISTS/SINGLE/LinkedList.java)
-    * [Single Linked List using object data](Data-Structures/LISTS/Single-Linked-List/singleLinkedList.java)
-  * DOUBLE
-    * [Double Linked List](Data-Structures/LISTS/DOUBLE/DoublyLinkedList.java)
-    * [Double Linked List using object data](Data-Structures/LISTS/Double-Linked-List/DoubleLinkedList.java)
-  * CIRCULAR
-    * [Circular Linked List (using tail node)](Data-Structures/LISTS/CIRCULAR/CircularLinkedList.java)
-  * MEMORY EFFICIENT DOUBLE LINKED LIST
-  * UNROLLED LINKED LIST
-  * SKIP LIST
-  * INBUILT LISTS
-    * [LINKED LIST]
-    * [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
-    * [VECTORS](Data-Structures/LISTS/vectors.java)
-  * MISC
+* SINGLE
+  * [Single Linked List](Data-Structures/LISTS/SINGLE/LinkedList.java)
+  * [Single Linked List using object data](Data-Structures/LISTS/Single-Linked-List/singleLinkedList.java)
+* DOUBLE
+  * [Double Linked List](Data-Structures/LISTS/DOUBLE/DoublyLinkedList.java)
+  * [Double Linked List using object data](Data-Structures/LISTS/Double-Linked-List/DoubleLinkedList.java)
+* CIRCULAR
+  * [Circular Linked List (using tail node)](Data-Structures/LISTS/CIRCULAR/CircularLinkedList.java)
+* MEMORY EFFICIENT DOUBLE LINKED LIST
+* UNROLLED LINKED LIST
+* SKIP LIST
+* INBUILT LISTS
+  * [LINKED LIST]
+  * [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
+  * [VECTORS](Data-Structures/LISTS/vectors.java)
+* MISC
 
 #### STACKS
 
@@ -50,6 +53,20 @@
   * [Given expression have balanced brackets or not](Data-Structures/STACKS/MISC-STACKS/BracketsBalancedOrNot.java)
 
 #### QUEUES
+
+* SIMPLE QUEUE
+  * FIXED ARRAY SIMPLE QUEUE
+  * DYNAMIC ARRAY SIMPLE QUEUE
+  * LINKED SIMPLE QUEUE
+* CIRCULAR QUEUE
+  * FIXED ARRAY CIRCULAR QUEUE
+  * LINKED CIRCULAR QUEUE
+* PRIORITY QUEUE
+  * FIXED ARRAY PRIORITY QUEUE
+  * LINKED PRIORITY QUEUE
+  * HEAPED PRIORITY QUEUE
+
+#### HASHTABLE
 
 #### TREES
 
@@ -70,6 +87,10 @@
   * Breadth First Search
     * LEVEL ORDER
       * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/LevelOrder.java)
+
+#### GRAPHS
+
+#### BLOCKCHAIN
 
 ### :rocket: DYNAMIC PROGRAMMING
 

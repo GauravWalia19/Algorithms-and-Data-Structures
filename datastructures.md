@@ -49,13 +49,13 @@ Indexer for Data Structures Lover
   * [C++](C++/Data-Structures/ARRAYS/4darrays.cpp)
   * [JAVA](Java/Data-Structures/ARRAYS/fourDarray.java)
 
-### INBUILT ARRAY CLASSES
+### INBUILT
 
 #### ARRAYS CLASS(JAVA)
 
 * blog
 * docs
-* [arrays class in java](Java/Data-Structures/ARRAYS/arrays.java)
+* [arrays class in java](Java/Data-Structures/ARRAYS/INBUILT/arrays.java)
 
 #### ARRAY CLASS(C++)
 

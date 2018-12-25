@@ -20,14 +20,13 @@ Open Repository For Programmers to Contribute Algorithms and Data Structures in 
 
 For documentation see [wiki](https://github.com/GauravWalia19/Algorithms-and-Data-Structures/wiki)
 
-* SORTING ALGORITHMS  
-  * [BUBBLE SORT](docs/bubble-sort.md)
-  * [SELECTION SORT](docs/selection-sort.md)
-  * [INSERTION SORT](docs/insertion-sort.md)
+For Algorithms docs follow [Algorithms](algorithms.md)
+
+For Data Structures docs follow [Data Structures](datastructures.md)
 
 ## Complexity Analysis
 
-See [COMPLEXITY](docs/complexity.md)
+For Analysis of particular algo see [COMPLEXITY](docs/complexity.md)
 
 ## Contribution Guide
 
