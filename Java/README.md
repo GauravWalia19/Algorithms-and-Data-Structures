@@ -41,7 +41,7 @@
 * MISC
   * Find the nth node from end in single linked list
     * APPROACH 1: [Compute the size while adding](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach1.java)
-    * APPROACH 2: Using two current pointers
+    * APPROACH 2: [Using two current pointers](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach2.java)
     * APPROACH 3: Using hashtable
     * APPROACH 4: Using Hashtable while adding
     * APPROACH 5: Finding node in one scan
