@@ -111,11 +111,6 @@ public class singleLinkedList
         }
         return current;
     }
-    //removing duplicates
-    // public void removeDuplicates()
-    // {
-    //     node current = head;
-    // }
     //method for searching in the list
     public boolean search(sample obj)
     {

@@ -24,21 +24,22 @@
 #### LISTS
 
 * SINGLE
-  * [Single Linked List](Data-Structures/LISTS/SINGLE/LinkedList.java)
-  * [Single Linked List using object data](Data-Structures/LISTS/Single-Linked-List/singleLinkedList.java)
+  * [Single Linked List](Data-Structures/LISTS/SINGLE/STANDARD/LinkedList.java)
+  * [Single Linked List using object data](Data-Structures/LISTS/SINGLE/Single-Using-Object/singleLinkedList.java)
 * DOUBLE
-  * [Double Linked List](Data-Structures/LISTS/DOUBLE/DoublyLinkedList.java)
-  * [Double Linked List using object data](Data-Structures/LISTS/Double-Linked-List/DoubleLinkedList.java)
+  * [Double Linked List](Data-Structures/LISTS/DOUBLE/STANDARD/DoublyLinkedList.java)
+  * [Double Linked List using object data](Data-Structures/LISTS/DOUBLE/Double-Using-Object/DoubleLinkedList.java)
 * CIRCULAR
-  * [Circular Linked List (using tail node)](Data-Structures/LISTS/CIRCULAR/CircularLinkedList.java)
+  * [Circular Linked List (using tail node)](Data-Structures/LISTS/CIRCULAR/STANDARD/CircularLinkedList.java)
 * MEMORY EFFICIENT DOUBLE LINKED LIST
 * UNROLLED LINKED LIST
 * SKIP LIST
 * INBUILT LISTS
   * [LINKED LIST]
-  * [ARRAYLIST](Data-Structures/LISTS/arrayList.java)
-  * [VECTORS](Data-Structures/LISTS/vectors.java)
+  * [ARRAYLIST](Data-Structures/LISTS/INBUILT/arrayList.java)
+  * [VECTORS](Data-Structures/LISTS/INBUILT/vectors.java)
 * MISC
+  * Find the nth node from the end
 
 #### STACKS
 
