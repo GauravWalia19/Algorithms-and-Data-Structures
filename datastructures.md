@@ -177,7 +177,7 @@ Indexer for Data Structures Lover
   
   * APPROACH 6: Using recursion
     * [JAVA](Java/Data-Structures/LISTS/MISC/Nth-node-from-end/Approach6.java)
-* complexity
+* [complexity](docs/complexity.md#find-the-nth-node-from-end-in-single-linked-list)
 
 ## :octocat: STACKS
 

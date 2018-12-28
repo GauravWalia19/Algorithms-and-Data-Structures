@@ -85,7 +85,8 @@ This page contains the complexities of different algorithms in this repository.
       * LINKED LIST
       * [ARRAYLISTS](#arraylists-(JAVA))
       * [VECTORS](#vectors-(C++JAVA))
-    * MISC
+    * [MISC LISTS](#misc-lists)
+      * [Find the nth node from end in single linked list](#find-the-nth-node-from-end-in-single-linked-list)
   * [STACKS](#stacks)
     * [FIXED ARRAY STACK](#fixed-array-stack)
     * [DYNAMIC ARRAY STACK](#dynamic-array-stack)
@@ -431,6 +432,19 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
+
+#### MISC LISTS
+
+##### Find the nth node from end in single linked list
+
+ SNo. | APPROACH | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Compute the size while adding | O(n) -- Linear | O(1) -- Constant
+ 2 | Using two current pointers | O(n^2) -- Quadratic | O(1) -- Constant
+ 3 | Using hashtable | O(n) -- Linear | O(n) -- Linear
+ 4 | Using Hashtable while adding | O(1) -- Constant | O(n) -- Linear
+ 5 | Finding node in one scan | O(n) -- Linear | O(1) -- Constant
+ 6 | Using recursion | O(n) -- Linear | O(n) -- Linear
 
 ### STACKS
 
