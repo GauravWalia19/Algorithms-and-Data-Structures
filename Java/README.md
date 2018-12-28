@@ -44,7 +44,7 @@
     * APPROACH 2: [Using two current pointers](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach2.java)
     * APPROACH 3: [Using hashtable](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach3.java)
     * APPROACH 4: [Using Hashtable while adding](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach4.java)
-    * APPROACH 5: Finding node in one scan
+    * APPROACH 5: [Finding node in one scan](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach5.java)
     * APPROACH 6: Using recursion
 
 #### STACKS
