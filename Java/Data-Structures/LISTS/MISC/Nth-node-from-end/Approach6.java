@@ -1,5 +1,5 @@
 import java.util.*;
-abstract class Approach5
+abstract class Approach6
 {
     /**
      * LINKED LIST CLASS
@@ -51,11 +51,24 @@ abstract class Approach5
         }
         
         private Node head;  //head of the linked list
+        private int size;   //size of the linked list
+        private int counter;
 
         //constructor for linked list
         public LinkedList()
         {
             head=null;
+            size=0;
+            counter=0;
+        }
+
+        /**
+         * getHead()
+         * @return the head node
+         **/
+        public Node getHead()
+        {
+            return head;
         }
 
         /**
@@ -75,6 +88,7 @@ abstract class Approach5
                 newNode.setNext(head);
                 head=newNode;
             }
+            size++;
         }
 
         /**
@@ -101,42 +115,29 @@ abstract class Approach5
 
         /*====================================================================*/
         /**
-         * APPROACH 5
-         * Finding in one scan of linked list
-         * take current pointer set to head
-         * traverse upto the nth node
-         * take current2 set it to null
-         * traverse current again upto null
-         * move current2 also
-         * when current is fully traversed current2 node will be printed
+         * APPROACH 6
+         * using recursion
+         * in backtracking count the nodes
+         * count equal to nthnode will be printed
          **/
-        public void printNthNodeFromLast(int num)
-        {   
-            Node current=head;
-            int i=0;
-            while(current!=null)    //first traversed half upto nth node
+        public void printNthNodeFromLast(Node current,int num)
+        {
+            if(num>size)
             {
-                if(num-1==i)
-                {
-                    break;
-                }
-                i++;
-                current=current.getNext();
+                System.out.println("OUT OF BOUND");
+                return;
             }
-            Node last=null;
-            while(current!=null)    //traversed upto end
+            if(current==null)
             {
-                if(last==null)
-                {
-                    last=head;
-                }
-                else
-                {
-                    last=last.getNext();
-                }
-                current=current.getNext();
+                return;
             }
-            System.out.println(last.getData());
+            printNthNodeFromLast(current.getNext(),num);
+            counter++;
+            if(counter==num)
+            {
+                System.out.println(current.getData());
+                return;
+            }
         }
         /*====================================================================*/
     }
@@ -149,14 +150,13 @@ abstract class Approach5
         ll.insert_at_head(4);
         ll.insert_at_head(2);
         ll.insert_at_head(5);
-        
         ll.printList();
         
         Scanner in = new Scanner(System.in);
         System.out.println("Enter the nth node from last");
         int n = in.nextInt();
 
-        ll.printNthNodeFromLast(n);
+        ll.printNthNodeFromLast(ll.getHead(), n);
         in.close();
     }
 }

@@ -45,7 +45,7 @@
     * APPROACH 3: [Using hashtable](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach3.java)
     * APPROACH 4: [Using Hashtable while adding](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach4.java)
     * APPROACH 5: [Finding node in one scan](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach5.java)
-    * APPROACH 6: Using recursion
+    * APPROACH 6: [Using recursion](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach6.java)
 
 #### STACKS
 
