@@ -39,7 +39,13 @@
   * [ARRAYLIST](Data-Structures/LISTS/INBUILT/arrayList.java)
   * [VECTORS](Data-Structures/LISTS/INBUILT/vectors.java)
 * MISC
-  * Find the nth node from the end
+  * Find the nth node from end in single linked list
+    * APPROACH 1: [Compute the size while adding](Data-Structures/LISTS/MISC/Nth-node-from-end/Approach1.java)
+    * APPROACH 2: Using two current pointers
+    * APPROACH 3: Using hashtable
+    * APPROACH 4: Using Hashtable while adding
+    * APPROACH 5: Finding node in one scan
+    * APPROACH 6: Using recursion
 
 #### STACKS
 
