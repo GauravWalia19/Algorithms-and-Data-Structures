@@ -88,6 +88,7 @@ Indexer for Data Structures Lover
 * blog
 * docs
 * implementation
+  * [C](C/Data-Structures/STRING/String.c)
   * [JAVA](Java/Data-Structures/STRING/Strings.java)
 * complexity
 

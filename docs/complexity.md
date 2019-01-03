@@ -65,9 +65,9 @@ This page contains the complexities of different algorithms in this repository.
       * [HEAPED 3D ARRAY](#dynamic-3d-arrays-(CC++))
       * [JAGGED ARRAY](#jagged-array)
   * [STRING](#string)
-    * Strings in C
+    * [Strings in C]
+    * [Strings in C++]
     * [Strings in JAVA](#strings-in-java)
-    * Strings in C++
   * [LISTS](#lists)
     * SINGLE
       * [SINGULAR LINKED LIST](#singular-linked-list-having-head-and-next)
