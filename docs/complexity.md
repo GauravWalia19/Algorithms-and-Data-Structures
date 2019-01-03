@@ -65,8 +65,8 @@ This page contains the complexities of different algorithms in this repository.
       * [HEAPED 3D ARRAY](#dynamic-3d-arrays-(CC++))
       * [JAGGED ARRAY](#jagged-array)
   * [STRING](#string)
-    * [Strings in C]
-    * [Strings in C++]
+    * [Strings in C](#strings-in-c)
+    * [Strings in C++](#strings-in-cpp)
     * [Strings in JAVA](#strings-in-java)
   * [LISTS](#lists)
     * SINGLE
@@ -332,6 +332,10 @@ This page contains the complexities of different algorithms in this repository.
 ##### ARRAY CLASS IN C++
 
 ### STRING
+
+#### Strings in C
+
+#### Strings in CPP
 
 #### Strings in JAVA
 

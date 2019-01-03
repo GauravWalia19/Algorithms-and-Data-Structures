@@ -89,6 +89,7 @@ Indexer for Data Structures Lover
 * docs
 * implementation
   * [C](C/Data-Structures/STRING/String.c)
+  * [C++](C++/Data-Structures/STRING/Strings.cpp)
   * [JAVA](Java/Data-Structures/STRING/Strings.java)
 * complexity
 
