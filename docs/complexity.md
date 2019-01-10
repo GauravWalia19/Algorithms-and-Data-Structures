@@ -76,8 +76,8 @@ This page contains the complexities of different algorithms in this repository.
       * [DOUBLE LINKED LIST](#double-linked-list-having-headtail-and-nextprev)
       * [HYBRID DOUBLE LINKED LIST](#hybrid-double-linked-list-having-headprev-and-next)
     * CIRCULAR
-      * [SINGLE CIRCULAR LINKED LIST](#circular-linked-list-having-tail/head-next-and-loop)
-      * DOUBLE CIRCULAR LINKED LIST
+      * [STANDARD CIRCULAR LINKED LIST](#standard-circular-linked-list)
+      * [CIRCULAR LINKED LIST VARIANT 1](#circular-linked-list-variant-1)
     * [MEMORY EFFICIENT DOUBLE LINKED LIST](#memory-efficient-(XOR)-double-linked-list)
     * [UNROLLED LINKED LIST](#unrolled-linked-list)
     * [SKIP LIST](#skip-list)
@@ -398,7 +398,9 @@ SNo. | Methods | Order of complexity O(n) | Type of Complexity
 
 #### CIRCULAR
 
-##### SINGLE CIRCULAR LINKED LIST (having tail/head ,next and loop)
+##### STANDARD CIRCULAR LINKED LIST
+
+(having tail ,next and loop)
 
 SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
  ---- | ---------- | -------------------------------------- | ----------------------------------
@@ -411,7 +413,22 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  6 | Linear search | O(n) -- Linear | O(1) -- Constant
  7 | Clear list | O(1) -- Constant | O(1) -- Constant
 
-##### DOUBLE CIRCULAR LINKED LIST (having tail/head,next,prev,loops)
+##### CIRCULAR LINKED LIST VARIANT 1
+
+(having head ,next and loop)
+
+SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Traversing a list (from left to right to head) | O(n) -- Linear | O(1) -- Constant
+ 2 | Insertion at Head | O(n) -- Linear | O(1) -- Constant
+ 3 | Insertion at Tail | O(n) -- Linear | O(1) -- Constant
+ 4 | Insertion at Middle | O(n) -- Linear | O(1) -- Constant
+ 4 | Deletion from Head | O(n) -- Linear | O(1) -- Constant
+ 5 | Deletion from Tail | O(n) -- Linear | O(1) -- Constant
+ 6 | Deletion from middle | O(n) -- Linear | O(1) -- Constant
+ 7 | Linear search | O(n) -- Linear | O(1) -- Constant
+ 8 | Clear list | O(1) -- Constant | O(1) -- Constant
+ 9 | Length of list | O(1) -- Constant | O(1) -- Constant
 
 #### MEMORY EFFICIENT (XOR) DOUBLE LINKED LIST
 

@@ -9,10 +9,15 @@ public class Main
         clist.addToHead(4);
         clist.PrintCircularListData();
         
+        clist.addToMiddle(99,10);
+        
+        clist.PrintCircularListData();
+        
         clist.addToTail(5);
         clist.addToTail(6);
         clist.addToTail(7);
         clist.addToTail(8);
+        clist.removeFromMiddle(1);
         clist.PrintCircularListData();
 
         clist.removeFromHead();

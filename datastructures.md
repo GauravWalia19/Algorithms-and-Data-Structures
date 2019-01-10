@@ -123,7 +123,9 @@ Indexer for Data Structures Lover
 * blog
 * docs
 * implementation
-  * [JAVA](Java/Data-Structures/LISTS/CIRCULAR/STANDARD/CircularLinkedList.java)
+  * JAVA
+    * [STANDARD](Java/Data-Structures/LISTS/CIRCULAR/STANDARD/CircularLinkedList.java)
+    * [Variant1: using head node](Java/Data-Structures/LISTS/CIRCULAR/variant1/CircularLinkedList.java)
 * complexity
 
 ### INBUILT LISTS

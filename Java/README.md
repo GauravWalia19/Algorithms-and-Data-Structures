@@ -31,6 +31,7 @@
   * [Double Linked List using object data](Data-Structures/LISTS/DOUBLE/Double-Using-Object/DoubleLinkedList.java)
 * CIRCULAR
   * [Circular Linked List (using tail node)](Data-Structures/LISTS/CIRCULAR/STANDARD/CircularLinkedList.java)
+  * [Circular Linked List (using head node)](Data-Structures/LISTS/CIRCULAR/variant1/CircularLinkedList.java)
 * MEMORY EFFICIENT DOUBLE LINKED LIST
 * UNROLLED LINKED LIST
 * SKIP LIST
