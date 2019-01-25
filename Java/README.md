@@ -53,6 +53,7 @@
 * FIXED ARRAY STACK
   * [FixedArray Stack](Data-Structures/STACKS/FIXED-ARRAY-STACK/ArrayStack.java)
 * DYNAMIC ARRAY STACK
+  * [Dynamic Array Stack](Data-Structures/STACKS/DYNAMIC-ARRAY-STACK/DynamicArrayStack.java)
 * LINKED STACK
   * [Linked Stack](Data-Structures/STACKS/LINKED-STACK/LinkedStack.java)
 * INBUILT STACKS

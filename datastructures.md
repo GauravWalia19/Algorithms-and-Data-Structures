@@ -196,6 +196,12 @@ Indexer for Data Structures Lover
 
 ### DYNAMIC ARRAY STACK
 
+* blog
+* docs
+* implementation
+  * [JAVA](Java/Data-Structures/STACKS/DYNAMIC-ARRAY-STACK/DynamicArrayStack.java)
+* complexity
+
 ### LINKED STACK
 
 * blog
