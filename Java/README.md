@@ -60,6 +60,7 @@
   * [Stack class](Data-Structures/STACKS/INBUILT-STACK/Stacks.java)
 * MISC STACKS
   * [Given expression have balanced brackets or not](Data-Structures/STACKS/MISC-STACKS/BracketsBalancedOrNot.java)
+  * [Infix Evaluation of mathematical expression](Data-Structures/STACKS/MISC-STACKS/InfixEvaluation.java)
 
 #### QUEUES
 

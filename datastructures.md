@@ -237,6 +237,14 @@ Indexer for Data Structures Lover
   * [JAVA](Java/Data-Structures/STACKS/MISC-STACKS/BracketsBalancedOrNot.java)
 * complexity
 
+#### Infix Evaluation
+
+* blog
+* docs
+* implementation
+  * [JAVA](Java/Data-Structures/STACKS/MISC-STACKS/InfixEvaluation.java)
+* complexity
+
 #### Postfix Evaluation
 
 * blog
