@@ -80,7 +80,7 @@ Indexer for Data Structures Lover
 * blog
 * docs
 * implementation
-  * [C](C/Data-Structures/ARRAYS/jaggedarray.c)
+  * [C](C/Data-Structures/ARRAYS/MISC/jaggedarray.c)
 * complexity
 
 ## :octocat: STRING
@@ -262,6 +262,76 @@ Indexer for Data Structures Lover
 * complexity
 
 ## :octocat: QUEUES
+
+### SIMPLE QUEUE
+
+#### FIXED ARRAY SIMPLE QUEUE
+
+* blog
+* docs
+* implementation
+  * [JAVA](Java/Data-Structures/QUEUES/SIMPLE-QUEUE/FixedArraySimpleQueue.java)
+* complexity
+
+#### DYNAMIC ARRAY SIMPLE QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
+
+#### LINKED SIMPLE QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
+
+### CIRCULAR QUEUE
+
+#### FIXED ARRAY CIRCULAR QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
+
+#### DYNAMIC ARRAY CIRCULAR QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
+
+#### LINKED CIRCULAR QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
+
+### PRIORITY QUEUE
+
+#### FIXED ARRAY PRIORITY QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
+
+#### LINKED PRIORITY QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
+
+#### HEAPED PRIORITY QUEUE
+
+* blog
+* docs
+* implementation
+* complexity
 
 ## :octocat: TREES
 
