@@ -64,7 +64,19 @@
 
 #### TREES
 
-* BINARY TREE
+##### BINARY TREE
+
+* Depth First Search
+  * IN ORDER
+    * ITERATIVE
+    * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/DFS/RecursiveInorder.c)
+  * PRE ORDER
+    * ITERATIVE
+    * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/DFS/RecursivePreorder.c)
+  * POST ORDER
+    * ITERATIVE
+    * [RECURSIVE](Data-Structures/TREES/BINARY-TREE/DFS/RecursivePostorder.c)
+
 * GENERIC TREES
 * THREADED BINARY TREE
 * XOR TREES

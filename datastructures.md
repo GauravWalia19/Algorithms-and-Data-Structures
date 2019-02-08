@@ -345,18 +345,21 @@ Indexer for Data Structures Lover
   * ITERATIVE
     * [JAVA](Java/Data-Structures/TREES/BINARY-TREE/IterativeInorder.java)
   * RECURSIVE
+    * [C](C/Data-Structures/TREES/BINARY-TREE/DFS/RecursiveInorder.c)
     * [JAVA](Java/Data-Structures/TREES/BINARY-TREE/Inorder.java)
 
 * PRE ORDER
   * ITERATIVE
     * [JAVA](Java/Data-Structures/TREES/BINARY-TREE/IterativePreorder.java)
   * RECURSIVE
+    * [C](C/Data-Structures/TREES/BINARY-TREE/DFS/RecursivePreorder.c)
     * [JAVA](Java/Data-Structures/TREES/BINARY-TREE/Preorder.java)
 
 * POST ORDER
   * ITERATIVE
     * [JAVA](Java/Data-Structures/TREES/BINARY-TREE/IterativePostorder.java)
   * RECURSIVE
+    * [C](C/Data-Structures/TREES/BINARY-TREE/DFS/RecursivePostorder.c)
     * [JAVA](Java/Data-Structures/TREES/BINARY-TREE/Postorder.java)
 
 ##### BREADTH FIRST SEARCH
