@@ -6,6 +6,10 @@
 
 ### :rocket: DATA STRUCTURES
 
+#### ARRAYS
+
+* [array](Data-Structures/ARRAYS/arrays.php)
+
 ### :rocket: DYNAMIC PROGRAMMING
 
 ### :rocket: MISC
