@@ -98,6 +98,11 @@
   * Breadth First Search
     * LEVEL ORDER
       * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/LevelOrder.java)
+* MISC
+  * Bottom View of a Tree
+    * [ITERATIVE](Data-Structures/TREES/BINARY-TREE/MISC/BottomView.java)
+
+##### BINARY SEARCH TREES
 
 #### GRAPHS
 

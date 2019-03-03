@@ -368,6 +368,16 @@ Indexer for Data Structures Lover
   * ITERATIVE
     * [JAVA](Java/Data-Structures/TREES/BINARY-TREE/LevelOrder.java)
 
+#### MISC
+
+##### BOTTOM VIEW OF A TREE
+
+* blog
+* docs
+* implementation
+  * [ITERATIVE](Java/Data-Structures/TREES/BINARY-TREE/MISC/BottomView.java)
+* [complexity](docs/complexity.md#binary-trees)
+
 ### GENERIC TREES
 
 ### THREADED BINARY TREE

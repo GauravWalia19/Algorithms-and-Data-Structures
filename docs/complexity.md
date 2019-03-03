@@ -579,6 +579,7 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
  2 | Pre Order Traversal | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :heavy_check_mark:
  3 | Post Order Traversal | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :heavy_check_mark:
  4 | Level Order Traversal | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :x:
+ 5 | Bottom View of a Tree | O(n) -- Linear | O(n) -- Linear | :heavy_check_mark: | :x:
 
 #### GENERIC TREES
 
