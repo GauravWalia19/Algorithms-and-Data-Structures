@@ -317,7 +317,8 @@ Indexer for Data Structures Lover
 * blog
 * docs
 * implementation
-* complexity
+  * [JAVA](Java/Data-Structures/QUEUES/PRIORITY-QUEUE/ArrayPriorQueue.java)
+* [complexity](docs/complexity.md#fixed-array-priority-queue)
 
 #### LINKED PRIORITY QUEUE
 

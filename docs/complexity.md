@@ -555,6 +555,14 @@ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of S
 
 ##### FIXED ARRAY PRIORITY QUEUE
 
+ SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
+ ---- | ---------- | -------------------------------------- | ----------------------------------
+ 1 | Insert element with priority | O(n) -- Linear | O(1) -- Constant
+ 2 | Delete element with highest priority | O(n) -- Constant | O(1) -- Constant
+ 3 | Print the queue | O(n) -- Linear | O(1) -- Constant
+ 4 | Size of the queue | O(1) -- Constant | O(1) -- Constant
+ 5 | Queue is Empty or not | O(1) -- Constant | O(1) -- Constant
+
 ##### LINKED PRIORITY QUEUE
 
  SNo. | Operations | Order and Type of Time Complexity O(n) | Order and Type of Space Complexity
