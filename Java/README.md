@@ -17,6 +17,10 @@
 * MISC
   * JAGGED ARRAY
   * [SPIRAL ORDER MATRIX](Data-Structures/ARRAYS/MISC/spiralOrder.java)
+  * Rotate 1D array to left by K
+    * APPROACH 1: [rotate array using temp array](Data-Structures/ARRAYS/MISC/ArrayRotation1.java)
+    * APPROACH 2: [rotate array by rotating one element](Data-Structures/ARRAYS/MISC/ArrayRotation2.java)
+    * APPROACH 3: [rotate array using Juggling Algorithm](Data-Structures/ARRAYS/MISC/jugglingAlgo.java)
 
 #### STRING
 

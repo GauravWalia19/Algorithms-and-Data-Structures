@@ -6,8 +6,7 @@ Indexer for Data Structures Lover
 
 ### 1 DIMENSIONAL
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/ARRAYS/1darrays.c)
   * [C++](C++/Data-Structures/ARRAYS/1darrays.cpp)
@@ -20,8 +19,7 @@ Indexer for Data Structures Lover
 
 ### 2 DIMENSIONAL
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/ARRAYS/2darrays.c)
   * [C++](C++/Data-Structures/ARRAYS/2darrays.cpp)
@@ -34,8 +32,7 @@ Indexer for Data Structures Lover
 
 ### 3 DIMENSIONAL
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/ARRAYS/3darrays.c)
   * [C++](C++/Data-Structures/ARRAYS/3darrays.cpp)
@@ -48,8 +45,7 @@ Indexer for Data Structures Lover
 
 ### 4 DIMENSIONAL
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/ARRAYS/4darrays.c)
   * [C++](C++/Data-Structures/ARRAYS/4darrays.cpp)
@@ -60,16 +56,14 @@ Indexer for Data Structures Lover
 
 #### ARRAYS CLASS(JAVA)
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/ARRAYS/INBUILT/arrays.java)
 * complexity
 
 #### ARRAY CLASS(C++)
 
-* blog
-* docs
+* blog/docs
 * array class in c++
 * complexity
 
@@ -77,8 +71,7 @@ Indexer for Data Structures Lover
 
 #### JAGGED
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/ARRAYS/MISC/jaggedarray.c)
 * complexity
@@ -90,10 +83,21 @@ Indexer for Data Structures Lover
   * [JAVA](Java/Data-Structures/ARRAYS/MISC/spiralOrder.java)
 * complexity
 
+#### Rotate 1 D Array to left by K
+
+* blog/docs
+* implementation
+  * APPROACH 1: Rotate array using temp array
+    * [JAVA](Java/Data-Structures/ARRAYS/MISC/ArrayRotation1.java)
+  * APPROACH 2: Rotate array using single element
+    * [JAVA](Java/Data-Structures/ARRAYS/MISC/ArrayRotation2.java)
+  * APPROACH 3: Rotate array using Juggling Algorithm
+    * [JAVA](Java/Data-Structures/ARRAYS/MISC/jugglingAlgo.java)
+* complexity
+
 ## :octocat: STRING
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/STRING/String.c)
   * [C++](C++/Data-Structures/STRING/Strings.cpp)
@@ -104,8 +108,7 @@ Indexer for Data Structures Lover
 
 ### SINGLE
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/LINKED-LIST/SINGLE/Main.c)
   * [C++](C++/Data-Structures/LISTS/LINKED-LIST/SINGLE/Main.cpp)
@@ -116,8 +119,7 @@ Indexer for Data Structures Lover
 
 ### DOUBLE
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/LINKED-LIST/DOUBLE/Main.c)
   * JAVA
@@ -127,8 +129,7 @@ Indexer for Data Structures Lover
 
 ### CIRCULAR
 
-* blog
-* docs
+* blog/docs
 * implementation
   * JAVA
     * [STANDARD](Java/Data-Structures/LISTS/CIRCULAR/STANDARD/CircularLinkedList.java)
@@ -139,16 +140,14 @@ Indexer for Data Structures Lover
 
 #### ARRAYLIST
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/LISTS/INBUILT/arrayList.java)
 * complexity
 
 #### VECTOR
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C++](C++/Data-Structures/LISTS/VECTORS/Main.cpp)
   * [JAVA](Java/Data-Structures/LISTS/INBUILT/vectors.java)
@@ -158,8 +157,7 @@ Indexer for Data Structures Lover
 
 #### LIST PY
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [PYTHON](Python3/Data-Structures/LISTS/inbuiltList.py)
 * complexity
@@ -168,8 +166,7 @@ Indexer for Data Structures Lover
 
 #### Find the nth node from end in single linked list
 
-* blog
-* docs
+* blog/docs
 * implementation
   * APPROACH 1: Compute the size while adding
     * [JAVA](Java/Data-Structures/LISTS/MISC/Nth-node-from-end/Approach1.java)
@@ -194,8 +191,7 @@ Indexer for Data Structures Lover
 
 ### FIXED ARRAY STACK
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/Stack.hpp)
   * [JAVA](Java/Data-Structures/STACKS/FIXED-ARRAY-STACK/ArrayStack.java)
@@ -203,24 +199,21 @@ Indexer for Data Structures Lover
 
 ### DYNAMIC ARRAY STACK
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/STACKS/DYNAMIC-ARRAY-STACK/DynamicArrayStack.java)
 * complexity
 
 ### LINKED STACK
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/STACKS/LINKED-STACK/LinkedStack.java)
 * complexity
 
 ### INBUILT STACKS
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/stack.cpp)
   * [JAVA](Java/Data-Structures/STACKS/INBUILT-STACK/Stacks.java)
@@ -230,40 +223,35 @@ Indexer for Data Structures Lover
 
 #### Minimum bracket reversal for making brackets balanced
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/STACKS/MISC-STACKS/minimum_bracket_reversal_for_balanced_expression.c)
 * complexity
 
 #### Given expression has balanced brackets or not
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/STACKS/MISC-STACKS/BracketsBalancedOrNot.java)
 * complexity
 
 #### Infix Evaluation
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/STACKS/MISC-STACKS/InfixEvaluation.java)
 * complexity
 
 #### Postfix Evaluation
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C](C/Data-Structures/STACKS/MISC-STACKS/postfix_evaluation.c)
 * complexity
 
 #### TWO WAY STACK
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [C++](C++/Data-Structures/STACKS/Tstack.hpp)
 * complexity
@@ -274,23 +262,20 @@ Indexer for Data Structures Lover
 
 #### FIXED ARRAY SIMPLE QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/QUEUES/SIMPLE-QUEUE/FixedArraySimpleQueue.java)
 * complexity
 
 #### DYNAMIC ARRAY SIMPLE QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
 * complexity
 
 #### LINKED SIMPLE QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
 * complexity
 
@@ -298,22 +283,19 @@ Indexer for Data Structures Lover
 
 #### FIXED ARRAY CIRCULAR QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
 * complexity
 
 #### DYNAMIC ARRAY CIRCULAR QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
 * complexity
 
 #### LINKED CIRCULAR QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
 * complexity
 
@@ -321,23 +303,20 @@ Indexer for Data Structures Lover
 
 #### FIXED ARRAY PRIORITY QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [JAVA](Java/Data-Structures/QUEUES/PRIORITY-QUEUE/ArrayPriorQueue.java)
 * [complexity](docs/complexity.md#fixed-array-priority-queue)
 
 #### LINKED PRIORITY QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
 * complexity
 
 #### HEAPED PRIORITY QUEUE
 
-* blog
-* docs
+* blog/docs
 * implementation
 * complexity
 
@@ -380,8 +359,7 @@ Indexer for Data Structures Lover
 
 ##### BOTTOM VIEW OF A TREE
 
-* blog
-* docs
+* blog/docs
 * implementation
   * [ITERATIVE](Java/Data-Structures/TREES/BINARY-TREE/MISC/BottomView.java)
 * [complexity](docs/complexity.md#binary-trees)
