@@ -16,6 +16,7 @@
   * [ARRAYS CLASS](Data-Structures/ARRAYS/INBUILT/arrays.java)
 * MISC
   * JAGGED ARRAY
+  * [SPIRAL ORDER MATRIX](Data-Structures/ARRAYS/MISC/spiralOrder.java)
 
 #### STRING
 

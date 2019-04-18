@@ -83,6 +83,13 @@ Indexer for Data Structures Lover
   * [C](C/Data-Structures/ARRAYS/MISC/jaggedarray.c)
 * complexity
 
+#### SPIRAL ORDER MATRIX
+
+* blog/docs
+* implementation
+  * [JAVA](Java/Data-Structures/ARRAYS/MISC/spiralOrder.java)
+* complexity
+
 ## :octocat: STRING
 
 * blog
