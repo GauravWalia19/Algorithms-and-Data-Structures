@@ -1,0 +1,36 @@
+// { Driver Code Starts
+#include<bits/stdc++.h> 
+using namespace std; 
+
+ // } Driver Code Ends
+
+
+class Solution{   
+public:
+    int checkPower(int n){
+        // code here 
+        if(n==1){return 1;}
+        for(int i=2;i<=sqrt(n);i++){
+            if(ceil(log(n)/log(i))==floor(log(n)/log(i))){
+               // cout<<i<<endl;
+                return 1;
+            }
+        }
+        return 0;
+    }
+};
+
+// { Driver Code Starts.
+int main() 
+{ 
+    int t;
+    cin>>t;
+    while(t--)
+    {
+        int N;
+        cin >> N;
+        Solution ob;
+        cout << ob.checkPower(N) << endl;
+    }
+    return 0; 
+}   // } Driver Code Ends
